@@ -1,0 +1,10 @@
+.btn {
+    background: #fd7e14;
+}
+ .offers-tablinks.active, .offers-tablinks:hover {
+    color:#fd7e14;
+}
+
+.offers-tablinks:before {
+    background-color: #fd7e14;
+}
