@@ -612,8 +612,8 @@ p.small-text {
     padding-left: 12px;
     display: block}
 .button--clear:hover {
-    background: #005ed7;
-    border-color: #005ed7;
+    background: #fd7e14;
+    border-color: #fd7e14;
     color: #fff}
 .button--clear:hover [class*=" isoi-"],.button--clear:hover [class^=isoi-] {
     color: #fff}
@@ -640,8 +640,8 @@ p.small-text {
 .icon-arrow--blue:before {
     background-image: url(../img/icons/arrow-small-blue.html)}
 .button--blue {
-    color: #0072f6;
-    border: 2px solid #0072f6}
+    color: #fd7e14;
+    border: 2px solid #fd7e14;}
 .button--blue:hover .icon-arrow:before {
     background-image: url(../img/icons/arrow-small-white.html)}
 .button--white {
@@ -685,8 +685,8 @@ p.small-text {
 .button--white:hover [class*=" isoi-"],.button--white:hover [class^=isoi-] {
     color: #fff}
 .button--white:active {
-    background: #323232;
-    border-color: #323232;
+    background: #fd7e14;
+    border-color: #fd7e14;
     color: #fff}
 .button--white:active [class*=" isoi-"],.button--white:active [class^=isoi-] {
     color: #fff}
@@ -3970,8 +3970,8 @@ body.pages-contacts .static {
     padding: 20px;
     padding-top: 60px}
 .nav-mobile .nav__logo--mobile .logo {
-    background-image: url(img/logo-blue.svg);
-    background-size: cover;
+    background-image: url(img/logo.png);
+    background-size: contain;
     background-position: 50%;
     background-repeat: no-repeat;
     display: block;
@@ -6150,7 +6150,7 @@ a:hover {
     display: block}
 .btn:hover {
     background: #005ed7;
-    border-color: #005ed7;
+    border-color: #fd7e14;
     color: #fff}
 .btn:hover [class*=" isoi-"],.btn:hover [class^=isoi-] {
     color: #fff}
@@ -6474,7 +6474,7 @@ to {
 }
 a.all-link {
     margin: 0 auto;
-    color: #0072f6;
+    color: #fd7e14;
     -js-display: flex;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -6495,7 +6495,7 @@ a.all-link {
     border: none;
     white-space: nowrap}
 a.all-link:hover {
-    color: #005ed7}
+    color: #fd7e14;}
 a.all-link:hover i {
     -webkit-transform: translateX(12px);
     -ms-transform: translateX(12px);
@@ -7266,7 +7266,7 @@ canvas {
     -webkit-transition-delay: .5s;
     transition-delay: .5s}
 .offers-tabcontent .tabcontent-item:hover {
-    background-color: rgba(20,118,242,.8)}
+    background-color: #fd7e14;}
 .offers-tabcontent .tabcontent-item:hover .offer-content-title {
     color: #fff}
 .offers-tabcontent .tabcontent-item:hover .offer-content-description {
@@ -7383,7 +7383,7 @@ canvas {
 }
 .offices-slider .offices-slider__item .offices-slider__content .offices-slider__overlay {
     opacity: 0;
-    background-color: rgba(20,118,242,.8);
+    background-color:#fd7e149c;
     position: absolute;
     top: 0;
     left: 0;
