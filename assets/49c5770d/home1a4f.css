@@ -7016,7 +7016,9 @@ canvas {
     width: 100%;
     max-width: 930px;
     margin-bottom: 70px;
-    overflow: hidden}
+    overflow: hidden;
+    justify-content: center;
+}
 .offers-tablinks {
     position: relative;
     -webkit-box-flex: 0;
