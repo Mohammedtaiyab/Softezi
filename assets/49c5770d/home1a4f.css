@@ -1862,7 +1862,7 @@ p.small-text {
     width: 50%}
 @media screen and (max-width: 767px) {
     .form__box .form-group {
-    width: 100%}
+    width: 300px;}
 }
 .form__box--contact-page {
     -webkit-box-orient: vertical;
@@ -2691,6 +2691,7 @@ body.pages-contacts .static {
     position: relative}
 }
 .form-wrap__flexbox {
+    padding: 1em;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
@@ -3557,7 +3558,8 @@ body.pages-contacts .static {
 .nav__list {
     height: 100%;
     text-align: right;
-    font-size: 0}
+    font-size: 0;
+    margin-right: 140px;}
 .nav__list .menu-item {
     display: inline-block;
     line-height: 75px}

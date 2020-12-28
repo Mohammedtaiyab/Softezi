@@ -67,7 +67,17 @@
     /*background-image: url(img/logo-blue.svg);*/
     background-size: contain;
   }
+  .form-group{
+    width: inherit;
+  }
+  @media screen and (max-width: 767px){
+.form__box .form-group {
+    /* width: 100%; */
+    width: 300px;
+}
+}
     </style>
+  
 <meta name="csrf-param" content="_csrf-app-net">
 <meta name="csrf-token" content="FmZpen-vpI3-UDgvV3lUmbFIFegfxWAP9rUBy_rujkthB2XjecDtXoeHU2HsIqeBWIUmIE6JV3KvpGkpQeaFHg==">
 <meta property="og:title" content="Software Development Company | Intellectsoft US">
@@ -87,6 +97,7 @@
 <meta name="twitter:domain" content="Intellectsoft US">
 <meta name="twitter:card" content="summary">
 <meta name="description" content="Intellectsoft is a full-service software development company of engineers, designers, and developers. Mobile app development and custom software solutions in USA, Palo Alto">
+<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous"> -->
 <link href="index.html" rel="canonical">
 <link href="index.html" rel="alternate" hreflang="en-US">
 <link href="https://www.intellectsoft.co.uk/" rel="alternate" hreflang="en-GB">
@@ -947,88 +958,98 @@ All Case Studies<i class="isoi-angle-right"></i>
 </div>
 </div>
 </section>
-<section id="contact-section" class="form-wrap form-wrap--contact section">
+<section class="blog">
 <div class="container">
-<div class="contact-section">
-<div class="contact-about-wrap">
-<h2 class="contact-about-header">Tell us about your project</h2>
-<div class="contact-about-stats">
-<div class="stat-item">
-<div class="stat-num">13</div>
-<span class="stat-desc">Years in operation</span>
+<h2 class="title title--black">
+LATEST NEWS AND INSIGHTS</h2>
+<a href="" class="all-link">All Posts<i class="isoi-angle-right"></i>
+</a>
+<div id="insightsPosts"></div> </div>
+</section>
+<section class="offices">
+<div class="container">
+<div class="offices__title">
+<div>Our Offices</div>
+<p>Intellectsoft operates in multiple offices and development centers across the globe. Reach out to us for software development services in your region.</p>
 </div>
-<div class="stat-item">
-<div class="stat-num">500</div>
-<span class="stat-desc">Loyal Clients</span>
-</div>
-<div class="stat-item">
-<div class="stat-num">6</div>
-<span class="stat-desc">Offices globally</span>
-</div>
-</div>
-<div class="ranking-form">
-<div class="ranking-form__title">Awards & Recognition</div>
-<div class="owl-carousel" id="formRanking">
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/itfirms.png" alt="IT Firms Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/clutch.png" alt="Clutch Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/inc_5000.png" alt="INC 5000 Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/business-of-apps.png" alt="Business of apps Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/iso.svg" alt="ISO">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/app-futura.png" alt="App futura Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/iaop.png" alt="TOP 100 Outsourcing Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/top-design-firms.png" alt="TOP design firms Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/good-firms.png" alt="Good firms Award">
-</div>
-<div class="ranking-form__item item">
-<img class="owl-lazy" data-src="/assets/49c5770d/img/form-ratings/clutch-global.png" alt="Clutch global Award">
+<div id="officesSlider" class="offices-slider owl-carousel">
+<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/usa-palo-alto.jpg">
+<div class="offices-slider__content">
+<div class="offices-slider__overlay"></div>
+<div class="offices-slider__text">
+<div class="offices-slider__city">USA<br>SILICON VALLEY</div>
+<div class="offices-slider__address">
+<p>+1 (650) 300 4335</p>
+<p><a href="mailto:"></a></p>
 </div>
 </div>
-</div> </div>
+</div>
+</div>
+<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/ukraine-kyiv.jpg">
+<div class="offices-slider__content">
+<div class="offices-slider__overlay"></div>
+<div class="offices-slider__text">
+<div class="offices-slider__city">UKRAINE<br>KYIV</div>
+<div class="offices-slider__address">
+<p>+380 (44) 332-24-36</p>
+<p><a href="mailto:"></a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/london-uk.jpg">
+<div class="offices-slider__content">
+<div class="offices-slider__overlay"></div>
+<div class="offices-slider__text">
+<div class="offices-slider__city">UNITED KINGDOM<br>LONDON</div>
+<div class="offices-slider__address">
+<p>+44 20 3887 0078</p>
+<p><a href="mailto:"></a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/oslo-norway.jpg">
+<div class="offices-slider__content">
+<div class="offices-slider__overlay"></div>
+<div class="offices-slider__text">
+<div class="offices-slider__city">NORWAY<br>OSLO</div>
+<div class="offices-slider__address">
+<p>+47 21 08 18 50</p>
+<p><a href="mailto:"></a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/usa-ny.jpg">
+<div class="offices-slider__content">
+<div class="offices-slider__overlay"></div>
+<div class="offices-slider__text">
+<div class="offices-slider__city">USA<br>NEW YORK</div>
+<div class="offices-slider__address">
+<p>+1 (855) TOP DEVS</p>
+<p><a href="mailto:"></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer">
+<div class="footer__flexbox">
 <div id="form-wrap" class="form-wrap__flexbox">
-<form id="form-contacts" class="form form--contact form--contact--rating" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="//traccoon.intellectsoft.net/forms/intellectsoft/contacts">
-<div class="form-group form__appearance">
-<select class="form__select" name="interest">
-<option value="">I am interested in</option>
-<optgroup label="Services">
-<option value="Mobile App Development">Mobile App Development</option>
-<option value="Enterprise Software Development">Enterprise Software Development</option>
-<option value="Web Development">Web Development</option>
-<option value="Dedicated Teams">Dedicated Teams</option>
-<option value="IT Consulting">IT Consulting</option>
-<option value="Other">Other</option>
-</optgroup>
-<optgroup label="Technologies">
-<option value="Internet of Things">Internet of Things</option>
-<option value="Blockchain">Blockchain</option>
-<option value="Augmented Reality">Augmented Reality</option>
-<option value="Artificial Intelligence">Artificial Intelligence</option>
-<option value="Cloud Computing">Cloud Computing</option>
-<option value="UX / UI Design">UX / UI Design</option>
-</optgroup>
-</select> </div>
+<form id="form-contacts" class="form form--contact form--contact--rating" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
+<!--  -->
+<div class="form__box" data-style="display: flex;">
 <div class="form-group">
 <input type="text" class="form-control" name="email" maxlength="255" placeholder="Email">
 </div>
 <div class="form-group">
 <input type="text" class="form-control" name="phone" maxlength="50" placeholder="Work Phone">
 </div>
+</div>
+<div class="form__box" data-style="display: flex;">
 <div class="form-group">
 <input type="text" class="form-control" name="company" maxlength="255" placeholder="Company">
 </div>
@@ -1279,161 +1300,60 @@ All Case Studies<i class="isoi-angle-right"></i>
 <option value="Zambia">Zambia</option>
 <option value="Zimbabwe">Zimbabwe</option>
 </select> </div>
+</div>
 <div class="form__box" data-style="display: flex;">
 <div class="form-group">
 <input type="text" class="form-control" name="name" maxlength="255" placeholder="First Name">
 </div>
+
 <div class="form-group">
 <input type="text" class="form-control" name="last_name" maxlength="255" placeholder="Last Name">
 </div>
 </div>
+  <div class="form-group form__appearance">
+<select class="form__select" name="interest">
+<option value="">I am interested in</option>
+<optgroup label="Services">
+<option value="Mobile App Development">Mobile App Development</option>
+<option value="Enterprise Software Development">Enterprise Software Development</option>
+<option value="Web Development">Web Development</option>
+<option value="Dedicated Teams">Dedicated Teams</option>
+<option value="IT Consulting">IT Consulting</option>
+<option value="Other">Other</option>
+</optgroup>
+<optgroup label="Technologies">
+<option value="Internet of Things">Internet of Things</option>
+<option value="Blockchain">Blockchain</option>
+<option value="Augmented Reality">Augmented Reality</option>
+<option value="Artificial Intelligence">Artificial Intelligence</option>
+<option value="Cloud Computing">Cloud Computing</option>
+<option value="UX / UI Design">UX / UI Design</option>
+</optgroup>
+</select> </div>
+
 <div class="form-group form-group--description">
 <textarea class="form__textarea" name="description" maxlength="65535" placeholder="Project description"></textarea>
 </div>
-<div class="form__footer form__footer--rating">
-<div class="form-group no-validation-icon">
-<input type="hidden" name="send_nda" value="0">
-<input type="checkbox" id="send_nda" class="form__checkbox" name="send_nda" value="0">
-<label class="form__checkbox-label" for="send_nda">Send NDA</label>
-</div>
-<div class="form-group upload-wrapper js-emptyFiles">
-<input type="file" id="attach" name="attach" data-label="Attach file">
-<button class="clear-attach">x</button>
-<label class="upload__label upload__label--white" for="attach">
-<span class="uploaded__text">
-<i class="isoi-paper-clip"></i>Attach file </span>
-</label>
-</div>
-</div>
-<input type="hidden" id="check-browse" class="check-browse" name="check_ad_block">
 <button class="form__submit form__submit--contact button--white-green">
 Talk to our team </button>
-<div class="form-group privacy__text">
-By sending this form I confirm that I have read and accept Intellectsoft <a href="privacy-policy.html">Privacy Policy</a>
-</div>
-<p class="contact__error">Something went wrong. Send form again, please.</p>
-<div class="form-spinner">
-<div class="rect1"></div>
-<div class="rect2"></div>
-<div class="rect3"></div>
-<div class="rect4"></div>
-<div class="rect5"></div>
-</div>
+
+
+
+
 </form>
-<div class="js-thx thank thank--border-none text-white">
-<div class="thank__content thank__content--blue">
-<h3 class="thank__title thank__title--big">Thank you for your message!</h3>
-<p class="thank__text">We will get in touch with you regarding your request within one business day.</p>
-<a id="clearStorage" href="#" class="button button--primary">Send again</a>
+
 </div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="blog">
-<div class="container">
-<h2 class="title title--black">
-LATEST NEWS AND INSIGHTS</h2>
-<a href="" class="all-link">All Posts<i class="isoi-angle-right"></i>
-</a>
-<div id="insightsPosts"></div> </div>
-</section>
-<section class="offices">
-<div class="container">
-<div class="offices__title">
-<div>Our Offices</div>
-<p>Intellectsoft operates in multiple offices and development centers across the globe. Reach out to us for software development services in your region.</p>
-</div>
-<div id="officesSlider" class="offices-slider owl-carousel">
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/usa-palo-alto.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">USA<br>SILICON VALLEY</div>
-<div class="offices-slider__address">
-<p>+1 (650) 300 4335</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/ukraine-kyiv.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">UKRAINE<br>KYIV</div>
-<div class="offices-slider__address">
-<p>+380 (44) 332-24-36</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/london-uk.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">UNITED KINGDOM<br>LONDON</div>
-<div class="offices-slider__address">
-<p>+44 20 3887 0078</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/oslo-norway.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">NORWAY<br>OSLO</div>
-<div class="offices-slider__address">
-<p>+47 21 08 18 50</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/usa-ny.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">USA<br>NEW YORK</div>
-<div class="offices-slider__address">
-<p>+1 (855) TOP DEVS</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<footer class="footer">
-<div class="footer__flexbox">
-<ul class="footer__menu"><li class="has-dropdown"><a href="">Services</a>
-<ul class="sub-menu">
-<li><a href="">Dedicated Teams</a></li>
-<li><a href="">Product Strategy</a></li>
-<li><a href="">Product Engineering</a></li>
-<li><a href="">Architecture</a></li>
-<li><a href="">UX / UI Design</a></li>
-<li><a href="">App Developers</a></li>
-<li><a href="">QA &amp; Testing</a></li>
-<li><a href="">Cyber Security</a></li>
-<li><a href="">Web Development</a></li>
-<li><a href="">Custom Software Development</a></li>
-</ul>
-</li>
-<li class="has-dropdown"><a href="">Technologies</a>
-<ul class="sub-menu">
-<li><a href="">Internet of Things</a></li>
-<li><a href="">Blockchain</a></li>
-<li><a href="">Augmented Reality</a></li>
-<li><a href="">Cloud Computing</a></li>
-<li><a href="">Artificial Intelligence</a></li>
-</ul>
-</li>
+
+
+
+
+
+
+
+
+
+
+<ul class="footer__menu">
 <li class="has-dropdown"><a href="">Platforms</a>
 <ul class="sub-menu">
 <li><a href="">iOS</a></li>
