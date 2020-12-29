@@ -3558,8 +3558,7 @@ body.pages-contacts .static {
 .nav__list {
     height: 100%;
     text-align: right;
-    font-size: 0;
-    margin-right: 140px;}
+    font-size: 0;}
 .nav__list .menu-item {
     display: inline-block;
     line-height: 75px}
@@ -3933,7 +3932,7 @@ body.pages-contacts .static {
     left: 20px}
 }
 .logo {
-    background-image: url(img/logo-blue.svg);
+    background-image: url(img/logo.png);
     background-size: contain;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -5442,7 +5441,7 @@ to {
     text-transform: uppercase;
     margin-bottom: 10px}
 .title__preheader--tag {
-    background-color: rgba(0,114,246,.8);
+    background-color: #fd7e14;
     font-size: 13px;
     font-weight: 500;
     opacity: 1;
