@@ -343,7 +343,7 @@ blockquote em {
 .content-icon.isoi-bullet-blue {
 	width: 5px;
 	height: 5px;
-	background: #1476f2
+	background: #fd7e14
 }
 
 @media screen and (max-width:768px) {
@@ -392,7 +392,7 @@ p.small-text {
 }
 
 .blue-color {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .gray-color {
@@ -1550,7 +1550,7 @@ h3~p {
 }
 
 .blog-feed__item.blog-feed__item--news:hover .blog-feed__title--news {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .blog-feed__content {
@@ -2230,7 +2230,7 @@ h3~p {
 .blog__link--more {
 	font-size: 13px;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	bottom: 10px;
 	-js-display: flex;
 	display: -webkit-box;
@@ -2446,7 +2446,7 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
@@ -2463,7 +2463,7 @@ h3~p {
 .button [class*=" isoi-"],
 .button [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -2507,14 +2507,14 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
 	white-space: nowrap;
 	background: 0 0;
-	border: 2px solid #1476f2
+	border: 2px solid #fd7e14
 }
 
 @media screen and (max-width:575px) {
@@ -2526,7 +2526,7 @@ h3~p {
 .button--clear [class*=" isoi-"],
 .button--clear [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -2603,7 +2603,7 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -2622,7 +2622,7 @@ h3~p {
 .button--white [class*=" isoi-"],
 .button--white [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -2668,7 +2668,7 @@ h3~p {
 .button--white:active,
 .button--white:hover,
 .button--white:hover i {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .button--white i[class^=isoi-] {
@@ -2677,7 +2677,7 @@ h3~p {
 
 .button--white:active i[class^=isoi-],
 .button--white:hover i[class^=isoi-] {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .card__button.button i[class^=isoi-] {
@@ -2701,7 +2701,7 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -2720,7 +2720,7 @@ h3~p {
 .button--white-gray [class*=" isoi-"],
 .button--white-gray [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -2784,7 +2784,7 @@ h3~p {
 	font-size: 13px;
 	padding: 20px;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -2809,7 +2809,7 @@ h3~p {
 .button--white-green [class*=" isoi-"],
 .button--white-green [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -2913,14 +2913,14 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
 	white-space: nowrap;
 	background: 0 0;
-	border: 2px solid #1476f2
+	border: 2px solid #fd7e14
 }
 
 @media screen and (max-width:575px) {
@@ -2932,7 +2932,7 @@ h3~p {
 .button--blue-not-filled [class*=" isoi-"],
 .button--blue-not-filled [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -3210,7 +3210,7 @@ h3~p {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	bottom: 10px;
 	position: absolute;
@@ -6809,7 +6809,7 @@ body.cases-transplant-hero header:before {
 	left: 0;
 	width: 5px;
 	height: 5px;
-	background: #1476f2;
+	background: #fd7e14;
 	margin: 0 auto
 }
 
@@ -7785,7 +7785,7 @@ body.cases-transplant-hero header:before {
 
 .footer__email {
 	position: relative;
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 14px;
 	font-weight: 600
 }
@@ -7797,7 +7797,7 @@ body.cases-transplant-hero header:before {
 	display: block;
 	height: 1px;
 	width: 100%;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	transition: transform .45s cubic-bezier(.835, -.005, .06, 1), -webkit-transform .45s cubic-bezier(.835, -.005, .06, 1);
 	-webkit-transform-origin: right;
 	-ms-transform-origin: right;
@@ -8075,7 +8075,7 @@ body.cases-transplant-hero header:before {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
@@ -8094,7 +8094,7 @@ body.cases-transplant-hero header:before {
 .form__submit [class*=" isoi-"],
 .form__submit [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -8145,7 +8145,7 @@ body.cases-transplant-hero header:before {
 	font-size: 13px;
 	padding: 20px;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -8177,7 +8177,7 @@ body.cases-transplant-hero header:before {
 .form__submit--contact [class*=" isoi-"],
 .form__submit--contact [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -8300,7 +8300,7 @@ body.cases-transplant-hero header:before {
 	background: 0 0;
 	top: 4px;
 	left: 4px;
-	border: 2px solid #1476f2;
+	border: 2px solid #fd7e14;
 	border-top: none;
 	border-right: none;
 	-webkit-transform: rotate(-45deg);
@@ -8498,7 +8498,7 @@ body.cases-transplant-hero header:before {
 	left: -15px;
 	padding: 0;
 	border: none;
-	color: #1476f2;
+	color: #fd7e14;
 	width: 20px;
 	background-color: transparent
 }
@@ -9434,8 +9434,8 @@ body.pages-contacts .static {
 .contact-section .form-wrap__flexbox .form__footer .form__checkbox-label:after {
 	top: 8px;
 	left: 6px;
-	border-left: 2px solid #1476f2;
-	border-bottom: 2px solid #1476f2
+	border-left: 2px solid #fd7e14;
+	border-bottom: 2px solid #fd7e14
 }
 
 .contact-section .form-wrap__flexbox .form__footer .upload-wrapper {
@@ -9459,7 +9459,7 @@ body.pages-contacts .static {
 	height: 25px;
 	font-size: 15px;
 	line-height: 1.67;
-	color: #1476f2;
+	color: #fd7e14;
 	border: none
 }
 
@@ -9502,7 +9502,7 @@ body.pages-contacts .static {
 	left: -20px;
 	padding: 0;
 	border: none;
-	color: #1476f2;
+	color: #fd7e14;
 	width: 20px;
 	background-color: transparent
 }
@@ -9512,7 +9512,7 @@ body.pages-contacts .static {
 	height: 25px;
 	font-size: 15px;
 	line-height: 1.67;
-	color: #1476f2;
+	color: #fd7e14;
 	border: none;
 	cursor: pointer
 }
@@ -10227,7 +10227,7 @@ body.pages-contacts .static {
 }
 
 .financial-industry__content--left>div.active h3 {
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (min-width:1025px) {
@@ -10342,7 +10342,7 @@ body.pages-contacts .static {
 	width: 5px;
 	height: 5px;
 	border-radius: 50%;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	top: 10px;
 	left: 0
 }
@@ -10379,7 +10379,7 @@ body.pages-contacts .static {
 }
 
 .financial-industry__content--left h3:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:991px) {
@@ -11950,7 +11950,7 @@ body.solutions-financial-software-development-services .healthcare-workshop__ani
 	display: flex;
 	margin-bottom: 20px;
 	border-radius: 5px;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-box-shadow: 0 10px 25px 0 rgba(50, 50, 50, .4);
 	box-shadow: 0 10px 25px 0 rgba(50, 50, 50, .4);
 	overflow: hidden
@@ -12314,7 +12314,7 @@ body.solutions-financial-software-development-services .healthcare-workshop__ani
 	}
 	.custom-made__block--left ul li.active h3,
 	.custom-made__block--left ul li:hover h3 {
-		color: #1476f2
+		color: #fd7e14
 	}
 }
 
@@ -12469,7 +12469,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 		font-size: 30px;
 		margin-bottom: 0;
 		padding-bottom: 35px;
-		background: #1476f2;
+		background: #fd7e14;
 		color: #fff;
 		padding-top: 40px;
 		margin-bottom: -2px
@@ -12771,7 +12771,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 	}
 	.js-scroll .is-hover a.menu-item-link,
 	.nav.is-hover .is-hover a.menu-item-link {
-		color: #1476f2
+		color: #fd7e14
 	}
 	.js-scroll .logo,
 	.nav.is-hover .logo {
@@ -12798,7 +12798,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .current-menu-item {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .container {
@@ -12850,7 +12850,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 
 .nav__list .is-hover .menu-item-link,
 .nav__list .menu-item .menu-item-link:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav--black .logo {
@@ -12863,7 +12863,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 
 .nav--black .nav__list li.is-hover .menu-item-link,
 .nav--black .nav__list li .menu-item-link:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown>a {
@@ -12877,7 +12877,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 	height: 2px;
 	bottom: -32px;
 	left: 0;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	visibility: hidden;
 	-webkit-transform: scaleX(0);
 	-ms-transform: scaleX(0);
@@ -12891,7 +12891,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .has-dropdown.is-hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown.is-hover .article__content {
@@ -13133,7 +13133,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .menu-item:hover .sub-item-link {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .menu-item:hover .sub-item-link--list {
@@ -13157,7 +13157,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu--double .sub-menu__list-item:hover .sub-item-link--color {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu--double .sub-menu__list-item .sub-menu__list-header {
@@ -13212,7 +13212,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .sub-menu:hover .sub-item-link--list,
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .sub-menu__list-item:hover .sub-item-link--list {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .service--main a {
@@ -15637,7 +15637,7 @@ body.services-digital-transformation-services .step-progress,
 body.services-outsourcing-software-development-ukraine-services .step-progress {
 	width: 100%;
 	height: 1px;
-	background: #1476f2;
+	background: #fd7e14;
 	position: absolute;
 	left: 130px;
 	z-index: 1
@@ -15749,7 +15749,7 @@ body.services-outsourcing-software-development-ukraine-services .step.done .icon
 body.services-dedicated-development-team .step.done .icon-checkmark circle,
 body.services-digital-transformation-services .step.done .icon-checkmark circle,
 body.services-outsourcing-software-development-ukraine-services .step.done .icon-checkmark circle {
-	fill: #1476f2
+	fill: #fd7e14
 }
 
 body.services-dedicated-development-team .icon-checkmark .path1,
@@ -16671,19 +16671,19 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle.active {
-	color: #1476f2;
+	color: #fd7e14;
 	border-bottom: none
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle.active:after {
-	color: #1476f2;
+	color: #fd7e14;
 	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
 	transform: rotate(225deg)
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle.active svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle:after {
@@ -16717,11 +16717,11 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle:hover svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .social-box .linkedin:hover {
@@ -17816,7 +17816,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 .senior__content .accordion .toggle.active span {
-	color: #1476f2;
+	color: #fd7e14;
 	margin-bottom: 5px
 }
 
@@ -17900,7 +17900,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 
 .senior__content--item a i {
 	opacity: 0;
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 14px;
 	position: relative;
 	top: 1px;
@@ -18243,7 +18243,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 .approach__content--item:hover p {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .approach__content--item p {
@@ -18855,7 +18855,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 .thank__content--blue {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .thank__title {
@@ -19906,7 +19906,7 @@ a:hover {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
@@ -19923,7 +19923,7 @@ a:hover {
 .btn [class*=" isoi-"],
 .btn [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -20267,7 +20267,7 @@ a:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	z-index: -1
 }
 
@@ -20966,7 +20966,7 @@ a:hover {
 .clients__link--more {
 	font-size: 13px;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	bottom: 10px;
 	-js-display: flex;
 	display: -webkit-box;
@@ -21296,7 +21296,7 @@ a.all-link-about {
 }
 
 .swiper-container.nav-slider .swiper-slide.swiper-slide-active .logo-nav {
-	border-bottom: 2px solid #1476f2
+	border-bottom: 2px solid #fd7e14
 }
 
 .swiper-container.nav-slider .swiper-slide.swiper-slide-active .logo-nav .entity-img {
@@ -21478,7 +21478,7 @@ a.all-link-about {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	position: absolute;
 	bottom: 45px;
@@ -22213,7 +22213,7 @@ a.all-link-about {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	margin: 15px 0 0;
 	text-transform: uppercase;
 	-webkit-transition: color .3s;
@@ -23239,7 +23239,7 @@ a.all-link-about {
 }
 
 .apocalypse__icon {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .apocalypse__item {
@@ -23416,7 +23416,7 @@ a.all-link-about {
 	display: block;
 	margin-bottom: 40px;
 	font-size: 50px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .planalitics .planalitics__list ul li h3 {
@@ -23954,11 +23954,11 @@ a.all-link-about {
 }
 
 .sitemap__item:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .sitemap__item:hover:before {
-	background: #1476f2
+	background: #fd7e14
 }
 
 .sitemap__list-container {
@@ -24152,7 +24152,7 @@ a.all-link-about {
 
 .key-points__header span {
 	display: inline;
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:425px) {
@@ -24258,7 +24258,7 @@ a.all-link-about {
 	font-weight: 500;
 	margin-bottom: 10px;
 	text-transform: uppercase;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .platform-client__list {
@@ -24325,7 +24325,7 @@ a.all-link-about {
 	content: "";
 	width: 5px;
 	height: 5px;
-	background: #1476f2;
+	background: #fd7e14;
 	position: absolute;
 	left: 0;
 	top: 18px;
@@ -24476,7 +24476,7 @@ a.all-link-about {
 
 .capabilities .capabilities-block .developers .dev-description .dev-title .icon-dev i {
 	font-size: 46px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .capabilities .capabilities-block .developers .dev-description .dev-title h3 {
@@ -24831,7 +24831,7 @@ a.all-link-about {
 	font-weight: 300;
 	line-height: 1.46;
 	text-align: center;
-	color: #1476f2;
+	color: #fd7e14;
 	word-spacing: 3px
 }
 
@@ -25421,7 +25421,7 @@ a.all-link-about {
 	width: 90px;
 	height: 90px;
 	border-radius: 50%;
-	background: #1476f2;
+	background: #fd7e14;
 	opacity: .9;
 	cursor: pointer
 }
@@ -25533,7 +25533,7 @@ a.all-link-about {
 }
 
 .position a:hover {
-	color: #1476f2;
+	color: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	-webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .1);
@@ -25545,7 +25545,7 @@ a.all-link-about {
 }
 
 .position a:hover .position__location:after {
-	border-color: #1476f2
+	border-color: #fd7e14
 }
 
 .position__title {
@@ -25606,7 +25606,7 @@ a.all-link-about {
 		-webkit-box-pack: center;
 		-ms-flex-pack: center;
 		justify-content: center;
-		background: #1476f2;
+		background: #fd7e14;
 		padding: 10px 0
 	}
 }
@@ -25694,19 +25694,19 @@ a.all-link-about {
 	bottom: -2px;
 	left: 0;
 	opacity: 1;
-	background: #1476f2
+	background: #fd7e14
 }
 
 .country-list__item:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .country-list__item:hover:after {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .country-list__item.active {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .country-list__item.active:before {
@@ -25719,14 +25719,14 @@ a.all-link-about {
 	left: 0;
 	right: 0;
 	margin: auto;
-	background: #1476f2;
+	background: #fd7e14;
 	opacity: 1;
 	-webkit-transition: all .3s;
 	transition: all .3s
 }
 
 .country-list__item.active:after {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .country-list__item--belarus:after {
@@ -25942,7 +25942,7 @@ a.all-link-about {
 
 .documents-banner__content {
 	width: 40%;
-	background: #1476f2;
+	background: #fd7e14;
 	padding: 60px 0 0 80px
 }
 
@@ -26117,7 +26117,7 @@ a.all-link-about {
 @media screen and (max-width:767px) {
 	.services__items .items .item .item__link-title,
 	.services__items .items .item h3 {
-		color: #1476f2;
+		color: #fd7e14;
 		font-size: 16px;
 		max-width: 200px
 	}
@@ -26146,7 +26146,7 @@ a.all-link-about {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 10px
 }
 
@@ -26628,19 +26628,19 @@ a.all-link-about {
 }
 
 .lifecycle ul li a.toggle.active {
-	color: #1476f2;
+	color: #fd7e14;
 	border-bottom: none
 }
 
 .lifecycle ul li a.toggle.active:after {
-	color: #1476f2;
+	color: #fd7e14;
 	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
 	transform: rotate(225deg)
 }
 
 .lifecycle ul li a.toggle.active svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .lifecycle ul li a.toggle:after {
@@ -26674,11 +26674,11 @@ a.all-link-about {
 }
 
 .lifecycle ul li a.toggle:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .lifecycle ul li a.toggle:hover svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .competencies {
@@ -26943,7 +26943,7 @@ a.all-link-about {
 .tools__list--item p {
 	font-size: 16px;
 	line-height: 1.31;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	font-weight: 600;
 	padding-left: 50px;
@@ -27774,7 +27774,7 @@ body.services-index .faq__wrapper {
 
 .service-how__stage-icon i {
 	font-size: 60px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .service-how__stage-icon .service-how__count {
@@ -28457,7 +28457,7 @@ body.services-index .faq__wrapper {
 .service-cta__link {
 	font-size: 16px;
 	text-decoration: none;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: none
 }
 
@@ -28922,7 +28922,7 @@ body.services-index .faq__wrapper {
 }
 
 .service-dedicated .teamwork__section .section__row .row__col:last-child .items__item .item__icon {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .service-dedicated .teamwork__section .section__row:last-child .row__col:last-child .items__item .item__icon {
@@ -29125,8 +29125,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -29223,7 +29223,7 @@ body.services-index .faq__wrapper {
 	margin-right: 20px;
 	width: 6px;
 	height: 6px;
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 @media(min-width:768px) {
@@ -29468,8 +29468,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -29524,7 +29524,7 @@ body.services-index .faq__wrapper {
 	width: 6px;
 	height: 6px;
 	content: "\25a0";
-	color: #1476f2;
+	color: #fd7e14;
 	position: relative;
 	bottom: 7px;
 	padding-right: 30px
@@ -29631,7 +29631,7 @@ body.services-index .faq__wrapper {
 
 .numerals__item {
 	font-size: 80px;
-	color: #1476f2;
+	color: #fd7e14;
 	line-height: .9
 }
 
@@ -29657,12 +29657,12 @@ body.services-index .faq__wrapper {
 	margin: 23px auto 25px;
 	width: 30px;
 	height: 2px;
-	border: 2px solid #1476f2
+	border: 2px solid #fd7e14
 }
 
 .numerals__text {
 	font-size: 14px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .numerals__text,
@@ -29939,8 +29939,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	opacity: 0;
 	-webkit-transition: opacity .8s;
@@ -30362,8 +30362,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	margin: 20px 0
 }
@@ -30557,7 +30557,7 @@ body.services-index .faq__wrapper {
 }
 
 .service-statistic__legend-item.blue:before {
-	background: #1476f2
+	background: #fd7e14
 }
 
 .service-statistic__legend-item.pink:before {
@@ -30582,7 +30582,7 @@ body.services-index .faq__wrapper {
 }
 
 .blue {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .pink {
@@ -30962,7 +30962,7 @@ body.services-index .faq__wrapper {
 	height: 5px;
 	display: block;
 	content: "";
-	background: #1476f2
+	background: #fd7e14
 }
 
 .iot-container {
@@ -31096,7 +31096,7 @@ body.services-index .faq__wrapper {
 }
 
 .notice-block__lead a {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .notice-block__lead a:hover {
@@ -31140,7 +31140,7 @@ body.services-index .faq__wrapper {
 	height: 5px;
 	left: 0;
 	top: 7px;
-	background: #1476f2
+	background: #fd7e14
 }
 
 .seo-about__item-title {
@@ -31234,7 +31234,7 @@ body.services-index .faq__wrapper {
 
 .fixed-ebook-form .js-thx__title {
 	font-size: 32px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .fixed-ebook-form .js-thx__subtitle {
@@ -31250,7 +31250,7 @@ body.services-index .faq__wrapper {
 }
 
 .fixed-ebook-form .js-thx__link {
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	color: #fff;
 	line-height: 50px
 }
@@ -31717,7 +31717,7 @@ p.participant__position {
 .company__link {
 	position: relative;
 	font-size: 14px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 30px
 }
 
@@ -32684,8 +32684,8 @@ canvas {
 		margin-top: 0;
 		padding-top: 32px;
 		min-height: 140px;
-		border: 1px solid #1476f2;
-		background-color: #1476f2
+		border: 1px solid #fd7e14;
+		background-color: #fd7e14
 	}
 	.enterprise-core-mob .tech-item.main,
 	.enterprise-core-mob .tech-item.main .read-more-wrap {
@@ -32779,7 +32779,7 @@ canvas {
 		margin-right: 10px;
 		width: 6px;
 		height: 6px;
-		background-color: #1476f2
+		background-color: #fd7e14
 	}
 	.enterprise-core-mob .tech-item .item-list li a {
 		opacity: 0;
@@ -32789,7 +32789,7 @@ canvas {
 		margin-top: 15px;
 		font-weight: 600;
 		line-height: 1.88;
-		color: #1476f2;
+		color: #fd7e14;
 		text-transform: uppercase;
 		bottom: 5px;
 		-js-display: flex;
@@ -32941,7 +32941,7 @@ canvas {
 	.enterprise-core .item-center .hex {
 		width: 100%;
 		height: 100%;
-		fill: #1476f2
+		fill: #fd7e14
 	}
 	.enterprise-core .item-top {
 		top: -61%;
@@ -32986,7 +32986,7 @@ canvas {
 		margin-right: 12px;
 		width: 4px;
 		height: 4px;
-		background-color: #1476f2
+		background-color: #fd7e14
 	}
 	.enterprise-core .item .item-list-top {
 		width: 300px;
@@ -33014,7 +33014,7 @@ canvas {
 		height: 98%
 	}
 	.enterprise-core .item:hover h3 a {
-		color: #1476f2
+		color: #fd7e14
 	}
 	.enterprise-core .item:hover h3 a i {
 		right: -24px;
@@ -33158,7 +33158,7 @@ canvas {
 		right: -18px;
 		font-size: 13px;
 		font-weight: 600;
-		color: #1476f2;
+		color: #fd7e14;
 		-webkit-transition: all .25s;
 		transition: all .25s;
 		opacity: 0
@@ -33318,7 +33318,7 @@ canvas {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 2.31;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	-ms-flex-item-align: end;
 	-ms-grid-row-align: end;
@@ -34150,7 +34150,7 @@ canvas {
 .services-android-app-development-services .technology .macintosh__device:hover .macintosh__name,
 .services-ios-app-development-services .technology .macintosh__device:hover .macintosh__name {
 	color: #fff;
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .technology .macintosh__img-wrapper,
@@ -34283,7 +34283,7 @@ canvas {
 .services-android-app-development-services .development .stages__item--active:first-child:before,
 .services-ios-app-development-services .development .stages__item--active:before,
 .services-ios-app-development-services .development .stages__item--active:first-child:before {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .development .stages__item--activeList .stages__list,
@@ -34296,7 +34296,7 @@ canvas {
 .services-android-app-development-services .development .stages__item--activeBorder:first-child:before,
 .services-ios-app-development-services .development .stages__item--activeBorder:before,
 .services-ios-app-development-services .development .stages__item--activeBorder:first-child:before {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .development .stages__img-wrapper,
@@ -34325,7 +34325,7 @@ canvas {
 	text-transform: uppercase;
 	text-align: center;
 	padding: 25px 0 40px;
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 18px;
 	font-weight: 400
 }
@@ -34361,7 +34361,7 @@ canvas {
 	left: 0;
 	width: 6px;
 	height: 6px;
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .technology-stack,
@@ -34417,7 +34417,7 @@ canvas {
 .services-android-app-development-services .technology-stack .stack:hover .stack__title,
 .services-ios-app-development-services .technology-stack .stack--active .stack__title,
 .services-ios-app-development-services .technology-stack .stack:hover .stack__title {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .services-android-app-development-services .technology-stack .stack--active .stack__title:after,
@@ -34536,7 +34536,7 @@ canvas {
 	height: 130%;
 	text-align: left;
 	padding: 30px 25px;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	color: #fff;
 	-webkit-animation: slideUp .5s;
 	animation: slideUp .5s
@@ -34621,7 +34621,7 @@ canvas {
 		height: 123px
 	}
 	to {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -34634,7 +34634,7 @@ canvas {
 		height: 123px
 	}
 	to {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -34642,7 +34642,7 @@ canvas {
 
 @-webkit-keyframes slideDown {
 	0% {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -34655,7 +34655,7 @@ canvas {
 
 @keyframes slideDown {
 	0% {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -34724,7 +34724,7 @@ canvas {
 }
 
 .faq__item:hover .faq__title {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .faq__item--active .faq__text {
@@ -34732,7 +34732,7 @@ canvas {
 }
 
 .faq__item--active .faq__title {
-	color: #1476f2;
+	color: #fd7e14;
 	border-bottom: none
 }
 
@@ -34819,7 +34819,7 @@ canvas {
 }
 
 .faq__link {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .faq__link:hover {
@@ -35846,7 +35846,7 @@ body.services-ui-ux-design-services .faq {
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 24px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:991px) {
@@ -36832,7 +36832,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 30px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:575px) {
@@ -37282,7 +37282,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 
 .insurance-software__left li .toggle1.active1 h3,
 .insurance-software__left li .toggle1.active1 h6 {
-	color: #1476f2;
+	color: #fd7e14;
 	margin-bottom: 5px
 }
 
@@ -40185,7 +40185,7 @@ blockquote em {
 .content-icon.isoi-bullet-blue {
 	width: 5px;
 	height: 5px;
-	background: #1476f2
+	background: #fd7e14
 }
 
 @media screen and (max-width:768px) {
@@ -40234,7 +40234,7 @@ p.small-text {
 }
 
 .blue-color {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .gray-color {
@@ -41392,7 +41392,7 @@ h3~p {
 }
 
 .blog-feed__item.blog-feed__item--news:hover .blog-feed__title--news {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .blog-feed__content {
@@ -42072,7 +42072,7 @@ h3~p {
 .blog__link--more {
 	font-size: 13px;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	bottom: 10px;
 	-js-display: flex;
 	display: -webkit-box;
@@ -42288,7 +42288,7 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
@@ -42305,7 +42305,7 @@ h3~p {
 .button [class*=" isoi-"],
 .button [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -42349,14 +42349,14 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
 	white-space: nowrap;
 	background: 0 0;
-	border: 2px solid #1476f2
+	border: 2px solid #fd7e14
 }
 
 @media screen and (max-width:575px) {
@@ -42368,7 +42368,7 @@ h3~p {
 .button--clear [class*=" isoi-"],
 .button--clear [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -42445,7 +42445,7 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -42464,7 +42464,7 @@ h3~p {
 .button--white [class*=" isoi-"],
 .button--white [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -42510,7 +42510,7 @@ h3~p {
 .button--white:active,
 .button--white:hover,
 .button--white:hover i {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .button--white i[class^=isoi-] {
@@ -42519,7 +42519,7 @@ h3~p {
 
 .button--white:active i[class^=isoi-],
 .button--white:hover i[class^=isoi-] {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .card__button.button i[class^=isoi-] {
@@ -42543,7 +42543,7 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -42562,7 +42562,7 @@ h3~p {
 .button--white-gray [class*=" isoi-"],
 .button--white-gray [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -42626,7 +42626,7 @@ h3~p {
 	font-size: 13px;
 	padding: 20px;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -42651,7 +42651,7 @@ h3~p {
 .button--white-green [class*=" isoi-"],
 .button--white-green [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -42755,14 +42755,14 @@ h3~p {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
 	white-space: nowrap;
 	background: 0 0;
-	border: 2px solid #1476f2
+	border: 2px solid #fd7e14
 }
 
 @media screen and (max-width:575px) {
@@ -42774,7 +42774,7 @@ h3~p {
 .button--blue-not-filled [class*=" isoi-"],
 .button--blue-not-filled [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -43052,7 +43052,7 @@ h3~p {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	bottom: 10px;
 	position: absolute;
@@ -46651,7 +46651,7 @@ body.cases-transplant-hero header:before {
 	left: 0;
 	width: 5px;
 	height: 5px;
-	background: #1476f2;
+	background: #fd7e14;
 	margin: 0 auto
 }
 
@@ -47627,7 +47627,7 @@ body.cases-transplant-hero header:before {
 
 .footer__email {
 	position: relative;
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 14px;
 	font-weight: 600
 }
@@ -47639,7 +47639,7 @@ body.cases-transplant-hero header:before {
 	display: block;
 	height: 1px;
 	width: 100%;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	transition: transform .45s cubic-bezier(.835, -.005, .06, 1), -webkit-transform .45s cubic-bezier(.835, -.005, .06, 1);
 	-webkit-transform-origin: right;
 	-ms-transform-origin: right;
@@ -47917,7 +47917,7 @@ body.cases-transplant-hero header:before {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
@@ -47936,7 +47936,7 @@ body.cases-transplant-hero header:before {
 .form__submit [class*=" isoi-"],
 .form__submit [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -47987,7 +47987,7 @@ body.cases-transplant-hero header:before {
 	font-size: 13px;
 	padding: 20px;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	border: none;
@@ -48019,7 +48019,7 @@ body.cases-transplant-hero header:before {
 .form__submit--contact [class*=" isoi-"],
 .form__submit--contact [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -48142,7 +48142,7 @@ body.cases-transplant-hero header:before {
 	background: 0 0;
 	top: 4px;
 	left: 4px;
-	border: 2px solid #1476f2;
+	border: 2px solid #fd7e14;
 	border-top: none;
 	border-right: none;
 	-webkit-transform: rotate(-45deg);
@@ -48340,7 +48340,7 @@ body.cases-transplant-hero header:before {
 	left: -15px;
 	padding: 0;
 	border: none;
-	color: #1476f2;
+	color: #fd7e14;
 	width: 20px;
 	background-color: transparent
 }
@@ -49276,8 +49276,8 @@ body.pages-contacts .static {
 .contact-section .form-wrap__flexbox .form__footer .form__checkbox-label:after {
 	top: 8px;
 	left: 6px;
-	border-left: 2px solid #1476f2;
-	border-bottom: 2px solid #1476f2
+	border-left: 2px solid #fd7e14;
+	border-bottom: 2px solid #fd7e14
 }
 
 .contact-section .form-wrap__flexbox .form__footer .upload-wrapper {
@@ -49301,7 +49301,7 @@ body.pages-contacts .static {
 	height: 25px;
 	font-size: 15px;
 	line-height: 1.67;
-	color: #1476f2;
+	color: #fd7e14;
 	border: none
 }
 
@@ -49344,7 +49344,7 @@ body.pages-contacts .static {
 	left: -20px;
 	padding: 0;
 	border: none;
-	color: #1476f2;
+	color: #fd7e14;
 	width: 20px;
 	background-color: transparent
 }
@@ -49354,7 +49354,7 @@ body.pages-contacts .static {
 	height: 25px;
 	font-size: 15px;
 	line-height: 1.67;
-	color: #1476f2;
+	color: #fd7e14;
 	border: none;
 	cursor: pointer
 }
@@ -50069,7 +50069,7 @@ body.pages-contacts .static {
 }
 
 .financial-industry__content--left>div.active h3 {
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (min-width:1025px) {
@@ -50184,7 +50184,7 @@ body.pages-contacts .static {
 	width: 5px;
 	height: 5px;
 	border-radius: 50%;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	top: 10px;
 	left: 0
 }
@@ -50221,7 +50221,7 @@ body.pages-contacts .static {
 }
 
 .financial-industry__content--left h3:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:991px) {
@@ -51792,7 +51792,7 @@ body.solutions-financial-software-development-services .healthcare-workshop__ani
 	display: flex;
 	margin-bottom: 20px;
 	border-radius: 5px;
-	background: #1476f2;
+	background: #fd7e14;
 	-webkit-box-shadow: 0 10px 25px 0 rgba(50, 50, 50, .4);
 	box-shadow: 0 10px 25px 0 rgba(50, 50, 50, .4);
 	overflow: hidden
@@ -52156,7 +52156,7 @@ body.solutions-financial-software-development-services .healthcare-workshop__ani
 	}
 	.custom-made__block--left ul li.active h3,
 	.custom-made__block--left ul li:hover h3 {
-		color: #1476f2
+		color: #fd7e14
 	}
 }
 
@@ -52311,7 +52311,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 		font-size: 30px;
 		margin-bottom: 0;
 		padding-bottom: 35px;
-		background: #1476f2;
+		background: #fd7e14;
 		color: #fff;
 		padding-top: 40px;
 		margin-bottom: -2px
@@ -52613,7 +52613,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 	}
 	.js-scroll .is-hover a.menu-item-link,
 	.nav.is-hover .is-hover a.menu-item-link {
-		color: #1476f2
+		color: #fd7e14
 	}
 	.js-scroll .logo,
 	.nav.is-hover .logo {
@@ -52641,7 +52641,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .current-menu-item {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .container {
@@ -52693,7 +52693,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 
 .nav__list .is-hover .menu-item-link,
 .nav__list .menu-item .menu-item-link:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav--black .logo {
@@ -52706,7 +52706,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 
 .nav--black .nav__list li.is-hover .menu-item-link,
 .nav--black .nav__list li .menu-item-link:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown>a {
@@ -52720,7 +52720,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 	height: 2px;
 	bottom: -32px;
 	left: 0;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	visibility: hidden;
 	-webkit-transform: scaleX(0);
 	-ms-transform: scaleX(0);
@@ -52734,7 +52734,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .has-dropdown.is-hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown.is-hover .article__content {
@@ -52976,7 +52976,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .menu-item:hover .sub-item-link {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .menu-item:hover .sub-item-link--list {
@@ -53000,7 +53000,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu--double .sub-menu__list-item:hover .sub-item-link--color {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu--double .sub-menu__list-item .sub-menu__list-header {
@@ -53055,7 +53055,7 @@ body.platforms-travel-hospitality-software-development .healthcare-workshop.insu
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .sub-menu:hover .sub-item-link--list,
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .sub-menu__list-item:hover .sub-item-link--list {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .nav .has-dropdown .sub-menu-wrapper .sub-menu-container .sub-menu-list-container .sub-menu .service--main a {
@@ -55480,7 +55480,7 @@ body.services-digital-transformation-services .step-progress,
 body.services-outsourcing-software-development-ukraine-services .step-progress {
 	width: 100%;
 	height: 1px;
-	background: #1476f2;
+	background: #fd7e14;
 	position: absolute;
 	left: 130px;
 	z-index: 1
@@ -55592,7 +55592,7 @@ body.services-outsourcing-software-development-ukraine-services .step.done .icon
 body.services-dedicated-development-team .step.done .icon-checkmark circle,
 body.services-digital-transformation-services .step.done .icon-checkmark circle,
 body.services-outsourcing-software-development-ukraine-services .step.done .icon-checkmark circle {
-	fill: #1476f2
+	fill: #fd7e14
 }
 
 body.services-dedicated-development-team .icon-checkmark .path1,
@@ -56514,19 +56514,19 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle.active {
-	color: #1476f2;
+	color: #fd7e14;
 	border-bottom: none
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle.active:after {
-	color: #1476f2;
+	color: #fd7e14;
 	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
 	transform: rotate(225deg)
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle.active svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle:after {
@@ -56560,11 +56560,11 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 body.services-outsourcing-software-development-ukraine-services .bottom-life ul li a.toggle:hover svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .social-box .linkedin:hover {
@@ -57659,7 +57659,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 .senior__content .accordion .toggle.active span {
-	color: #1476f2;
+	color: #fd7e14;
 	margin-bottom: 5px
 }
 
@@ -57743,7 +57743,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 
 .senior__content--item a i {
 	opacity: 0;
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 14px;
 	position: relative;
 	top: 1px;
@@ -58086,7 +58086,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 .approach__content--item:hover p {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .approach__content--item p {
@@ -58698,7 +58698,7 @@ body.services-outsourcing-software-development-ukraine-services .bottom-life ul 
 }
 
 .thank__content--blue {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .thank__title {
@@ -59749,7 +59749,7 @@ a:hover {
 	padding: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: #1476f2;
+	background: #fd7e14;
 	color: #fff;
 	-webkit-transition: all .3s;
 	transition: all .3s;
@@ -59766,7 +59766,7 @@ a:hover {
 .btn [class*=" isoi-"],
 .btn [class^=isoi-] {
 	font-size: 12px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 12px;
 	display: block
 }
@@ -60110,7 +60110,7 @@ a:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	z-index: -1
 }
 
@@ -60809,7 +60809,7 @@ a:hover {
 .clients__link--more {
 	font-size: 13px;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	bottom: 10px;
 	-js-display: flex;
 	display: -webkit-box;
@@ -61139,7 +61139,7 @@ a.all-link-about {
 }
 
 .swiper-container.nav-slider .swiper-slide.swiper-slide-active .logo-nav {
-	border-bottom: 2px solid #1476f2
+	border-bottom: 2px solid #fd7e14
 }
 
 .swiper-container.nav-slider .swiper-slide.swiper-slide-active .logo-nav .entity-img {
@@ -61321,7 +61321,7 @@ a.all-link-about {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	position: absolute;
 	bottom: 45px;
@@ -62056,7 +62056,7 @@ a.all-link-about {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 1;
-	color: #1476f2;
+	color: #fd7e14;
 	margin: 15px 0 0;
 	text-transform: uppercase;
 	-webkit-transition: color .3s;
@@ -63082,7 +63082,7 @@ a.all-link-about {
 }
 
 .apocalypse__icon {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .apocalypse__item {
@@ -63259,7 +63259,7 @@ a.all-link-about {
 	display: block;
 	margin-bottom: 40px;
 	font-size: 50px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .planalitics .planalitics__list ul li h3 {
@@ -63797,11 +63797,11 @@ a.all-link-about {
 }
 
 .sitemap__item:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .sitemap__item:hover:before {
-	background: #1476f2
+	background: #fd7e14
 }
 
 .sitemap__list-container {
@@ -63995,7 +63995,7 @@ a.all-link-about {
 
 .key-points__header span {
 	display: inline;
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:425px) {
@@ -64101,7 +64101,7 @@ a.all-link-about {
 	font-weight: 500;
 	margin-bottom: 10px;
 	text-transform: uppercase;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .platform-client__list {
@@ -64168,7 +64168,7 @@ a.all-link-about {
 	content: "";
 	width: 5px;
 	height: 5px;
-	background: #1476f2;
+	background: #fd7e14;
 	position: absolute;
 	left: 0;
 	top: 18px;
@@ -64319,7 +64319,7 @@ a.all-link-about {
 
 .capabilities .capabilities-block .developers .dev-description .dev-title .icon-dev i {
 	font-size: 46px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .capabilities .capabilities-block .developers .dev-description .dev-title h3 {
@@ -64674,7 +64674,7 @@ a.all-link-about {
 	font-weight: 300;
 	line-height: 1.46;
 	text-align: center;
-	color: #1476f2;
+	color: #fd7e14;
 	word-spacing: 3px
 }
 
@@ -65264,7 +65264,7 @@ a.all-link-about {
 	width: 90px;
 	height: 90px;
 	border-radius: 50%;
-	background: #1476f2;
+	background: #fd7e14;
 	opacity: .9;
 	cursor: pointer
 }
@@ -65376,7 +65376,7 @@ a.all-link-about {
 }
 
 .position a:hover {
-	color: #1476f2;
+	color: #fd7e14;
 	-webkit-transition: all .3s;
 	transition: all .3s;
 	-webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .1);
@@ -65388,7 +65388,7 @@ a.all-link-about {
 }
 
 .position a:hover .position__location:after {
-	border-color: #1476f2
+	border-color: #fd7e14
 }
 
 .position__title {
@@ -65449,7 +65449,7 @@ a.all-link-about {
 		-webkit-box-pack: center;
 		-ms-flex-pack: center;
 		justify-content: center;
-		background: #1476f2;
+		background: #fd7e14;
 		padding: 10px 0
 	}
 }
@@ -65537,19 +65537,19 @@ a.all-link-about {
 	bottom: -2px;
 	left: 0;
 	opacity: 1;
-	background: #1476f2
+	background: #fd7e14
 }
 
 .country-list__item:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .country-list__item:hover:after {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .country-list__item.active {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .country-list__item.active:before {
@@ -65562,14 +65562,14 @@ a.all-link-about {
 	left: 0;
 	right: 0;
 	margin: auto;
-	background: #1476f2;
+	background: #fd7e14;
 	opacity: 1;
 	-webkit-transition: all .3s;
 	transition: all .3s
 }
 
 .country-list__item.active:after {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .country-list__item--belarus:after {
@@ -65785,7 +65785,7 @@ a.all-link-about {
 
 .documents-banner__content {
 	width: 40%;
-	background: #1476f2;
+	background: #fd7e14;
 	padding: 60px 0 0 80px
 }
 
@@ -65960,7 +65960,7 @@ a.all-link-about {
 @media screen and (max-width:767px) {
 	.services__items .items .item .item__link-title,
 	.services__items .items .item h3 {
-		color: #1476f2;
+		color: #fd7e14;
 		font-size: 16px;
 		max-width: 200px
 	}
@@ -65989,7 +65989,7 @@ a.all-link-about {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 10px
 }
 
@@ -66471,19 +66471,19 @@ a.all-link-about {
 }
 
 .lifecycle ul li a.toggle.active {
-	color: #1476f2;
+	color: #fd7e14;
 	border-bottom: none
 }
 
 .lifecycle ul li a.toggle.active:after {
-	color: #1476f2;
+	color: #fd7e14;
 	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
 	transform: rotate(225deg)
 }
 
 .lifecycle ul li a.toggle.active svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .lifecycle ul li a.toggle:after {
@@ -66517,11 +66517,11 @@ a.all-link-about {
 }
 
 .lifecycle ul li a.toggle:hover {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .lifecycle ul li a.toggle:hover svg g {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .competencies {
@@ -66786,7 +66786,7 @@ a.all-link-about {
 .tools__list--item p {
 	font-size: 16px;
 	line-height: 1.31;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	font-weight: 600;
 	padding-left: 50px;
@@ -67617,7 +67617,7 @@ body.services-index .faq__wrapper {
 
 .service-how__stage-icon i {
 	font-size: 60px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .service-how__stage-icon .service-how__count {
@@ -68300,7 +68300,7 @@ body.services-index .faq__wrapper {
 .service-cta__link {
 	font-size: 16px;
 	text-decoration: none;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: none
 }
 
@@ -68765,7 +68765,7 @@ body.services-index .faq__wrapper {
 }
 
 .service-dedicated .teamwork__section .section__row .row__col:last-child .items__item .item__icon {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .service-dedicated .teamwork__section .section__row:last-child .row__col:last-child .items__item .item__icon {
@@ -68968,8 +68968,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -69066,7 +69066,7 @@ body.services-index .faq__wrapper {
 	margin-right: 20px;
 	width: 6px;
 	height: 6px;
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 @media(min-width:768px) {
@@ -69311,8 +69311,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
@@ -69367,7 +69367,7 @@ body.services-index .faq__wrapper {
 	width: 6px;
 	height: 6px;
 	content: "\25a0";
-	color: #1476f2;
+	color: #fd7e14;
 	position: relative;
 	bottom: 7px;
 	padding-right: 30px
@@ -69474,7 +69474,7 @@ body.services-index .faq__wrapper {
 
 .numerals__item {
 	font-size: 80px;
-	color: #1476f2;
+	color: #fd7e14;
 	line-height: .9
 }
 
@@ -69500,12 +69500,12 @@ body.services-index .faq__wrapper {
 	margin: 23px auto 25px;
 	width: 30px;
 	height: 2px;
-	border: 2px solid #1476f2
+	border: 2px solid #fd7e14
 }
 
 .numerals__text {
 	font-size: 14px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .numerals__text,
@@ -69782,8 +69782,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	opacity: 0;
 	-webkit-transition: opacity .8s;
@@ -70205,8 +70205,8 @@ body.services-index .faq__wrapper {
 	font-weight: 600;
 	line-height: 1.33;
 	text-align: center;
-	color: #1476f2;
-	border: 2px solid #1476f2;
+	color: #fd7e14;
+	border: 2px solid #fd7e14;
 	border-radius: 50%;
 	margin: 20px 0
 }
@@ -70400,7 +70400,7 @@ body.services-index .faq__wrapper {
 }
 
 .service-statistic__legend-item.blue:before {
-	background: #1476f2
+	background: #fd7e14
 }
 
 .service-statistic__legend-item.pink:before {
@@ -70425,7 +70425,7 @@ body.services-index .faq__wrapper {
 }
 
 .blue {
-	stroke: #1476f2
+	stroke: #fd7e14
 }
 
 .pink {
@@ -70805,7 +70805,7 @@ body.services-index .faq__wrapper {
 	height: 5px;
 	display: block;
 	content: "";
-	background: #1476f2
+	background: #fd7e14
 }
 
 .iot-container {
@@ -70939,7 +70939,7 @@ body.services-index .faq__wrapper {
 }
 
 .notice-block__lead a {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .notice-block__lead a:hover {
@@ -70983,7 +70983,7 @@ body.services-index .faq__wrapper {
 	height: 5px;
 	left: 0;
 	top: 7px;
-	background: #1476f2
+	background: #fd7e14
 }
 
 .seo-about__item-title {
@@ -71077,7 +71077,7 @@ body.services-index .faq__wrapper {
 
 .fixed-ebook-form .js-thx__title {
 	font-size: 32px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 .fixed-ebook-form .js-thx__subtitle {
@@ -71093,7 +71093,7 @@ body.services-index .faq__wrapper {
 }
 
 .fixed-ebook-form .js-thx__link {
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	color: #fff;
 	line-height: 50px
 }
@@ -71560,7 +71560,7 @@ p.participant__position {
 .company__link {
 	position: relative;
 	font-size: 14px;
-	color: #1476f2;
+	color: #fd7e14;
 	padding-left: 30px
 }
 
@@ -72527,8 +72527,8 @@ canvas {
 		margin-top: 0;
 		padding-top: 32px;
 		min-height: 140px;
-		border: 1px solid #1476f2;
-		background-color: #1476f2
+		border: 1px solid #fd7e14;
+		background-color: #fd7e14
 	}
 	.enterprise-core-mob .tech-item.main,
 	.enterprise-core-mob .tech-item.main .read-more-wrap {
@@ -72622,7 +72622,7 @@ canvas {
 		margin-right: 10px;
 		width: 6px;
 		height: 6px;
-		background-color: #1476f2
+		background-color: #fd7e14
 	}
 	.enterprise-core-mob .tech-item .item-list li a {
 		opacity: 0;
@@ -72632,7 +72632,7 @@ canvas {
 		margin-top: 15px;
 		font-weight: 600;
 		line-height: 1.88;
-		color: #1476f2;
+		color: #fd7e14;
 		text-transform: uppercase;
 		bottom: 5px;
 		-js-display: flex;
@@ -72784,7 +72784,7 @@ canvas {
 	.enterprise-core .item-center .hex {
 		width: 100%;
 		height: 100%;
-		fill: #1476f2
+		fill: #fd7e14
 	}
 	.enterprise-core .item-top {
 		top: -61%;
@@ -72829,7 +72829,7 @@ canvas {
 		margin-right: 12px;
 		width: 4px;
 		height: 4px;
-		background-color: #1476f2
+		background-color: #fd7e14
 	}
 	.enterprise-core .item .item-list-top {
 		width: 300px;
@@ -72857,7 +72857,7 @@ canvas {
 		height: 98%
 	}
 	.enterprise-core .item:hover h3 a {
-		color: #1476f2
+		color: #fd7e14
 	}
 	.enterprise-core .item:hover h3 a i {
 		right: -24px;
@@ -73001,7 +73001,7 @@ canvas {
 		right: -18px;
 		font-size: 13px;
 		font-weight: 600;
-		color: #1476f2;
+		color: #fd7e14;
 		-webkit-transition: all .25s;
 		transition: all .25s;
 		opacity: 0
@@ -73161,7 +73161,7 @@ canvas {
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 2.31;
-	color: #1476f2;
+	color: #fd7e14;
 	text-transform: uppercase;
 	-ms-flex-item-align: end;
 	-ms-grid-row-align: end;
@@ -73992,7 +73992,7 @@ canvas {
 .services-android-app-development-services .technology .macintosh__device:hover .macintosh__name,
 .services-ios-app-development-services .technology .macintosh__device:hover .macintosh__name {
 	color: #fff;
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .technology .macintosh__img-wrapper,
@@ -74125,7 +74125,7 @@ canvas {
 .services-android-app-development-services .development .stages__item--active:first-child:before,
 .services-ios-app-development-services .development .stages__item--active:before,
 .services-ios-app-development-services .development .stages__item--active:first-child:before {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .development .stages__item--activeList .stages__list,
@@ -74138,7 +74138,7 @@ canvas {
 .services-android-app-development-services .development .stages__item--activeBorder:first-child:before,
 .services-ios-app-development-services .development .stages__item--activeBorder:before,
 .services-ios-app-development-services .development .stages__item--activeBorder:first-child:before {
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .development .stages__img-wrapper,
@@ -74167,7 +74167,7 @@ canvas {
 	text-transform: uppercase;
 	text-align: center;
 	padding: 25px 0 40px;
-	color: #1476f2;
+	color: #fd7e14;
 	font-size: 18px;
 	font-weight: 400
 }
@@ -74203,7 +74203,7 @@ canvas {
 	left: 0;
 	width: 6px;
 	height: 6px;
-	background-color: #1476f2
+	background-color: #fd7e14
 }
 
 .services-android-app-development-services .technology-stack,
@@ -74259,7 +74259,7 @@ canvas {
 .services-android-app-development-services .technology-stack .stack:hover .stack__title,
 .services-ios-app-development-services .technology-stack .stack--active .stack__title,
 .services-ios-app-development-services .technology-stack .stack:hover .stack__title {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .services-android-app-development-services .technology-stack .stack--active .stack__title:after,
@@ -74378,7 +74378,7 @@ canvas {
 	height: 130%;
 	text-align: left;
 	padding: 30px 25px;
-	background-color: #1476f2;
+	background-color: #fd7e14;
 	color: #fff;
 	-webkit-animation: slideUp .5s;
 	animation: slideUp .5s
@@ -74463,7 +74463,7 @@ canvas {
 		height: 123px
 	}
 	to {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -74476,7 +74476,7 @@ canvas {
 		height: 123px
 	}
 	to {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -74484,7 +74484,7 @@ canvas {
 
 @-webkit-keyframes slideDown {
 	0% {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -74497,7 +74497,7 @@ canvas {
 
 @keyframes slideDown {
 	0% {
-		background-color: #1476f2;
+		background-color: #fd7e14;
 		width: 100%;
 		height: 130%
 	}
@@ -74566,7 +74566,7 @@ canvas {
 }
 
 .faq__item:hover .faq__title {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .faq__item--active .faq__text {
@@ -74574,7 +74574,7 @@ canvas {
 }
 
 .faq__item--active .faq__title {
-	color: #1476f2;
+	color: #fd7e14;
 	border-bottom: none
 }
 
@@ -74661,7 +74661,7 @@ canvas {
 }
 
 .faq__link {
-	color: #1476f2
+	color: #fd7e14
 }
 
 .faq__link:hover {
@@ -75688,7 +75688,7 @@ body.services-ui-ux-design-services .faq {
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 24px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:991px) {
@@ -76674,7 +76674,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 30px;
-	color: #1476f2
+	color: #fd7e14
 }
 
 @media screen and (max-width:575px) {
@@ -77124,7 +77124,7 @@ only screen and (min-device-pixel-ratio:1.5) {
 
 .insurance-software__left li .toggle1.active1 h3,
 .insurance-software__left li .toggle1.active1 h6 {
-	color: #1476f2;
+	color: #fd7e14;
 	margin-bottom: 5px
 }
 
