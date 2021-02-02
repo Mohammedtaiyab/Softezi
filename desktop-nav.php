@@ -111,11 +111,11 @@ Cloud<i class="isoi-angle-right "></i>
 </li>
 <li class="sub-menu__list-item">
   <div class="sub-menu__list-header">Firebase</div>
-  <a href="service/cloud-aws.html" data-image="https://www.intellectsoft.net/upload/images/menu-items/4b1d8d7ffa73e1570b192fb43a9392baa794ad895e5ea32fd49b5e6bd8acd55e.jpg" data-descr="Create a reliable, state-of-the-art Android solution that works on any device of every brand" data-link="/services/android-app-development-services" data-alt="Android Image" class="sub-item-link sub-item-link--list">Firebase</a>
+  <a href="service/cloud-firebase.html" data-image="https://www.intellectsoft.net/upload/images/menu-items/4b1d8d7ffa73e1570b192fb43a9392baa794ad895e5ea32fd49b5e6bd8acd55e.jpg" data-descr="Create a reliable, state-of-the-art Android solution that works on any device of every brand" data-link="/services/android-app-development-services" data-alt="Android Image" class="sub-item-link sub-item-link--list">Firebase</a>
   </li>
   <li class="sub-menu__list-item">
   <div class="sub-menu__list-header">Contabo</div>
-  <a href="service/cloud-heroku.html" data-image="https://www.intellectsoft.net/upload/images/menu-items/9da4de4bed7fd770c23c15c3fccf3cb496c67d44ab1f0a7cd873e9690e2e3396.jpg" data-descr="Provide solid support and management of your existing Windows applications" data-link="/technologies/windows-phone-development-services" data-alt="Windows Image" class="sub-item-link sub-item-link--list">Contabo</a>
+  <a href="service/cloud-contabo.html" data-image="https://www.intellectsoft.net/upload/images/menu-items/9da4de4bed7fd770c23c15c3fccf3cb496c67d44ab1f0a7cd873e9690e2e3396.jpg" data-descr="Provide solid support and management of your existing Windows applications" data-link="/technologies/windows-phone-development-services" data-alt="Windows Image" class="sub-item-link sub-item-link--list">Contabo</a>
   </li>
 </ul>
 
@@ -178,11 +178,11 @@ IT Consulting
   <li class="sub-menu__list-item">
   <div class="sub-menu__list-header">Digital Marketing Services
     -</div>
-  <a href="service/" data-image="https://www.intellectsoft.net/upload/images/menu-items/4b1d8d7ffa73e1570b192fb43a9392baa794ad895e5ea32fd49b5e6bd8acd55e.jpg" data-descr="Create a reliable, state-of-the-art Android solution that works on any device of every brand" data-link="/services/android-app-development-services" data-alt="Android Image" class="sub-item-link sub-item-link--list">Social Media Marketing</a>
+  <a href="" data-image="https://www.intellectsoft.net/upload/images/menu-items/4b1d8d7ffa73e1570b192fb43a9392baa794ad895e5ea32fd49b5e6bd8acd55e.jpg" data-descr="Create a reliable, state-of-the-art Android solution that works on any device of every brand" data-link="/services/android-app-development-services" data-alt="Android Image" class="sub-item-link sub-item-link--list">Social Media Marketing</a>
   </li>
   <li class="sub-menu__list-item">
   <div class="sub-menu__list-header">SEO</div>
-  <a href="service/" data-image="https://www.intellectsoft.net/upload/images/menu-items/e19bc28bd8b16fe7f1bbeb81e301cff5e9701c21cc7bd4ed8125d82269e2ff90.jpg" data-descr="Go cost-efficient with an appealing and reliable app for both Android and iOS" data-link="/technologies/hybrid-development" data-alt="Hybrid Platform Image" class="sub-item-link sub-item-link--list">Search Engine Optimization(SEO)</a>
+  <a href="" data-image="https://www.intellectsoft.net/upload/images/menu-items/e19bc28bd8b16fe7f1bbeb81e301cff5e9701c21cc7bd4ed8125d82269e2ff90.jpg" data-descr="Go cost-efficient with an appealing and reliable app for both Android and iOS" data-link="/technologies/hybrid-development" data-alt="Hybrid Platform Image" class="sub-item-link sub-item-link--list">Search Engine Optimization(SEO)</a>
   </li>
   </ul>
   

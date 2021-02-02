@@ -33,8 +33,8 @@
                 <li class="menu-item"><a href="it-consulting-services.php">IT Consulting</a></li>
                 <li class="menu-item  has-dropdown"><a href="digital-marketing-services.php">Digital Marketing</a>
                             <ul class="sub-menu">
-                            <li class="menu-item"><a href="cloud-aws.php">Social Media Marketing</a></li>
-                            <li class="menu-item"><a href="cloud-heroku.php">Search Engine Optimization(SEO|)</a></li>
+                            <li class="menu-item"><a href="">Social Media Marketing</a></li>
+                            <li class="menu-item"><a href="">Search Engine Optimization(SEO|)</a></li>
                             </ul>
                 </li>
                 <li class="menu-item has-dropdown"><a href="cloud-services.php">Cloud</a>

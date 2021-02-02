@@ -33,8 +33,8 @@
                 <li class="menu-item"><a href="service/it-consulting-services.html">IT Consulting</a></li>
                 <li class="menu-item  has-dropdown"><a href="service/digital-marketing-services.html">Digital Marketing</a>
                             <ul class="sub-menu">
-                            <li class="menu-item"><a href="service/cloud-aws.html">Social Media Marketing</a></li>
-                            <li class="menu-item"><a href="service/cloud-heroku.html">Search Engine Optimization(SEO|)</a></li>
+                            <li class="menu-item"><a href="">Social Media Marketing</a></li>
+                            <li class="menu-item"><a href="">Search Engine Optimization(SEO|)</a></li>
                             </ul>
                 </li>
                 <li class="menu-item has-dropdown"><a href="service/cloud-services.html">Cloud</a>
@@ -42,7 +42,7 @@
                             <li class="menu-item"><a href="service/cloud-aws.html">Amazon Web Services</a></li>
                             <li class="menu-item"><a href="service/cloud-heroku.html">Heroku</a></li>
                             <li class="menu-item"><a href="service/cloud-firebase.html">Firebase</a></li>
-                            <li class="menu-item"><a href="service/contabo.html">Contabo</a></li>
+                            <li class="menu-item"><a href="service/cloud-contabo.html">Contabo</a></li>
                             </ul>
                 </li>
         </ul>        
