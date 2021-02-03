@@ -10,13 +10,12 @@
 <div class="footer__address">
 <img src="assets/img/logo.png" style="width: 45%;">
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p>
+<p>We are a Software Development Company in Pune that thrives on the vision of mutual growth.</p>
 </div>
 </div> </div>
 </div>
 <div class="col-md-2">
-  <div class="footer__about">
+  <!-- <div class="footer__about">
 <div class="footer__address">
 <div class="footer__office">
   <a class="footer__heading">Contacts</a>
@@ -31,7 +30,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p
 More contacts<i class="isoi-angle-right"></i>
 </a>
 </div>
-</div> </div>
+</div> </div> -->
 </div>
   <div class="col-md-6">
     

@@ -21,472 +21,88 @@ About SoftEzi </h1>
 <div class="container mission-vision">
 <div class="grid grid--column grid--center">
 <h2 class="title title--black title--medium title--uppercase">Mission & Vision</h2>
-<p class="text text--w-large text--s-small">Our mission is to empower small and large businesses and startups by initiating their way in the accelerating digital world. We work on ideas, design, development, and launch, and offer post-launch maintenance and support. Our experts specialize in designing services, tech support, and marketing strategies and oversee your brand’s rise and success. We aim to grow, ensuring your growth with us.</p>
+<p class="text text--w-large text--s-small">Our mission is to empower small and large businesses and startups by initiating their way in the accelerating digital world. We work on ideas, design, development, and launch, and offer post-launch maintenance and support. Our experts specialize in designing services, tech support, and marketing strategies and oversee your brand’s rise and success. Gain a competitive advantage in your field by leveraging our services. We aim to grow, ensuring your growth with us.</p>
 </div>
 </div>
 
 </div>
-<svg xmlns="http://www.w3.org/2000/svg" style="display: none">
-<symbol id="hexagon" viewbox="0 0 184 161">
-<polygon points="184 80.5 138 161 46 161 0 80.5 46 0 138 0"></polygon>
-<path d="M6,168.5 L30.5,153.5 L6,168.5 Z"></path>
-</symbol>
-</svg>
-<section class="enterprise-core-mob">
-<div id="particles"></div>
-<div class="divider-t-50">
-<div class="container">
-<div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">Technology excellence</h2>
-</div>
-</div>
-</div>
-<div class="tech-container">
-<div class="tech-item main">
-<svg class="tech-triangle up" xmlns="http://www.w3.org/2000/svg" width="276" height="40" viewBox="0 0 276 40">
-<polygon fill="#1476F2" fill-rule="evenodd" points="276 40 0 40 134.979 0" />
-</svg>
-<input type="checkbox" class="read-more-state" id="post-0" />
-<div class="read-more-wrap">
-<h3>ENTERPRISE CORE</h3>
-<p>We offer comprehensive tech expertise and enterprise IT support. Our software development services include strategy consulting, CX design, engineering, and lifecycle management of custom products, as well as system integration.</p>
-</div>
-<svg class="tech-triangle" xmlns="http://www.w3.org/2000/svg" width="276" height="40" viewBox="0 0 276 40">
-<polygon fill="#1476F2" fill-rule="evenodd" points="276 0 134.979 40 0 0" />
-</svg>
-<label for="post-0" class="read-more-trigger main"></label>
-<div class="bg-cube"></div>
-</div>
-<div class="tech-item">
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/blockchain-technology.svg" alt="Blockchain">
-<figcaption>
-<h4>
-<a href="https://blockchain.intellectsoft.net/">Blockchain</a>
-</h4>
-</figcaption>
-</figure>
-<input type="checkbox" class="read-more-state" id="post-1" />
-<ul class="item-list read-more-wrap">
-<li>Public and private blockchains</li>
-<li>Distributed transaction platforms</li>
-<li>Smart contracts</li>
-<li>Cryptocurrencies, wallets, and exchanges</li>
-<li>Blockchains and cryptocurrencies forks</li>
-<li>
-<a href="https://blockchain.intellectsoft.net/">learn more<i class="isoi-angle-right"></i></a>
-</li>
-</ul>
-<svg class="tech-triangle" xmlns="http://www.w3.org/2000/svg" width="276" height="42" viewBox="0 0 276 42">
-<path fill="#FFF" fill-rule="evenodd" stroke="#AAC7ED" d="M276 1L138 41 0 1" />
-</svg>
-<label for="post-1" class="read-more-trigger"></label>
-</div>
-<div class="tech-item">
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/augmented-reality.svg" alt="XR">
-<figcaption>
-<h4><a href="https://ar.intellectsoft.net/">XR</a></h4>
-</figcaption>
-</figure>
-<input type="checkbox" class="read-more-state" id="post-2" />
-<ul class="item-list read-more-wrap">
-<li>Mixed reality applications</li>
-<li>Industrial AR/VR solutions</li>
-<li>3D modelling and prototyping</li>
-<li>Installations and trainings</li>
-<li>
-<a href="https://ar.intellectsoft.net/">learn more<i class="isoi-angle-right"></i></a>
-</li>
-</ul>
-<svg class="tech-triangle" xmlns="http://www.w3.org/2000/svg" width="276" height="42" viewBox="0 0 276 42">
-<path fill="#FFF" fill-rule="evenodd" stroke="#AAC7ED" d="M276 1L138 41 0 1" />
-</svg>
-<label for="post-2" class="read-more-trigger"></label>
-</div>
-<div class="tech-item">
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/page.svg" alt="UX">
-<figcaption>
-<h4><a href="services/ui-ux-design-services.html">UX</a>
-</h4>
-</figcaption>
-</figure>
-<input type="checkbox" class="read-more-state" id="post-3" />
-<ul class="item-list read-more-wrap">
-<li>UI / Front-end design</li>
-<li>CX and digital journeys</li>
-<li>Low-code mobile platforms</li>
-<li>App management and analytics</li>
-<li>
-<a href="services/ui-ux-design-services.html">learn more<i class="isoi-angle-right"></i></a>
-</li>
-</ul>
-<svg class="tech-triangle" xmlns="http://www.w3.org/2000/svg" width="276" height="42" viewBox="0 0 276 42">
-<path fill="#FFF" fill-rule="evenodd" stroke="#AAC7ED" d="M276 1L138 41 0 1" />
-</svg>
-<label for="post-3" class="read-more-trigger"></label>
-</div>
-<div class="tech-item">
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/artificial-intelligence.svg" alt="AI">
-<figcaption>
-<h4><a href="https://ai.intellectsoft.net/">AI</a></h4>
-</figcaption>
-</figure>
-<input type="checkbox" class="read-more-state" id="post-4" />
-<ul class="item-list read-more-wrap">
-<li>Cloud based AI models</li>
-<li>Machine learning algorithms</li>
-<li>Data management and analysis</li>
-<li>Visual information processing</li>
-<li>
-<a href="https://ai.intellectsoft.net/">learn more<i class="isoi-angle-right"></i></a>
-</li>
-</ul>
-<svg class="tech-triangle" xmlns="http://www.w3.org/2000/svg" width="276" height="42" viewBox="0 0 276 42">
-<path fill="#FFF" fill-rule="evenodd" stroke="#AAC7ED" d="M276 1L138 41 0 1" />
-</svg>
-<label for="post-4" class="read-more-trigger"></label>
-</div>
-<div class="tech-item">
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/internet-of-things.svg" alt="IoT">
-<figcaption>
-<h4><a href="https://iot.intellectsoft.net/">IoT</a>
-</h4>
-</figcaption>
-</figure>
-<input type="checkbox" class="read-more-state" id="post-5" />
-<ul class="item-list read-more-wrap">
-<li>Interconnected smart devices</li>
-<li>Distributed sensor data applications</li>
-<li>Embedded platforms</li>
-<li>Remote monitoring and management</li>
-<li>
-<a href="https://iot.intellectsoft.net/">learn more<i class="isoi-angle-right"></i></a>
-</li>
-</ul>
-<svg class="tech-triangle" xmlns="http://www.w3.org/2000/svg" width="276" height="42" viewBox="0 0 276 42">
-<path fill="#FFF" fill-rule="evenodd" stroke="#AAC7ED" d="M276 1L138 41 0 1" />
-</svg>
-<label for="post-5" class="read-more-trigger"></label>
-</div>
-</div>
-</section>
-<section class="enterprise-core">
-<div id="particles"></div>
-<div class="divider-t-50">
-<div class="container">
-<div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">Technology excellence</h2>
-</div>
-</div>
-</div>
-<div class="hexa-container">
-<div class="item item-top">
-<svg class="hex hex-outer" viewBox="0 0 232 203">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g transform="translate(1.000000, 1.000000)" stroke="#AAC7ED">
-<polygon points="230 100.5 172.5 201 57.5 201 0 100.5 57.5 0 172.5 0"></polygon>
-<path d="M114,233.538767 L114,201"></path>
-</g>
-</g>
-</svg>
-<svg class="hex hex-inner">
-<use xlink:href="#hexagon" />
-</svg>
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/blockchain-technology.svg" alt="Blockchain">
-<figcaption>
-<h3><a href="https://blockchain.intellectsoft.net/">Blockchain<i class="isoi-angle-right"></i></a>
-</h3>
-</figcaption>
-</figure>
-<ul class="item-list item-list-top">
-<li>Public and private blockchains</li>
-<li>Distributed transaction platforms</li>
-<li>Smart contracts</li>
-<li>Cryptocurrencies, wallets, and exchanges</li>
-<li>Blockchains and cryptocurrencies forks</li>
-</ul>
-</div>
-<div class="item item-right-top">
-<svg class="hex hex-outer" viewBox="0 0 232 203">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g transform="translate(1.000000, 1.000000)" stroke="#AAC7ED">
-<polygon points="230 100.5 172.5 201 57.5 201 0 100.5 57.5 0 172.5 0"></polygon>
-<path d="M6,168.5 L30.5,153.5 L6,168.5 Z"></path>
-</g>
-</g>
-</svg>
-<svg class="hex hex-inner">
-<use xlink:href="#hexagon" />
-</svg>
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/augmented-reality.svg" alt="XR">
-<figcaption>
-<h3>
-<a href="https://ar.intellectsoft.net/">XR<i class="isoi-angle-right"></i></a>
-</h3>
-</figcaption>
-</figure>
-<ul class="item-list item-list-top-right">
-<li>Mixed reality applications</li>
-<li>Industrial AR/VR solutions</li>
-<li>3D modelling and prototyping</li>
-<li>Installations and trainings</li>
-</ul>
-</div>
-<div class="item item-right-bottom">
-<svg class="hex hex-outer" viewBox="0 0 232 203">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g transform="translate(1.000000, 1.000000)" stroke="#AAC7ED">
-<polygon points="230 100.5 172.5 201 57.5 201 0 100.5 57.5 0 172.5 0"></polygon>
-<path d="M26.5,52.5 L3,38" transform="translate(15.000000, 45.500000) scale(-1, -1) translate(-15.000000, -45.500000)"></path>
-</g>
-</g>
-</svg>
-<svg class="hex hex-inner">
-<use xlink:href="#hexagon" />
-</svg>
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/page.svg" alt="UX">
-<figcaption>
-<h3>
-<a href="services/ui-ux-design-services.html"><i class="isoi-angle-right"></i>UX</a>
-</h3>
-</figcaption>
-</figure>
-<ul class="item-list item-list-bottom-right">
-<li>UI / Front-end design</li>
-<li>CX and digital journeys</li>
-<li>Low-code mobile platforms</li>
-<li>App management and analytics</li>
-</ul>
-</div>
-<div class="item item-left-bottom">
-<svg class="hex hex-outer" viewBox="0 0 232 203">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g transform="translate(1.000000, 1.000000)" stroke="#AAC7ED">
-<polygon points="230 100.5 172.5 201 57.5 201 0 100.5 57.5 0 172.5 0"></polygon>
-<path d="M226.5,52.5 L202.5,38" transform="translate(214.500000, 45.500000) scale(1, -1) translate(-214.500000, -45.500000) "></path>
-</g>
-</g>
-</svg>
-<svg class="hex hex-inner">
-<use xlink:href="#hexagon" />
-</svg>
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/artificial-intelligence.svg" alt="AI">
-<figcaption>
-<h3>
-<a href="https://ai.intellectsoft.net/">AI<i class="isoi-angle-right"></i></a>
-</h3>
-</figcaption>
-</figure>
-<ul class="item-list item-list-bottom-left">
-<li>Cloud based AI models</li>
-<li>Machine learning algorithms</li>
-<li>Data management and analysis</li>
-<li>Visual information processing</li>
-</ul>
-</div>
-<div class="item item-left-top">
-<svg class="hex hex-outer" viewBox="0 0 232 203">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-<g transform="translate(1.000000, 1.000000)" stroke="#AAC7ED">
-<polygon points="230 100.5 172.5 201 57.5 201 0 100.5 57.5 0 172.5 0"></polygon>
-<path d="M224.5,168.5 L199.5,153.5"></path>
-</g>
-</g>
-</svg>
-<svg class="hex hex-inner">
-<use xlink:href="#hexagon" />
-</svg>
-<figure class="hex-media">
-<img src="assets/49c5770d/img/home-offers/internet-of-things.svg" alt="IoT">
-<figcaption>
-<h3>
-<a href="https://iot.intellectsoft.net/">IoT<i class="isoi-angle-right"></i></a>
-</h3>
-</figcaption>
-</figure>
-<ul class="item-list item-list-bottom-left">
-<li>Interconnected smart devices</li>
- <li>Distributed sensor data applications</li>
-<li>Embedded platforms</li>
-<li>Remote monitoring and management</li>
-</ul>
-</div>
-<div class="item item-center">
-<svg class="hex">
-<use xlink:href="#hexagon" />
-</svg>
-<figure class="hex-media hex-media-center">
-<figcaption>
-<h3>ENTERPRISE CORE</h3>
-<p>We offer comprehensive tech expertise and enterprise IT support. Our software development services include strategy consulting, CX design, engineering, and lifecycle management of custom products, as well as system integration.</p>
-</figcaption>
-</figure>
-</div>
-</div>
-</section>
-<div class="ranking">
-<div class="container">
-<h2 class="ranking__title">Awards & Recognition</h2>
-<div class="owl-carousel" id="ranking">
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/clutch-global-2018.png" alt="Clutch Global 2018">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/iaop.png" alt="IAOP">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/inc-5000.png" alt="Inc 5000">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/stevies.png" alt="The Stevies">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/top-design.png" alt="Top Design Firms">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/goodfirms-software.png" alt="Goodfirms Software">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/clutch-blockchain.png" alt="Clutch Blockchain">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/techies.png" alt="Techies">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/itfirms.png" alt="IT Firms">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/business-apps.png" alt="Business of Apps">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/goodfirms.png" alt="Goodfirms">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/clutch-2017.png" alt="Clutch 2017">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/appindex.png" alt="Appindex">
-</div>
-<div class="ranking__item item">
-<img class="ranking__img" src="assets/49c5770d/img/ratings-logos/ibm.png" alt="IBM Essentials">
-</div>
-</div>
-</div>
-</div>
+
 
 
 <section class="team"style="padding:0px;">
   <div class="container">
+  <div class="grid grid--column grid--center">
+<h2 class="title title--black title--medium title--uppercase">OUR TEAM</h2>
+<p class="text text--w-large text--s-small">Get yourself acquainted with SoftEzi's Tech experts, who have committed themselves to your enterprise's growth through custom software solutions. We have a track record of creating opportunities globally by employing a global perspective and futuristic vision. We have expertise in Website Development, Mobile Application Development, AI services, Machine Learning, Digital Marketing, and Cloud services. Our IT Consultants have been offering reliable services to small and thriving businesses. Meet our team, and become a part of the SoftEzi family tree, linked through trust and mutual growth.</p>
+</div>
   <div class="team__block">
   <div class="team__block--title">
   <h2>Executive Board</h2>
   </div>
-  <div class="team__block--list">
+  <!-- <div class="team__block--list">
   <div class="team__block--item">
   <div class="team__block--image">
   <div class="team-image">
-  <img src="blog/wp-content/uploads/alexander_skalabanov-150x150.jpg" alt="">
+  <img src="assets/img/members/Harshal.jpeg" alt="">
   </div>
   <div class="team-content">
-  <h3>Alexander Skalabanov</h3>
-  <span>Co-founder and Board Director</span>
-  </div>
-  </div>
-  </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/artem_kozel-150x150.jpg" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Artem Kozel</h3>
-  <span>Co-founder and Board Member</span>
+  <h3>SoftEzi's Director and Chief Marketing Officer,<br>Harshal Adarkar</h3>
+  <span>manages analytical and creative company tasks and leads global brand management and growth.</span>
   </div>
   </div>
   </div>
   <div class="team__block--item">
   <div class="team__block--image">
   <div class="team-image">
-  <img src="blog/wp-content/uploads/vladimirs_vahromovs-150x150.jpg" alt="">
+  <img src="assets/img/members/Sajid.jpeg" alt="">
   </div>
   <div class="team-content">
-  <h3>Vladimirs Vahromovs</h3>
-  <span>Chief Executive Officer</span>
+  <h3>Sajid Shaikh</h3>
+  <span>Director and Chief Financial Officer</span>
   </div>
   </div>
   </div>
   <div class="team__block--item">
   <div class="team__block--image">
   <div class="team-image">
-  <img src="blog/wp-content/uploads/andriy_kashcheyev-150x150.jpg" alt="">
+  <img src="assets/img/members/Saurabh.jpeg" alt="">
   </div>
   <div class="team-content">
-  <h3>Andriy Kashcheyev</h3>
-  <span>Chief Technical Officer</span>
+  <h3>Saurabh Karpe</h3>
+  <span>Head of Business Development</span>
   </div>
   </div>
   </div>
+
+  </div> -->
+  <div class="row">
+  <div class="card member-card">
+    <img class="card-img" src="assets/img/members/Harshal.jpeg" alt="">
+    <div class="">
+      <h5 class="card-title">SoftEzi's Director and Chief Marketing Officer,<br>Harshal Adarkar</h5>
+      <p class="card-text">manages analytical and creative company tasks and leads global brand management and growth.</p>
+    </div>
   </div>
+  <div class="card member-card">
+    <img class="card-img" src="assets/img/members/Sajid.jpeg" alt="">
+    <div class="">
+      <h5 class="card-title">SoftEzi's Director and Chief Financial Officer,<br>Sajid Shaikh ,</h5>
+      <p class="card-text">supervises and leads budgetary strategies. Setting SoftEzi's commercial itinerary, Sajid oversees chief company operations.</p>
+    </div>
   </div>
-  <div class="team__block">
-  <div class="team__block--title">
-  <h2>Delivery and Accounts</h2>
+  <div class="card member-card">
+    <img class="card-img" src="assets/img/members/Saurabh.jpeg" alt="">
+    <div class="">
+      <h5 class="card-title">SoftEzi's President,<br> Sourabh Karpe</h5>
+      <p class="card-text">, is the man behind the wheel and has been setting policies and missions to achieve worldwide growth in the digital arena</p>
+    </div>
   </div>
-  <div class="team__block--list">
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/vadym_prokhurenko-150x150.jpg" alt="">
+
   </div>
-  <div class="team-content">
-  <h3>Vadym Prokhurenko</h3>
-  <span>Delivery Director </span>
+
   </div>
-  </div>
-  </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/polina_klimenko-150x150.jpg" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Polina Klimenko</h3>
-  <span>Delivery Manager</span>
-  </div>
-  </div>
-  </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/bakhtior_aripov-150x150.jpg" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Bakhtior Aripov</h3>
-  <span>Delivery Manager</span>
-  </div>
-  </div>
-  </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/olesia_pidiablonska-150x150.jpg" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Olesia Pidiablonska</h3>
-  <span>Delivery Manager</span>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
+  
+<!--   
   <div class="team__block">
   <div class="team__block--title">
   <h2>Business Development</h2>
@@ -536,41 +152,11 @@ About SoftEzi </h1>
   </div>
   </div>
   </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/kurt_tonheim-150x150.jpg" alt="">
+ 
+
+ 
   </div>
-  <div class="team-content">
-  <h3>Kurt Tonheim</h3>
-  <span>VP of Sales, Nordic Region</span>
-  </div>
-  </div>
-  </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/Diana-Kocheva-150x150.jpg" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Diana Kocheva</h3>
-  <span>Head of Healthcare Digitalization Services</span>
-  </div>
-  </div>
-  </div>
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="blog/wp-content/uploads/Mariia-Dobrovolsk-150x150.jpg" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Mariia Dobrovolska</h3>
-  <span>Head of Insurance Digitalization Services</span>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
+  </div> -->
   </div>
   </section>
 
@@ -940,49 +526,44 @@ About SoftEzi </h1>
   <div class="footer__flexbox">
   <ul class="footer__menu"> <li class="has-dropdown"><a href="">Services</a>
   <ul class="sub-menu">
-  <li><a href="">Web Development </a></li>
-  <li><a href="">MOBILE DEVELOPMENT</a></li>
-  <li><a href="">Digital Transformation Services</a></li>
-  <li><a href="">Artificial Intelligence</a></li>
-  <li><a href="">Machine Learning</a></li>
-  <li><a href="">Internet Of things</a></li>
+  <li><a href="service/mobile-development-services.php">Web Development </a></li>
+  <li><a href="service/mobile-development-services.php">MOBILE DEVELOPMENT</a></li>
+  <li><a href="service/cloud-services.php">Cloud</a></li>
+  <li><a href="service/digital-marketing-services.php">Digital Marketing Services</a></li>
+  <li><a href="service/ai-services.php">Artificial Intelligence</a></li>
+ 
   </ul>
   
   <li class="has-dropdown"><a href=""></a>
   <ul class="sub-menu">
-  <li><a href="">Testing</a></li>
-  <li><a href="">Data Analytics</a></li>
-  <li><a href="">UX/UI Design</a></li>
-  <li><a href="">IT Consulting</a></li>
-  <li><a href="">Big data</a></li>
-  <li><a href="">Digital Marketing</a></li>
-  <li><a href="">Cloud</a></li>
+  <li><a href="service/testing-services.php">Testing</a></li>
+  <li><a href="service/ui-ux-design-services.php">UX/UI Design</a></li>
+  <li><a href="service/it-consulting-services.php">IT Consulting</a></li>
+  <li><a href="service/machinelearning-services.php">Machine Learning</a></li>
+  <li><a href="service/iot-services.php">Internet Of things</a></li>
   </ul>
   </li>
   <li class="has-dropdown"><a href="platforms.html">Platforms</a>
   <ul class="sub-menu">
-  <li><a href="services/ios-app-development-services.html">iOS</a></li>
-  <li><a href="services/android-app-development-services.html">Android</a></li>
-  <li><a href="technologies/windows-phone-development-services.html">Windows</a></li>
-  <li><a href="technologies/hybrid-development.html">Hybrid Platform</a></li>
-  <li><a href="solutions/azure.html">Azure</a></li>
+  <li><a href="service/mobile-development-ios-native.php">iOS</a></li>
+  <li><a href="service/mobile-development-android.php">Android</a></li>
+  <li><a href="service/mobile-development-flutter-hybrid.php">Flutter</a></li>
+  <li><a href="service/cloud-aws.php">AWS</a></li>
+  <li><a href="service/cloud-firebase.php">Firebase</a></li>
   </ul>
   </li>
   <li class="has-dropdown"><a href="about.html">Company</a>
   <ul class="sub-menu">
-  <li><a href="about.html">About</a></li>
-  <li><a href="team.html">Team</a></li>
-  <li><a href="careers.html">Careers</a></li>
-  <li><a href="clients.html">Clients</a></li>
-  <li><a href="blog/index.html">Blog</a></li>
-  <li><a href="blog/news/index.html">News</a></li>
+  <li><a href="about.php">About</a></li>
+  <li><a href="clients.php">Clients</a></li>
+  <li><a href="blog/index.php">Blog</a></li>
   </ul>
   </li></ul> <div class="footer__about">
   <div class="footer__address">
   <a class="footer__heading">Contacts</a>
   <div class="footer__office">
-  <a href="mailto:info@intellectsoft.net" class="footer__email">
-  info@intellectsoft.net </a>
+  <a href="mailto:info@softezi.in" class="footer__email">
+  info@SoftEzi.in </a>
   
   
   

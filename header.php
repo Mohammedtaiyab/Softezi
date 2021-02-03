@@ -70,14 +70,12 @@
   .form-group{
     width: inherit;
   }
-  .mysec{
-padding: 3px 61px;
-}
+
 .text-area{
-      position: absolute;
+  position: absolute;
     bottom: 10px;
-    width: 85%;
-    color: white;
+    width: 100%;
+    color: #060505;
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -87,15 +85,7 @@ padding: 3px 61px;
  height: 360px;
  width: 300px;
 }
-.card-bg1{
-background-image: url(assets/49c5770d/img/home-offices/ukraine-kyiv.jpg);
-}
-.card-bg2{
-  background-image: url(assets/49c5770d/img/home-offices/london-uk.jpg);
-}
-.card-bg3{
-  background-image: url(assets/49c5770d/img/home-offices/usa-ny.jpg);
-}
+
 
   @media screen and (max-width: 767px){
 .form__box .form-group {
@@ -108,9 +98,7 @@ background-image: url(assets/49c5770d/img/home-offices/ukraine-kyiv.jpg);
     /* width: 100%; */
     width: 300px;
 }
-.mysec{
-padding: 0px 35px;
-}
+
 .text-area{
       position: absolute;
     bottom: 10px;
@@ -184,6 +172,33 @@ padding: 0px 35px;
 }
 .has-active-menu .nav-mobile .btn-close {
     z-index: 500;
+}
+.card-bg1{
+background-image: url(assets/img/city/pune.jpeg);
+height: 439px;
+}
+.card-bg2{
+  background-image: url(assets/49c5770d/img/home-offices/london-uk.jpg);
+}
+.card-bg3{
+  background-image: url(assets/49c5770d/img/home-offices/usa-ny.jpg);
+}
+.card-bg1::hover .text-area{
+ background-color: #000;
+  
+}
+.office-city{
+  height: 500px;
+}
+.office-city img{
+  height: 100%;
+}
+.member-card{
+  height: auto;
+}
+.card-img{
+height: 380px;
+object-fit: cover;
 }
 </style>
 <!--[if IE 9]>

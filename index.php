@@ -6,10 +6,9 @@ require('header.php');
 <div class="hero-slider__item hero-slider__item--3">
 <div class="hero-slider__content">
 <h2 class="title title--uppercase title--margin-top white-text">
-Dedicated Development Teams </h2>
+WEB DEVELOPMENT </h2>
 <p class="hero-slider__lead white-text lead-text">
-Hire top tech talent and quickly scale your delivery capacity. Our engineers have the necessary niche skills, deep expertise, and are highly loyal. </p>
-
+We design your wishes in a responsive and cost-effective website and bring more clients to your enterprise. 
 </div>
 </div>
 <div class="hero-slider__item hero-slider__item--2">
@@ -18,29 +17,26 @@ Hire top tech talent and quickly scale your delivery capacity. Our engineers hav
 <h2 class="title title--uppercase title--margin-top white-text">
 Mobile App Development </h2>
 <p class="hero-slider__lead white-text lead-text">
-Delivering on-demand mobile app experiences for startups and enterprise clients by leveraging the latest technologies. </p>
-
+We assist you in realizing your vision in the form of a smooth and modern Mobile Application.
 </div>
 </div>
 <div class="hero-slider__item hero-slider__item--8">
 <div class="hero-slider__content">
 <h2 class="title title--uppercase title--margin-top white-text">
-Smart Healthcare Solutions
+Artificial Intelligence Development
 </h2>
 <p class="hero-slider__lead white-text lead-text">
-Leverage the power of digital solutions to provide more effective treatments and care.
-</p>
+We develop an AI system that can predict trends and boost your brand accordingly. </p>
 
 </div>
 </div>
 <div class="hero-slider__item hero-slider__item--9">
 <div class="hero-slider__content">
 <h2 class="title title--uppercase title--margin-top white-text">
-Intelligent Insurance
+Digital Marketing
 </h2>
 <p class="hero-slider__lead white-text lead-text">
-A strategic roadmap for insurers to enhance revenue streams, time-to-market, and profitability.
-</p>
+SoftEzi assists you in your social and digital marketing adventures.</p>
 
 </div>
 </div>
@@ -48,9 +44,9 @@ A strategic roadmap for insurers to enhance revenue streams, time-to-market, and
 <div class="hero-slider__overlay overlay-40"></div>
 <div class="hero-slider__content">
 <h1 class="title title--uppercase title--margin-top white-text">
-Enterprise Software Development </h1>
+Cloud Computing </h1>
 <p class="hero-slider__lead white-text lead-text">
-Leverage our ten-year expertise to create a solid software foundation for your business. </p>
+As a cloud provider who deliver IT resources as you need them.</p>
 
 </div>
 </div>
@@ -62,7 +58,7 @@ Leverage our ten-year expertise to create a solid software foundation for your b
 <p class="description">We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application. We also deliver websites and apps integrated with Artificial Intelligence and Machine Learning services. Additionally, we cater to clients who are on the lookout to make an online presence using social media platforms.</p>
 </div>
 <div id="cemetery" class="owl-carousel owl-theme">
-<div class="item">
+<!-- <div class="item">
 <div class="cemetery__image owl-lazy" data-src="assets/49c5770d/img/clients-logo/universal.svg"></div>
 <div class="cemetery__image owl-lazy" data-src="assets/49c5770d/img/clients-logo/griffins.svg"></div>
 <div class="cemetery__image owl-lazy" data-src="assets/49c5770d/img/clients-logo/hoosbaa.svg"></div>
@@ -98,10 +94,10 @@ Leverage our ten-year expertise to create a solid software foundation for your b
 <div class="cemetery__image owl-lazy" data-src="assets/49c5770d/img/clients-logo/cirrus.svg"></div>
 <div class="cemetery__image owl-lazy" data-src="assets/49c5770d/img/clients-logo/bombardier.svg"></div>
 <div class="cemetery__image owl-lazy" data-src="assets/49c5770d/img/clients-logo/giant.svg"></div>
-</div>
+</div> -->
 </div>
 <div class="column column--flex-center p-top-40 pb-20">
-<a href="contact.html" class="button button--clear button--blue">Talk to our team<i class="isoi-angle-right"></i></a>
+<a href="contact.php" class="button button--clear button--blue">Talk to our team<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 </section>
@@ -117,81 +113,19 @@ What We Offer </h2>
 
 <div class="offers-tab">
 <div id="defaultActiveTab" class="offers-tablinks" data-name="services">Services</div>
-<div class="offers-tablinks" data-name="technologies">Technologies</div>
+<!-- <div class="offers-tablinks" data-name="technologies">Technologies</div> -->
 <!-- <div class="offers-tablinks" data-name="industries">Industries</div> -->
 </div>
 
-<div id="technologies" class="offers-tabcontent">
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/cloud-computing.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Cloud Computing </h3>
-<p class="offer-content-description">
-Use cloud computing solutions to create a scalable, flexible, and connected enterprise environment. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/blockchain-technology.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Blockchain Development </h3>
-<p class="offer-content-description">
-Introduce the highest level of security and automate your operations with our blockchain solutions. </p>
-<a href="" class="offer-content-link-more" onclick="ga('send', 'event', 'blockchain_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/augmented-reality.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Augmented Reality Solutions </h3>
-<p class="offer-content-description">
-Build better prototypes, improve the user experience, and lower costs with AR solutions. </p>
-<a href="" class="offer-content-link-more" onclick="ga('send', 'event', 'ar_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/page.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-UX / UI Design </h3>
-<p class="offer-content-description">
-Build the product you need on time with an experienced team that uses a clear and effective design process. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/artificial-intelligence.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Artificial Intelligence </h3>
-<p class="offer-content-description">
-Custom AI-based solutions like machine and deep learning will help you automate any operation. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/internet-of-things.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Internet of Things </h3>
-<p class="offer-content-description">
-Secure IoT solutions will let you gather Big Data, optimise key processes, and improve decision-making. </p>
-<a href="" class="offer-content-link-more" onclick="ga('send', 'event', 'iot_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
 <div id="services" class="offers-tabcontent">
 <div class="tabcontent-item">
 <img class="offer-image" src="assets/49c5770d/img/home-offers/enterprise.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-Enterprise Software Development </h3>
+WEB DEVELOPMENT  </h3>
 <p class="offer-content-description">
-Create complex enterprise software, ensure reliable software integration, modernise your legacy system. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
+We design your wishes in a responsive and cost-effective website and bring more clients to your enterprise. </p>
+<a href="service/web-development-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -200,18 +134,18 @@ Create complex enterprise software, ensure reliable software integration, modern
 <h3 class="offer-content-title">
 Mobile App Development </h3>
 <p class="offer-content-description">
-Create an impactful mobile app that fits your brand and industry within a shorter time frame. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
+We assist you in realizing your vision in the form of a smooth and modern Mobile Application</p>
+<a href="service/mobile-development-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
 <img class="offer-image" src="assets/49c5770d/img/home-offers/dedicated-team.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-Dedicated Development Team </h3>
+Digital Marketing </h3>
 <p class="offer-content-description">
-Hire a loyal software development team with niche skills and deep expertise. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
+SoftEzi assists you in your social and digital marketing adventures.</p>
+<a href="service/digital-marketing-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -220,8 +154,7 @@ Hire a loyal software development team with niche skills and deep expertise. </p
 <h3 class="offer-content-title">
 IT Consulting </h3>
 <p class="offer-content-description">
-Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
+Stop wasting your time on dead ends that show no results. Our experienced team of IT experts at SoftEzi ensures that you do not get left behind.<a href="service/it-consulting-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -230,294 +163,91 @@ Trust our top minds to eliminate workflow pain points, implement new tech, and c
 <h3 class="offer-content-title">
 UX / UI Design </h3>
 <p class="offer-content-description">
-Build the product you need on time with an experienced team that uses a clear and effective design process. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
+We ensure that the User Interface is not lousy, assuring a great user experience.<a href="service/ui-ux-design-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
 <img class="offer-image" src="assets/49c5770d/img/home-offers/quality-assurance.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-QA & Testing </h3>
+Software Testing & Quality Assurance </h3>
 <p class="offer-content-description">
-Turn to our experts to perform comprehensive, multi-stage testing and auditing of your software. </p>
-<a href="" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div id="industries" class="offers-tabcontent">
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/construction.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Construction </h3> 
-<p class="offer-content-description">
-Advanced software solutions that take Construction into the Digital Era. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
+We provide niche testing and your own QA masterplan at an affordable price to concretize your credibility with your customers. </p>
+<a href="service/testing-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/healthcare.svg" />
+<img class="offer-image" src="assets/49c5770d/img/home-offers/cloud-computing.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-Healthcare </h3>
+Cloud Computing </h3>
 <p class="offer-content-description">
-Patient-friendly software that empowers healthcare industry workers. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
+As a cloud provider who deliver IT resources as you need them </p>
+<a href="service/cloud-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/retail-ecomerce.svg" />
+<img class="offer-image" src="assets/49c5770d/img/home-offers/artificial-intelligence.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-Retail & eCommerce </h3>
+Artificial Intelligence </h3>
 <p class="offer-content-description">
-Engaging and exciting software solutions for modern retail. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
+We access your needs and wishes and offer you an Artificial Intelligence system to hack your growth plan.  </p>
+<a href="service/ai-services.php" class="offer-content-link-more">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/finance-insurance.svg" />
+<img class="offer-image" src="assets/49c5770d/img/home-offers/internet-of-things.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-FinTech </h3>
+Internet of Things </h3>
 <p class="offer-content-description">
-Meet the demands of modern customers in speed and security with scalable financial technology. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/travel-hospitality.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Travel & Hospitality </h3>
-<p class="offer-content-description">
-Extend the comfort of your resort with practical software solutions. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/insurance-main.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Insurance  </h3>
-<p class="offer-content-description">
-Boost the profitability and safety of your business processes through innovative insurance software solutions. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
+SoftEzi delivers that by providing its services in the form of the Internet of Things (IoT). </p>
+<a href="service/iot-services.php" class="offer-content-link-more" onclick="ga('send', 'event', 'iot_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </section>
-<section class="clients-success">
-<div class="container">
-<h2 class="title title--black">
-Client Success </h2>
-<a href="" class="all-link">
-All Case Studies<i class="isoi-angle-right"></i>
-</a>
-<div class="swiper-container main-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(assets/49c5770d/img/clients-success/cirrus-1x.jpg); background-image: -webkit-image-set(url(assets/49c5770d/img/clients-success/cirrus-1x.jpg) 1x, url(assets/49c5770d/img/clients-success/cirrus-2x.jpg) 2x)">
-<img src="assets/49c5770d/img/clients-logo/cirrus.svg" class="entity-img lazy" alt="Cirruspath" />
-</figure>
-<div class="content">
-<div class="title">Cirruspath</div>
-<p class="caption">Cirruspath was behind the highest-rated app for integrating Salesforce with a user’s email inbox. Cirrus Insight Mobile helps you leverage your sales data to gain valuable insights and uncover new...</p>
-<a href="" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(assets/49c5770d/img/clients-success/eurostar-1x.jpg); background-image: -webkit-image-set(url(assets/49c5770d/img/clients-success/eurostar-1x.jpg) 1x, url(assets/49c5770d/img/clients-success/eurostar-2x.jpg) 2x)">
-<img src="assets/49c5770d/img/clients-logo/eurostar.svg" class="entity-img lazy" alt="Eurostar" />
-</figure>
-<div class="content">
-<div class="title">Eurostar</div>
-<p class="caption">A high-speed railway pioneer gains a series of automated solutions to process passenger information, improve on-board services, and report critical information to passengers.</p>
-<a href="" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(assets/49c5770d/img/clients-success/harley-davidson-1x.jpg); background-image: -webkit-image-set(url(assets/49c5770d/img/clients-success/harley-davidson-1x.jpg) 1x, url(assets/49c5770d/img/clients-success/harley-davidson-2x.jpg) 2x)">
-<img src="assets/49c5770d/img/clients-logo/harley-davidson.svg" class="entity-img lazy" alt="Harley-Davidson" />
-</figure>
-<div class="content">
-<div class="title">Harley-Davidson</div>
-<p class="caption">Iconic motorcycle brand finds a fresh way to engage its fans while on the road by creating a mobile app that allows exhibition staff to sign prospective clients.</p>
-<a href="" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(assets/49c5770d/img/clients-success/ernst-young-1x.jpg); background-image: -webkit-image-set(url(assets/49c5770d/img/clients-success/ernst-young-1x.jpg) 1x, url(assets/49c5770d/img/clients-success/ernst-young-2x.jpg) 2x)">
-<img src="assets/49c5770d/img/clients-logo/ernst-young.svg" class="entity-img lazy" alt="Ernst & Young" />
-</figure>
-<div class="content">
-<div class="title">Ernst & Young</div>
-<p class="caption">Forecasts in Focus confirms E&Y as a thought-leader in the eyes of an audience relying on data to drive smarter investment decisions.</p>
-<a href="" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(assets/49c5770d/img/clients-success/guinness-1x.jpg); background-image: -webkit-image-set(url(assets/49c5770d/img/clients-success/guinness-1x.jpg) 1x, url(assets/49c5770d/img/clients-success/guinness-2x.jpg) 2x)">
-<img src="assets/49c5770d/img/clients-logo/guinness.svg" class="entity-img lazy" alt="Guinness" />
-</figure>
-<div class="content">
-<div class="title">Guinness</div>
-<p class="caption">This marketing communications app prepared for Arthur Guinness Day vitalized the conversation between the beloved beverage brand and its admirers.</p>
-<a href="" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(assets/49c5770d/img/clients-success/jaguar-talk-1x.jpg); background-image: -webkit-image-set(url(assets/49c5770d/img/clients-success/jaguar-talk-1x.jpg) 1x, url(assets/49c5770d/img/clients-success/jaguar-talk-2x.jpg) 2x)">
-<img src="assets/49c5770d/img/clients-logo/jaguar-talk.svg" class="entity-img lazy" alt="Jaguar Land Rover" />
-</figure>
-<div class="content">
-<div class="title">Jaguar Land Rover</div>
-<p class="caption">The JRL Talk solution is a multilingual mobile application that lets the company’s representative leap over language barriers in a matter of seconds, ensuring clear and productive conversations.</p>
-<a href="" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-container nav-slider loading">
-<div class="swiper-wrapper">
- <div class="swiper-slide">
-<figure class="logo-nav">
-<img src="assets/49c5770d/img/clients-logo/cirrus.png" class="entity-img entity-img--nav" alt="Cirruspath" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="assets/49c5770d/img/clients-logo/eurostar.png" class="entity-img entity-img--nav" alt="Eurostar" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="assets/49c5770d/img/clients-logo/harley-davidson.png" class="entity-img entity-img--nav" alt="Harley-Davidson" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="assets/49c5770d/img/clients-logo/ernst-young.png" class="entity-img entity-img--nav" alt="Ernst & Young" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="assets/49c5770d/img/clients-logo/guinness.png" class="entity-img entity-img--nav" alt="Guinness" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="assets/49c5770d/img/clients-logo/jaguar-talk.png" class="entity-img entity-img--nav" alt="Jaguar Land Rover" />
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
+
+
+
 <section class="offices">
 <div class="container">
 <div class="offices__title">
 <div>Our Offices</div>
-<p>Intellectsoft operates in multiple offices and development centers across the globe. Reach out to us for software development services in your region.</p>
+<p>SoftEZi operates in multiple offices and development centers across the globe. Reach out to us for software development services in your region.</p>
 </div>
-<div class="row mysec">
+<div class="row">
 <div class="col-md-4">
-<div class="card card-bg1"style="">
+<div class="card office-city">
+  <img src="assets/img/city/pune.jpeg" alt="">
   <div class="text-area">
-     <h3>UKRAINE<br>KYIV</h3>
-  <p>+380 (44) 332-24-36</p>
-<p><a href="mailto:"></a></p>
+  
   </div>
 </div>
 </div>
 <div class="col-md-4">
-<div class="card card-bg2"  style="">
+<div class="card  office-city">
+  <img src="assets/img/city/thane.jpeg" alt="">
  <div class="text-area">
-     <h3>UKRAINE<br>KYIV</h3>
-  <p>+380 (44) 332-24-36</p>
-<p><a href="mailto:"></a></p>
+     
   </div>
 </div>
 </div>
 <div class="col-md-4">
-<div class="card card-bg3"  style="">
+<div class="card  office-city">
+  <img src="assets/img/city/trivandrum.jpeg" alt="">
+
  <div class="text-area">
-     <h3>UKRAINE<br>KYIV</h3>
-  <p>+380 (44) 332-24-36</p>
-<p><a href="mailto:"></a></p>
+  
   </div>
-</div>
-</div>
-</div>
 
-
-
-<!-- <div id="officesSlider" class="offices-slider owl-carousel">
-
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/ukraine-kyiv.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">UKRAINE<br>KYIV</div>
-<div class="offices-slider__address">
-<p>+380 (44) 332-24-36</p>
-<p><a href="mailto:"></a></p>
 </div>
 </div>
 </div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">UNITED KINGDOM<br>LONDON</div>
-<div class="offices-slider__address">
-<p>+44 20 3887 0078</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/oslo-norway.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">NORWAY<br>OSLO</div>
-<div class="offices-slider__address">
-<p>+47 21 08 18 50</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="offices-slider__item owl-lazy" data-src="assets/49c5770d/img/home-offices/usa-ny.jpg">
-<div class="offices-slider__content">
-<div class="offices-slider__overlay"></div>
-<div class="offices-slider__text">
-<div class="offices-slider__city">USA<br>NEW YORK</div>
-<div class="offices-slider__address">
-<p>+1 (855) TOP DEVS</p>
-<p><a href="mailto:"></a></p>
-</div>
-</div>
-</div>
-</div>
-</div> -->
 </div>
 </section>
 
