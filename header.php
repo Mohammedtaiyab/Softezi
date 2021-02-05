@@ -187,7 +187,7 @@ padding: 0px 35px;
 <link href="index.html" rel="alternate" hreflang="en-US">
 <link href="index.html" rel="alternate" hreflang="x-default">
 <link href="assets/49c5770d/iconsd391.css?v=1608714995" rel="stylesheet" position="3">
-<link href="assets/49c5770d/bundledb85.css?v=1608714906" rel="stylesheet">
+<link href="assets/49c5770d/bundledb85.css" rel="stylesheet">
 <link rel="stylesheet" href="assets/49c5770d/vendor/owl.carousel.min1a4f.css">
 <style>
     .nav-mobile .c-menu__items {
