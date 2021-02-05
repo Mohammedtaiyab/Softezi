@@ -1,36 +1,38 @@
 <footer class="footer">
   <div class="row">
 <div class="footer__flexbox">
-<div class="col-md-4">
+<div class=".col-xs-6 .col-sm-4">
     <div class="footer__about">
 <div class="footer__address">
 <a class="footer__heading"></a>
 <div class="footer__office">
 <a href="" class="footer__email"></a>
 <div class="footer__address">
-<img src="assets/img/logo.png" style="width: 45%;">
+<img src="assets/img/logo.png" style="width: 32%;">
 </div>
-<p>We are a Software Development Company in Pune that thrives on the vision of mutual growth.</p>
+<p>We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application </p>
 </div>
 </div> </div>
 </div>
 <div class="col-md-2">
-  <!-- <div class="footer__about">
+  <div class="footer__about">
 <div class="footer__address">
 <div class="footer__office">
   <a class="footer__heading">Contacts</a>
 <a href="mailto:" class="footer__email"></a>
 <div class="footer__address">
 
-+1 855 TOP DEVS <br />
-+1 650 300 4335 <br />
-+44 20 3887 0078
++91 967 3954 645<br />
++91 952 9679 645<br />
++91 860 0732 270<br />
++91 860 0732 432<br />
++91 957 9942 949<br />
 </div>
-<a href="" class="all-link footer__link">
-More contacts<i class="isoi-angle-right"></i>
-</a>
+<!--<a href="" class="all-link footer__link">-->
+<!--More contacts<i class="isoi-angle-right"></i>-->
+<!--</a>-->
 </div>
-</div> </div> -->
+</div> </div>
 </div>
   <div class="col-md-6">
     
@@ -307,7 +309,7 @@ More contacts<i class="isoi-angle-right"></i>
 <input type="text" class="form-control" name="last_name" maxlength="255" placeholder="Last Name">
 </div>
 </div>
-  <div class="form-group form__appearance">
+<div class="form-group form__appearance">
 <select class="form__select" name="interest">
 <option value="">I am interested in</option>
 <optgroup label="Services">
@@ -333,30 +335,34 @@ More contacts<i class="isoi-angle-right"></i>
 </div>
 <button class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" >
 Talk to our team </button>
-
-
-
-
 </form>
-
 </div>
 </div>
 </div>
 
-</div>
-<div class="footer__certified">
-</div>
+<!--</div>-->
+<!--<div class="footer__certified">-->
+<!--</div>-->
 <div class="footer__copyright">
 <div class="footer__copy-container">
 <span class="footer__year">&copy; 2020 SoftEzi</span>
-<a class="footer__privacy" href="">Sitemap</a> <a class="footer__privacy" href="" rel="nofollow">Privacy Policy</a> </div>
+<!--<a class="footer__privacy" href=""></a>-->
+<!--<a class="footer__privacy" href="" rel="nofollow"></a>-->
+</div>
 <div class="footer__social social-box">
 <div class="social-box__list">
-<a class="linkedin social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17"><path d="M2 .3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zM.3 16.9V5.8h3.4v11.1H.3zM5.9 5.8h3.3v1.5c.5-.8 1.6-1.8 3.3-1.8 3.5 0 4.1 2.3 4.1 5.3v6.1h-3.4v-5.4c0-1.3-.1-2.9-1.8-2.9-1.8 0-2.1 1.4-2.1 2.8v5.5H5.9V5.8z" /></svg></a>
-<a class="facebook social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="18"><path d="M8 2.9h1.8V.1c-.3 0-.6 0-.9-.1H7.3c-.9 0-1.7.2-2.4.7-.7.6-1.2 1.4-1.3 2.3-.1.4-.1.8-.1 1.2v2.1H.8v3.1h2.6v7.7h3.3V9.4h2.6c.1-1 .2-2 .4-3.1H6.6s0-1.5.1-2.2c0-.9.5-1.2 1.3-1.2" /></svg></a>
-<a class="twitter social-box__icon" href="https://twitter.com" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="19" height="15"><path d="M5.5 11.6C3.6 11.5 2.4 10.1 2 9c.6.1 1.1.1 1.6-.1h.1c-1.1-.2-1.9-.8-2.4-1.7-.4-.6-.6-1.3-.6-2 .5.3 1.1.4 1.7.5-.8-.6-1.3-1.4-1.6-2.3-.2-1 0-1.9.4-2.7 2.1 2.4 4.6 3.7 7.7 3.9v-.4c-.1-.9.1-1.7.5-2.5C10 .8 10.9.2 12 .1c1.2-.2 2.3.1 3.2 1 .1.1.1.1.2.1.8-.2 1.5-.5 2.2-.9h.1c-.3.9-.9 1.5-1.6 2 .7-.1 1.4-.2 2.1-.5-.2.2-.3.4-.5.5-.4.5-.8 1-1.3 1.3-.1.1-.1.1-.1.2v1.6c-.2 1.2-.5 2.3-1 3.3-.5 1.1-1.2 2.1-2 3-1.4 1.4-3.2 2.4-5.2 2.8-.6.2-1.3.3-2 .3-2.2 0-4.2-.5-6-1.6 0 0-.1 0-.1-.1 1.3.2 2.5 0 3.7-.5.7-.2 1.3-.6 1.8-1" /></svg></a>
-<a class="flickr social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="10"><path class="dribble-red" d="M19.3 4.9c0 2.3-1.9 4.2-4.2 4.2-2.4 0-4.2-1.9-4.2-4.2 0-2.3 1.8-4.2 4.2-4.2 2.3 0 4.2 1.9 4.2 4.2" /><path class="dribble-blue" d="M4.2 9.1C1.9 9.1 0 7.2 0 4.9 0 2.6 1.9.7 4.2.7c2.3 0 4.2 1.9 4.2 4.2 0 2.3-1.9 4.2-4.2 4.2z" /></svg></a>
-<a class="youtube social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 20" height="20"><path d="M21.986 4.963a2.745 2.745 0 00-1.931-1.944C18.35 2.56 11.52 2.56 11.52 2.56s-6.831 0-8.535.46c-.94.252-1.68.997-1.931 1.943-.457 1.715-.457 5.293-.457 5.293s0 3.577.457 5.292c.251.946.991 1.66 1.931 1.913 1.704.459 8.535.459 8.535.459s6.831 0 8.535-.46a2.704 2.704 0 001.931-1.912c.457-1.715.457-5.292.457-5.292s0-3.578-.457-5.293zm-12.7 8.54V7.008l5.71 3.249-5.71 3.248z" /></svg></a> </div>
+<a class="fa fa-linkedin-square" style="font-size:24px" href="" rel="nofollow" target="_blank">
+    <!--<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17"><path d="M2 .3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zM.3 16.9V5.8h3.4v11.1H.3zM5.9 5.8h3.3v1.5c.5-.8 1.6-1.8 3.3-1.8 3.5 0 4.1 2.3 4.1 5.3v6.1h-3.4v-5.4c0-1.3-.1-2.9-1.8-2.9-1.8 0-2.1 1.4-2.1 2.8v5.5H5.9V5.8z" /></svg>-->
+    </a>
+<a class="fa fa-facebook-square" style="font-size:24px; margin-left:10px" href="" rel="nofollow" target="_blank">
+    <!--<svg xmlns="http://www.w3.org/2000/svg" width="10" height="18"><path d="M8 2.9h1.8V.1c-.3 0-.6 0-.9-.1H7.3c-.9 0-1.7.2-2.4.7-.7.6-1.2 1.4-1.3 2.3-.1.4-.1.8-.1 1.2v2.1H.8v3.1h2.6v7.7h3.3V9.4h2.6c.1-1 .2-2 .4-3.1H6.6s0-1.5.1-2.2c0-.9.5-1.2 1.3-1.2" /></svg>-->
+    </a>
+<a class=" fa fa-instagram " style="font-size:24px; margin-left:10px" href="https://instagram.com" rel="nofollow" target="_blank">
+    <!--<svg xmlns="http://www.w3.org/2000/svg" width="19" height="15"><path d="M5.5 11.6C3.6 11.5 2.4 10.1 2 9c.6.1 1.1.1 1.6-.1h.1c-1.1-.2-1.9-.8-2.4-1.7-.4-.6-.6-1.3-.6-2 .5.3 1.1.4 1.7.5-.8-.6-1.3-1.4-1.6-2.3-.2-1 0-1.9.4-2.7 2.1 2.4 4.6 3.7 7.7 3.9v-.4c-.1-.9.1-1.7.5-2.5C10 .8 10.9.2 12 .1c1.2-.2 2.3.1 3.2 1 .1.1.1.1.2.1.8-.2 1.5-.5 2.2-.9h.1c-.3.9-.9 1.5-1.6 2 .7-.1 1.4-.2 2.1-.5-.2.2-.3.4-.5.5-.4.5-.8 1-1.3 1.3-.1.1-.1.1-.1.2v1.6c-.2 1.2-.5 2.3-1 3.3-.5 1.1-1.2 2.1-2 3-1.4 1.4-3.2 2.4-5.2 2.8-.6.2-1.3.3-2 .3-2.2 0-4.2-.5-6-1.6 0 0-.1 0-.1-.1 1.3.2 2.5 0 3.7-.5.7-.2 1.3-.6 1.8-1" /></svg>-->
+    </a>
+<!--<a class="instagram social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="10"><path class="dribble-red" d="M19.3 4.9c0 2.3-1.9 4.2-4.2 4.2-2.4 0-4.2-1.9-4.2-4.2 0-2.3 1.8-4.2 4.2-4.2 2.3 0 4.2 1.9 4.2 4.2" /><path class="dribble-blue" d="M4.2 9.1C1.9 9.1 0 7.2 0 4.9 0 2.6 1.9.7 4.2.7c2.3 0 4.2 1.9 4.2 4.2 0 2.3-1.9 4.2-4.2 4.2z" /></svg></a>-->
+<!--<a class="youtube social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 20" height="20"><path d="M21.986 4.963a2.745 2.745 0 00-1.931-1.944C18.35 2.56 11.52 2.56 11.52 2.56s-6.831 0-8.535.46c-.94.252-1.68.997-1.931 1.943-.457 1.715-.457 5.293-.457 5.293s0 3.577.457 5.292c.251.946.991 1.66 1.931 1.913 1.704.459 8.535.459 8.535.459s6.831 0 8.535-.46a2.704 2.704 0 001.931-1.912c.457-1.715.457-5.292.457-5.292s0-3.578-.457-5.293zm-12.7 8.54V7.008l5.71 3.249-5.71 3.248z" /></svg></a>-->
+</div>
 </div> </div>
 </footer>
 </div>
@@ -364,9 +370,8 @@ Talk to our team </button>
 require('mobile-nav.php');
 ?>
 <div id="c-mask" class="c-mask"></div>
-<script type="application/ld+json">[{"@context":"http://schema.org","@type":"Organization","url":"https://www.intellectsoft.net/","name":"Intellectsoft US","logo":"https://www.intellectsoft.net/assets/49c5770d/img/logo-black.svg","email":"info@intellectsoft.net","address":[{"@context":"http://schema.org","@type":"PostalAddress","addressCountry":"United States","addressLocality":"Palo Alto","addressRegion":"CA","postOfficeBoxNumber":"721 Colorado Avenue, Suite 101","postalCode":"94303","telephone":"+1 650 300 4335"},{"@context":"http://schema.org","@type":"PostalAddress","addressCountry":"United States","addressLocality":"New York","addressRegion":"NY","postOfficeBoxNumber":"315 W 36th St.","postalCode":"10018","telephone":"+1 (855) TOP DEVS"}]},{"@context":"http://schema.org","@type":"WebSite","url":"https://www.intellectsoft.net/","name":"Intellectsoft US","sameAs":["https://www.linkedin.com/company/intellectsoft","https://www.facebook.com/Intellectsoft/","http://twitter.com/Intellectsoft","http://flickr.com/photos/intellectsoft/","/"]}]</script>
 <script src="assets/d3cdbfb5/jquery.min6b47.js?v=1463765083"></script>
-<script src="../traccoon.intellectsoft.net/tr.js"></script>
+<script src="assets/tr.js"></script>
 <script src="assets/49c5770d/vendor/egg.min1a4f.js?v=1608714905"></script>
 <script src="assets/49c5770d/vendor/skrollr.min1a4f.js?v=1608714905"></script>
 <script src="assets/49c5770d/vendor/validate.min1a4f.js?v=1608714905"></script>
@@ -382,6 +387,8 @@ require('mobile-nav.php');
 <script src="assets/49c5770d/vendor/jquery.svg3dtagcloud.min1a4f.js?v=1608714905"></script>
 <script src="assets/49c5770d/vendor/advert1a4f.js?v=1608714905"></script>
 <script src="assets/49c5770d/api.minb1f5.js?v=1608715491"></script>
+<script src="assets/49c5770d/vendor/owl.carousel.min-21a4f.js"></script>
+
 <script type="text/javascript">jQuery(document).ready(function () {
 
 $("#cemetery").owlCarousel({

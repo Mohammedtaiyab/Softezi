@@ -7,12 +7,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#0072f6">
-<!-- <link rel="icon" type="image/png" href="favicon.png"> -->
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="assets/img/icon.png" />
+
 
 <style>
       @font-face {
@@ -82,7 +78,7 @@
 <meta name="csrf-token" content="FmZpen-vpI3-UDgvV3lUmbFIFegfxWAP9rUBy_rujkthB2XjecDtXoeHU2HsIqeBWIUmIE6JV3KvpGkpQeaFHg==">
 <meta property="og:title" content="Software Development Company | SoftEzi US">
 <meta property="og:description" content="SoftEzi is a full-service software development company of engineers, designers, and developers. Mobile app development and custom software solutions in USA, Palo Alto">
-<meta property="og:image" content="https://www.intellectsoft.net/logo-big.png">
+<meta property="og:image" content="">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1920">
 <meta property="og:image:height" content="1280">
@@ -99,6 +95,7 @@
 <link href="index.html" rel="alternate" hreflang="en-US">
 <link href="index.html" rel="alternate" hreflang="x-default">
 <link href="assets/49c5770d/iconsd391.css?v=1608714995" rel="stylesheet" position="3">
+
 <link href="assets/49c5770d/vendor/owl.carousel.min1a4f.css?v=1608714905" rel="stylesheet">
 <link href="assets/49c5770d/vendor/swiper.min1a4f.css?v=1608714905" rel="stylesheet">
 <link href="assets/49c5770d/home1a4f.css?v=1608714905" rel="stylesheet">
@@ -124,6 +121,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 }
 .has-active-menu .nav-mobile .btn-close {
     z-index: 500;
+}
+@media screen and (min-width: 900px){
+        .footer__address {
+            width: 345px;
+        }
+        }
+
+
+        .choose-us__slider--item img {
+    margin: 0 auto;
+    width: 120px;
+    height: 120px;
+    object-fit: scale-down;
+    background: #88888821;
+    border-radius: 50%;
+}
+@media(max-width:575px) {
+	body.services-dedicated-development-team .choose-us__slider--item img,
+	body.services-digital-transformation-services .choose-us__slider--item img,
+	body.services-outsourcing-software-development-ukraine-services .choose-us__slider--item img {
+		max-width: fit-content;
+	}
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 120px;
 }
 </style>
 </head>
@@ -164,180 +187,179 @@ TO SUCCEED WITH TECHNOLOGIES</h1>
 </div>
 <div id="cemetery" class="owl-carousel owl-theme">
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/universal-1.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/griffins.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/hoosbaa.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/nestle.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/aya.png" alt="">
+</div></div>
+
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/nhs.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/land-rover.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/af-gruppen.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/clinique.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/cakecarnival.png" alt="">
+</div></div>
+
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/guinness-1.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/jaguar-1.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/wynn.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/harley-1.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/servicexpertz.png" alt="">
+</div></div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/eurostar-1.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/walt-disney.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/melco.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/gulls.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/trojan.png" alt="">
+</div></div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/ey.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/guest-services.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/euro-accident-1.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/audi.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/forrest.png" alt="">
+</div></div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/kjk.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/cirrus-1.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/bombardier.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="blog/wp-content/uploads/giant.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/insta.png" alt="">
+</div></div>
+<div class="item">
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/bhumi.png" alt="">
+</div></div>
+
+<div class="item">
+<div class="choose-us__slider--item">
+<img src="assets/img/clients-logo/jayqu.png" alt="">
+</div></div>
 </div>
 <div class="column column--flex-center p-top-40 pb-20">
 <a href="contacts.html" class="button button--clear button--blue">Talk to our team<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 </section>
-<section class="client-slider">
-<div class="clients-success">
-<div class="container">
-<h2 class="title title--black">
-READ CLIENTS SUCCESS STORIES </h2>
-<a href="cases.html" class="all-link">
-All case studies<i class="isoi-angle-right"></i>
-</a>
-<div class="swiper-container main-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/eurostar.jpg')">
-<img src="blog/wp-content/uploads/eurostar-1.png" class="entity-img lazy" alt="eurostar icon" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>Eurostar</h3>
-<p>A high-speed railway pioneer gains a series of automated solutions to process passenger information, improve on-board services, and report critical information to passengers.</p>
-</div>
-<a href="cases/eurostar/index.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/harley-davidson-1.jpg')">
-<img src="blog/wp-content/uploads/harley-davidson.png" class="entity-img lazy" alt="" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>Harley-Davidson</h3>
-<p>Iconic motorcycle brand finds a fresh way to engage its fans while on the road by creating a mobile app that allows exhibition staff to sign prospective clients.</p>
-</div>
-<a href="cases/harley-davidson.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/ernst-young-2x.jpg')">
-<img src="blog/wp-content/uploads/ernst-young.png" class="entity-img lazy" alt="" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>Ernst &amp; Young</h3>
-<p>Forecasts in Focus confirms E&amp;Y as a thought-leader in the eyes of an audience relying on data to drive smarter investment decisions.</p>
-</div>
-<a href="cases/ernst-young.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/guinness-1.jpg')">
-<img src="blog/wp-content/uploads/guinness-1.png" class="entity-img lazy" alt="" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>Guinness</h3>
-<p>This marketing communications app prepared for Arthur Guinness Day vitalized the conversation between the beloved beverage brand and its admirers.</p>
-</div>
-<a href="cases/guinness.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/jaguar-talk-case-2-1000x486.jpg')">
-<img src="blog/wp-content/uploads/jaguar-talk.png" class="entity-img lazy" alt="" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>Jaguar Land Rover</h3>
-<p>The JRL Talk solution is a multilingual mobile application that lets the company’s representative leap over language barriers in a matter of seconds, ensuring clear and productive conversations.</p>
-</div>
-<a href="cases/jaguar-talk.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/cirruspath.jpg')">
-<img src="blog/wp-content/uploads/cirrus.png" class="entity-img lazy" alt="" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>Cirruspath</h3>
-<p>Cirruspath was behind the highest-rated app for integrating Salesforce with a user’s email inbox. Cirrus Insight Mobile helps you leverage your sales data to gain valuable insights and uncover new&#8230;</p>
-</div>
-<a href="cases/cirrus.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-container nav-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="blog/wp-content/uploads/eurostar-1.png" class="entity-img entity-img--nav" alt="eurostar icon" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="blog/wp-content/uploads/harley-davidson.png" class="entity-img entity-img--nav" alt="" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="blog/wp-content/uploads/ernst-young.png" class="entity-img entity-img--nav" alt="" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="blog/wp-content/uploads/guinness-1.png" class="entity-img entity-img--nav" alt="" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="blog/wp-content/uploads/jaguar-talk.png" class="entity-img entity-img--nav" alt="" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="blog/wp-content/uploads/cirrus.png" class="entity-img entity-img--nav" alt="" />
-</figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+<!--<section class="client-slider">-->
+<!--<div class="clients-success">-->
+<!--<div class="container">-->
+<!--<h2 class="title title--black">-->
+<!--READ CLIENTS SUCCESS STORIES </h2>-->
+<!--<a href="cases.html" class="all-link">-->
+<!--All case studies<i class="isoi-angle-right"></i>-->
+<!--</a>-->
+<!--<div class="swiper-container main-slider loading">-->
+<!--<div class="swiper-wrapper">-->
+<!--<div class="swiper-slide">-->
+<!--<div class="slide-wrapper">-->
+<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/eurostar.jpg')">-->
+<!--<img src="blog/wp-content/uploads/eurostar-1.png" class="entity-img lazy" alt="eurostar icon" />-->
+<!--</figure>-->
+<!--<div class="content">-->
+<!--<div class="caption">-->
+<!--<h3>Eurostar</h3>-->
+<!--<p>A high-speed railway pioneer gains a series of automated solutions to process passenger information, improve on-board services, and report critical information to passengers.</p>-->
+<!--</div>-->
+<!--<a href="cases/eurostar/index.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<div class="slide-wrapper">-->
+<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/harley-davidson-1.jpg')">-->
+<!--<img src="blog/wp-content/uploads/harley-davidson.png" class="entity-img lazy" alt="" />-->
+<!--</figure>-->
+<!--<div class="content">-->
+<!--<div class="caption">-->
+<!--<h3>Harley-Davidson</h3>-->
+<!--<p>Iconic motorcycle brand finds a fresh way to engage its fans while on the road by creating a mobile app that allows exhibition staff to sign prospective clients.</p>-->
+<!--</div>-->
+<!--<a href="cases/harley-davidson.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<div class="slide-wrapper">-->
+<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/ernst-young-2x.jpg')">-->
+<!--<img src="blog/wp-content/uploads/ernst-young.png" class="entity-img lazy" alt="" />-->
+<!--</figure>-->
+<!--<div class="content">-->
+<!--<div class="caption">-->
+<!--<h3>Ernst &amp; Young</h3>-->
+<!--<p>Forecasts in Focus confirms E&amp;Y as a thought-leader in the eyes of an audience relying on data to drive smarter investment decisions.</p>-->
+<!--</div>-->
+<!--<a href="cases/ernst-young.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<div class="slide-wrapper">-->
+<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/guinness-1.jpg')">-->
+<!--<img src="blog/wp-content/uploads/guinness-1.png" class="entity-img lazy" alt="" />-->
+<!--</figure>-->
+<!--<div class="content">-->
+<!--<div class="caption">-->
+<!--<h3>Guinness</h3>-->
+<!--<p>This marketing communications app prepared for Arthur Guinness Day vitalized the conversation between the beloved beverage brand and its admirers.</p>-->
+<!--</div>-->
+<!--<a href="cases/guinness.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<div class="slide-wrapper">-->
+<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/jaguar-talk-case-2-1000x486.jpg')">-->
+<!--<img src="blog/wp-content/uploads/jaguar-talk.png" class="entity-img lazy" alt="" />-->
+<!--</figure>-->
+<!--<div class="content">-->
+<!--<div class="caption">-->
+<!--<h3>Jaguar Land Rover</h3>-->
+<!--<p>The JRL Talk solution is a multilingual mobile application that lets the company’s representative leap over language barriers in a matter of seconds, ensuring clear and productive conversations.</p>-->
+<!--</div>-->
+<!--<a href="cases/jaguar-talk.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<div class="slide-wrapper">-->
+<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/cirruspath.jpg')">-->
+<!--<img src="blog/wp-content/uploads/cirrus.png" class="entity-img lazy" alt="" />-->
+<!--</figure>-->
+<!--<div class="content">-->
+<!--<div class="caption">-->
+<!--<h3>Cirruspath</h3>-->
+<!--<p>Cirruspath was behind the highest-rated app for integrating Salesforce with a user’s email inbox. Cirrus Insight Mobile helps you leverage your sales data to gain valuable insights and uncover new&#8230;</p>-->
+<!--</div>-->
+<!--<a href="cases/cirrus.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<div class="swiper-container nav-slider loading">-->
+<!--<div class="swiper-wrapper">-->
+<!--<div class="swiper-slide">-->
+<!--<figure class="logo-nav">-->
+<!--<img src="blog/wp-content/uploads/eurostar-1.png" class="entity-img entity-img--nav" alt="eurostar icon" />-->
+<!--</figure>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<figure class="logo-nav">-->
+<!--<img src="blog/wp-content/uploads/harley-davidson.png" class="entity-img entity-img--nav" alt="" />-->
+<!--</figure>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<figure class="logo-nav">-->
+<!--<img src="blog/wp-content/uploads/ernst-young.png" class="entity-img entity-img--nav" alt="" />-->
+<!--</figure>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<figure class="logo-nav">-->
+<!--<img src="blog/wp-content/uploads/guinness-1.png" class="entity-img entity-img--nav" alt="" />-->
+<!--</figure>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<figure class="logo-nav">-->
+<!--<img src="blog/wp-content/uploads/jaguar-talk.png" class="entity-img entity-img--nav" alt="" />-->
+<!--</figure>-->
+<!--</div>-->
+<!--<div class="swiper-slide">-->
+<!--<figure class="logo-nav">-->
+<!--<img src="blog/wp-content/uploads/cirrus.png" class="entity-img entity-img--nav" alt="" />-->
+<!--</figure>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</section>-->
 <section class="choose">
 <div class="container">
 <div class="choose__heading">
@@ -383,21 +405,58 @@ Impactful Workshops </h3>
 </div>
 </div>
 </section>
-<section class="bg-fluid--blured" style="background-image:url('blog/wp-content/uploads/group-2.png')">
-<div class="grid">
-<div class="blue-box">
-<div class="blue-box__bg" style="background-image:url('blog/wp-content/uploads/group-2.png')"></div>
-<div class="blue-box__content">
-<h2 class="blue-box__title">About Intellectsoft</h2>
-<p class="blue-box__lead">Established in 2007, Intellectsoft has steadily been growing and earning the trust of hundreds of businesses by providing them with enterprise-grade software solutions and turning their ideas into reality with the help of our highly qualified developers.</p>
-<a class="button button--clear button--white" href="contacts.html">get in touch</a>
-</div>
-</div>
-</div>
-</section>
+<!--<section class="bg-fluid--blured" style="background-image:url('blog/wp-content/uploads/group-2.png')">-->
+<!--<div class="grid">-->
+<!--<div class="blue-box">-->
+<!--<div class="blue-box__bg" style="background-image:url('blog/wp-content/uploads/group-2.png')"></div>-->
+<!--<div class="blue-box__content">-->
+<!--<h2 class="blue-box__title">About Intellectsoft</h2>-->
+<!--<p class="blue-box__lead">Established in 2007, Intellectsoft has steadily been growing and earning the trust of hundreds of businesses by providing them with enterprise-grade software solutions and turning their ideas into reality with the help of our highly qualified developers.</p>-->
+<!--<a class="button button--clear button--white" href="contacts.html">get in touch</a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</section>-->
 </div>
 <footer class="footer">
+  <div class="row">
 <div class="footer__flexbox">
+<div class=".col-xs-6 .col-sm-4">
+    <div class="footer__about">
+<div class="footer__address">
+<a class="footer__heading"></a>
+<div class="footer__office">
+<a href="" class="footer__email"></a>
+<div class="footer__address">
+<img src="assets/img/logo.png" style="width: 32%;">
+</div>
+<p>We are a Software Development Company in Pune priding itself on our Website Development services. Our experts help you make a statement by designing and maintaining an attractive and sophisticated platform built to attract more business your way, be it in the form of a website or a mobile application </p>
+</div>
+</div> </div>
+</div>
+<div class="col-md-2">
+  <div class="footer__about">
+<div class="footer__address">
+<div class="footer__office">
+  <a class="footer__heading">Contacts</a>
+<a href="mailto:" class="footer__email"></a>
+<div class="footer__address">
+
++91 967 3954 645<br />
++91 952 9679 645<br />
++91 860 0732 270<br />
++91 860 0732 432<br />
++91 957 9942 949<br />
+</div>
+<!--<a href="" class="all-link footer__link">-->
+<!--More contacts<i class="isoi-angle-right"></i>-->
+<!--</a>-->
+</div>
+</div> </div>
+</div>
+  <div class="col-md-6">
+    
+ 
 <div id="form-wrap" class="form-wrap__flexbox">
 <form id="form-contacts" class="form form--contact form--contact--rating" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
 <!--  -->
@@ -670,7 +729,7 @@ Impactful Workshops </h3>
 <input type="text" class="form-control" name="last_name" maxlength="255" placeholder="Last Name">
 </div>
 </div>
-  <div class="form-group form__appearance">
+<div class="form-group form__appearance">
 <select class="form__select" name="interest">
 <option value="">I am interested in</option>
 <optgroup label="Services">
@@ -696,75 +755,34 @@ Impactful Workshops </h3>
 </div>
 <button class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" >
 Talk to our team </button>
-
-
-
-
 </form>
-
+</div>
+</div>
 </div>
 
-
-
-
-
-
-
-
-
-
-<ul class="footer__menu">
-<li class="has-dropdown"><a href="">Platforms</a>
-<ul class="sub-menu">
-<li><a href="">iOS</a></li>
-<li><a href="">Android</a></li>
-<li><a href="">Windows</a></li>
-<li><a href="">Hybrid Platform</a></li>
-<li><a href="">Azure</a></li>
-</ul>
-</li>
-<li class="has-dropdown"><a href="">Company</a>
-<ul class="sub-menu">
-<li><a href="">About</a></li>
-<li><a href="">Team</a></li>
-<li><a href="">Careers</a></li>
-<li><a href="">Clients</a></li>
-<li><a href="">Blog</a></li>
-<li><a href="">News</a></li>
-</ul>
-</li></ul> <div class="footer__about">
-<div class="footer__address">
-<a class="footer__heading">Contacts</a>
-<div class="footer__office">
-<a href="mailto:" class="footer__email"></a>
-
-
-
-<div class="footer__address">
-
-+1 855 TOP DEVS <br />
-+1 650 300 4335 <br />
-+44 20 3887 0078
-</div>
-<a href="" class="all-link footer__link">
-More contacts<i class="isoi-angle-right"></i>
-</a>
-</div>
-</div> </div>
-</div>
-<div class="footer__certified">
-</div>
+<!--</div>-->
+<!--<div class="footer__certified">-->
+<!--</div>-->
 <div class="footer__copyright">
 <div class="footer__copy-container">
 <span class="footer__year">&copy; 2020 SoftEzi</span>
-<a class="footer__privacy" href="">Sitemap</a> <a class="footer__privacy" href="" rel="nofollow">Privacy Policy</a> </div>
+<!--<a class="footer__privacy" href=""></a>-->
+<!--<a class="footer__privacy" href="" rel="nofollow"></a>-->
+</div>
 <div class="footer__social social-box">
 <div class="social-box__list">
-<a class="linkedin social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17"><path d="M2 .3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zM.3 16.9V5.8h3.4v11.1H.3zM5.9 5.8h3.3v1.5c.5-.8 1.6-1.8 3.3-1.8 3.5 0 4.1 2.3 4.1 5.3v6.1h-3.4v-5.4c0-1.3-.1-2.9-1.8-2.9-1.8 0-2.1 1.4-2.1 2.8v5.5H5.9V5.8z" /></svg></a>
-<a class="facebook social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="18"><path d="M8 2.9h1.8V.1c-.3 0-.6 0-.9-.1H7.3c-.9 0-1.7.2-2.4.7-.7.6-1.2 1.4-1.3 2.3-.1.4-.1.8-.1 1.2v2.1H.8v3.1h2.6v7.7h3.3V9.4h2.6c.1-1 .2-2 .4-3.1H6.6s0-1.5.1-2.2c0-.9.5-1.2 1.3-1.2" /></svg></a>
-<a class="twitter social-box__icon" href="https://twitter.com" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="19" height="15"><path d="M5.5 11.6C3.6 11.5 2.4 10.1 2 9c.6.1 1.1.1 1.6-.1h.1c-1.1-.2-1.9-.8-2.4-1.7-.4-.6-.6-1.3-.6-2 .5.3 1.1.4 1.7.5-.8-.6-1.3-1.4-1.6-2.3-.2-1 0-1.9.4-2.7 2.1 2.4 4.6 3.7 7.7 3.9v-.4c-.1-.9.1-1.7.5-2.5C10 .8 10.9.2 12 .1c1.2-.2 2.3.1 3.2 1 .1.1.1.1.2.1.8-.2 1.5-.5 2.2-.9h.1c-.3.9-.9 1.5-1.6 2 .7-.1 1.4-.2 2.1-.5-.2.2-.3.4-.5.5-.4.5-.8 1-1.3 1.3-.1.1-.1.1-.1.2v1.6c-.2 1.2-.5 2.3-1 3.3-.5 1.1-1.2 2.1-2 3-1.4 1.4-3.2 2.4-5.2 2.8-.6.2-1.3.3-2 .3-2.2 0-4.2-.5-6-1.6 0 0-.1 0-.1-.1 1.3.2 2.5 0 3.7-.5.7-.2 1.3-.6 1.8-1" /></svg></a>
-<a class="flickr social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="10"><path class="dribble-red" d="M19.3 4.9c0 2.3-1.9 4.2-4.2 4.2-2.4 0-4.2-1.9-4.2-4.2 0-2.3 1.8-4.2 4.2-4.2 2.3 0 4.2 1.9 4.2 4.2" /><path class="dribble-blue" d="M4.2 9.1C1.9 9.1 0 7.2 0 4.9 0 2.6 1.9.7 4.2.7c2.3 0 4.2 1.9 4.2 4.2 0 2.3-1.9 4.2-4.2 4.2z" /></svg></a>
-<a class="youtube social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 20" height="20"><path d="M21.986 4.963a2.745 2.745 0 00-1.931-1.944C18.35 2.56 11.52 2.56 11.52 2.56s-6.831 0-8.535.46c-.94.252-1.68.997-1.931 1.943-.457 1.715-.457 5.293-.457 5.293s0 3.577.457 5.292c.251.946.991 1.66 1.931 1.913 1.704.459 8.535.459 8.535.459s6.831 0 8.535-.46a2.704 2.704 0 001.931-1.912c.457-1.715.457-5.292.457-5.292s0-3.578-.457-5.293zm-12.7 8.54V7.008l5.71 3.249-5.71 3.248z" /></svg></a> </div>
+<a class="fa fa-linkedin-square" style="font-size:24px" href="" rel="nofollow" target="_blank">
+    <!--<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17"><path d="M2 .3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zM.3 16.9V5.8h3.4v11.1H.3zM5.9 5.8h3.3v1.5c.5-.8 1.6-1.8 3.3-1.8 3.5 0 4.1 2.3 4.1 5.3v6.1h-3.4v-5.4c0-1.3-.1-2.9-1.8-2.9-1.8 0-2.1 1.4-2.1 2.8v5.5H5.9V5.8z" /></svg>-->
+    </a>
+<a class="fa fa-facebook-square" style="font-size:24px; margin-left:10px" href="" rel="nofollow" target="_blank">
+    <!--<svg xmlns="http://www.w3.org/2000/svg" width="10" height="18"><path d="M8 2.9h1.8V.1c-.3 0-.6 0-.9-.1H7.3c-.9 0-1.7.2-2.4.7-.7.6-1.2 1.4-1.3 2.3-.1.4-.1.8-.1 1.2v2.1H.8v3.1h2.6v7.7h3.3V9.4h2.6c.1-1 .2-2 .4-3.1H6.6s0-1.5.1-2.2c0-.9.5-1.2 1.3-1.2" /></svg>-->
+    </a>
+<a class=" fa fa-instagram " style="font-size:24px; margin-left:10px" href="https://instagram.com" rel="nofollow" target="_blank">
+    <!--<svg xmlns="http://www.w3.org/2000/svg" width="19" height="15"><path d="M5.5 11.6C3.6 11.5 2.4 10.1 2 9c.6.1 1.1.1 1.6-.1h.1c-1.1-.2-1.9-.8-2.4-1.7-.4-.6-.6-1.3-.6-2 .5.3 1.1.4 1.7.5-.8-.6-1.3-1.4-1.6-2.3-.2-1 0-1.9.4-2.7 2.1 2.4 4.6 3.7 7.7 3.9v-.4c-.1-.9.1-1.7.5-2.5C10 .8 10.9.2 12 .1c1.2-.2 2.3.1 3.2 1 .1.1.1.1.2.1.8-.2 1.5-.5 2.2-.9h.1c-.3.9-.9 1.5-1.6 2 .7-.1 1.4-.2 2.1-.5-.2.2-.3.4-.5.5-.4.5-.8 1-1.3 1.3-.1.1-.1.1-.1.2v1.6c-.2 1.2-.5 2.3-1 3.3-.5 1.1-1.2 2.1-2 3-1.4 1.4-3.2 2.4-5.2 2.8-.6.2-1.3.3-2 .3-2.2 0-4.2-.5-6-1.6 0 0-.1 0-.1-.1 1.3.2 2.5 0 3.7-.5.7-.2 1.3-.6 1.8-1" /></svg>-->
+    </a>
+<!--<a class="instagram social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="10"><path class="dribble-red" d="M19.3 4.9c0 2.3-1.9 4.2-4.2 4.2-2.4 0-4.2-1.9-4.2-4.2 0-2.3 1.8-4.2 4.2-4.2 2.3 0 4.2 1.9 4.2 4.2" /><path class="dribble-blue" d="M4.2 9.1C1.9 9.1 0 7.2 0 4.9 0 2.6 1.9.7 4.2.7c2.3 0 4.2 1.9 4.2 4.2 0 2.3-1.9 4.2-4.2 4.2z" /></svg></a>-->
+<!--<a class="youtube social-box__icon" href="" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 20" height="20"><path d="M21.986 4.963a2.745 2.745 0 00-1.931-1.944C18.35 2.56 11.52 2.56 11.52 2.56s-6.831 0-8.535.46c-.94.252-1.68.997-1.931 1.943-.457 1.715-.457 5.293-.457 5.293s0 3.577.457 5.292c.251.946.991 1.66 1.931 1.913 1.704.459 8.535.459 8.535.459s6.831 0 8.535-.46a2.704 2.704 0 001.931-1.912c.457-1.715.457-5.292.457-5.292s0-3.578-.457-5.293zm-12.7 8.54V7.008l5.71 3.249-5.71 3.248z" /></svg></a>-->
+</div>
 </div> </div>
 </footer>
 </div>
@@ -772,9 +790,8 @@ More contacts<i class="isoi-angle-right"></i>
 require("mobile-nav.php");
 ?>
 <div id="c-mask" class="c-mask"></div>
-<script type="application/ld+json">[{"@context":"http://schema.org","@type":"Organization","url":"https://www.intellectsoft.net/","name":"Intellectsoft US","logo":"https://www.intellectsoft.net/assets/49c5770d/img/logo-black.svg","email":"info@intellectsoft.net","address":[{"@context":"http://schema.org","@type":"PostalAddress","addressCountry":"United States","addressLocality":"Palo Alto","addressRegion":"CA","postOfficeBoxNumber":"721 Colorado Avenue, Suite 101","postalCode":"94303","telephone":"+1 650 300 4335"},{"@context":"http://schema.org","@type":"PostalAddress","addressCountry":"United States","addressLocality":"New York","addressRegion":"NY","postOfficeBoxNumber":"315 W 36th St.","postalCode":"10018","telephone":"+1 (855) TOP DEVS"}]},{"@context":"http://schema.org","@type":"WebSite","url":"https://www.intellectsoft.net/","name":"Intellectsoft US","sameAs":["https://www.linkedin.com/company/intellectsoft","https://www.facebook.com/Intellectsoft/","http://twitter.com/Intellectsoft","http://flickr.com/photos/intellectsoft/","/"]}]</script>
 <script src="assets/d3cdbfb5/jquery.min6b47.js?v=1463765083"></script>
-<script src="../traccoon.intellectsoft.net/tr.js"></script>
+<script src="assets/tr.js"></script>
 <script src="assets/49c5770d/vendor/egg.min1a4f.js?v=1608714905"></script>
 <script src="assets/49c5770d/vendor/skrollr.min1a4f.js?v=1608714905"></script>
 <script src="assets/49c5770d/vendor/validate.min1a4f.js?v=1608714905"></script>
@@ -846,6 +863,7 @@ $("#officesSlider").owlCarousel({
 });
 
 });</script>
+
 
 </body>
 </html>

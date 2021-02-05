@@ -49,7 +49,7 @@
             </li>
                 <li class="menu-item"><a href="clients.php">Our Clients</a></li>
                 <li class="menu-item"><a href="about.php">About Us</a></li>
-                <li class="menu-item"><a href="blog/index.php">Blog</a></li>
+                <!-- <li class="menu-item"><a href="blog/index.php">Blog</a></li> -->
 
         </ul> </div>
 </nav>
