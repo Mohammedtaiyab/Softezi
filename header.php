@@ -174,7 +174,7 @@ padding: 0px 35px;
 <link href="assets/49c5770d/iconsd391.css?v=1608714995" rel="stylesheet" position="3">
 <link href="assets/49c5770d/vendor/owl.carousel.min1a4f.css?v=1608714905" rel="stylesheet">
 <link href="assets/49c5770d/vendor/swiper.min1a4f.css?v=1608714905" rel="stylesheet">
-<link href="assets/49c5770d/home1a4f.css?v=1608714905" rel="stylesheet">
+<link href="assets/49c5770d/home1a4f.css" rel="stylesheet">
 <link rel="https://api.w.org/" href="blog/wp-json/index.html" /><link rel="alternate" type="application/json" href="blog/wp-json/wp/v2/pages/20062.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="blog/xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="blog/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.6" />
