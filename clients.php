@@ -94,12 +94,12 @@
 <link href="index.html" rel="canonical">
 <link href="index.html" rel="alternate" hreflang="en-US">
 <link href="index.html" rel="alternate" hreflang="x-default">
-<link href="assets/49c5770d/iconsd391.css?v=1608714995" rel="stylesheet" position="3">
+<link href="assets/49c5770d/iconsd391.css" rel="stylesheet" position="3">
 
-<link href="assets/49c5770d/vendor/owl.carousel.min1a4f.css?v=1608714905" rel="stylesheet">
-<link href="assets/49c5770d/vendor/swiper.min1a4f.css?v=1608714905" rel="stylesheet">
-<link href="assets/49c5770d/home1a4f.css?v=1608714905" rel="stylesheet">
-<link href="assets/49c5770d/iconsd391.css?v=1608714995" rel="stylesheet" position="3">
+<link href="assets/49c5770d/vendor/owl.carousel.min1a4f.css" rel="stylesheet">
+<link href="assets/49c5770d/vendor/swiper.min1a4f.css" rel="stylesheet">
+<link href="assets/49c5770d/home1a4f.css" rel="stylesheet">
+<link href="assets/49c5770d/iconsd391.css" rel="stylesheet" position="3">
 
 <!--[if IE 9]>
 <script src="/assets/49c5770d/vendor/ie9-placeholder.js?v=1608714905"></script>

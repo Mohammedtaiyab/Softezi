@@ -91,10 +91,10 @@
 <link href="" rel="alternate" hreflang="en-GB">
 <link href="" rel="alternate" hreflang="nb-NO">
 <link href="android-app-development-services.html" rel="alternate" hreflang="x-default">
-<link href="../assets/49c5770d/iconsd391.css?v=1608714995" rel="stylesheet" position="3">
-<link href="../assets/49c5770d/vendor/swiper.min1a4f.css?v=1608714905" rel="stylesheet">
-<link href="../assets/49c5770d/vendor/owl.carousel.min1a4f.css?v=1608714905" rel="stylesheet">
-<link href="../assets/49c5770d/bundledb85.css?v=1608714906" rel="stylesheet">
+<link href="../assets/49c5770d/iconsd391.css" rel="stylesheet" position="3">
+<link href="../assets/49c5770d/vendor/swiper.min1a4f.css" rel="stylesheet">
+<link href="../assets/49c5770d/vendor/owl.carousel.min1a4f.css" rel="stylesheet">
+<link href="../assets/49c5770d/bundledb85.css" rel="stylesheet">
 <!--[if IE 9]>
 <script src="/assets/49c5770d/vendor/ie9-placeholder.js?v=1608714905"></script>
 <![endif]-->
