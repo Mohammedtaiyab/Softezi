@@ -317,32 +317,29 @@ Boost the profitability and safety of your business processes through innovative
 </div>
 <div class="row mysec">
 <div class="col-md-4" >
-<div class="card card-bg1">
-  <div class="text-area">
-     <h3 style="color:black">Pune</h3>
-  <p style="color:black">Atharva Residency, Baner road, Baner Pune - 45</p>
-  <p style="color:black">+91 967 3954 645</p>
-<p><a href="mailto:"></a></p>
+<div class="card-container">
+  <img src="assets/img/city/pune.jpeg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">  <h3 style="color:white">Pune</h3> <p style="color:white">Atharva Residency, Baner road, Baner Pune - 45</p>
+  <p style="color:white">+91 967 3954 645</p></div>
   </div>
 </div>
 </div>
 <div class="col-md-4" >
-<div class="card card-bg2"  style="">
- <div class="text-area">
-     <h3 style="color:black">Mumbai</h3>
-     <p style="color:black">Runwal Pearl, D2-1503, Manorma Nagar, Thane (W) 400607</p>
-  <p style="color:black">+91 860 0732 270</p>
-<p><a href="mailto:"></a></p>
+<div class="card-container">
+  <img src="assets/img/city/mumbai.jpg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">   <h3 style="color:white">Mumbai</h3><p style="color:white">Runwal Pearl, D2-1503, Manorma Nagar, Thane (W) 400607</p>
+  <p style="color:white">+91 860 0732 270</p></div>
   </div>
 </div>
 </div>
 <div class="col-md-4" style="">
-<div class="card card-bg3"  style="">
- <div class="text-area">
-     <h3 style="color:black">Trivandrum</h3>
-  <p style="color:black">Pms building, pnra 28, padmanagar, paruthipara, trivandrum -12</p>
-  <p style="color:black">+91 952 9679 645</p>
-<p><a href="mailto:"></a></p>
+<div class="card-container">
+  <img src="assets/img/city/Trivandrum.jpg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">   <h3 style="color:white">Trivandrum</h3><p style="color:white">Pms building, pnra 28, padmanagar, paruthipara, trivandrum -12</p>
+  <p style="color:white">+91 952 9679 645</p></div>
   </div>
 </div>
 </div>
