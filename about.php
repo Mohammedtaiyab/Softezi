@@ -99,7 +99,7 @@ Get yourself acquainted with SoftEzi's Tech experts, who have committed themselv
   <div class="team__block--item">
   <div class="team__block--image">
   <div class="team-image">
-  <img src="assets/img/team/3.png" alt="">
+  <img src="assets/img/team/4.png" alt="">
   </div>
   <div class="team-content">
   <h3>Sourabh Nikam</h3>
@@ -122,7 +122,7 @@ Get yourself acquainted with SoftEzi's Tech experts, who have committed themselv
    <div class="team__block--item">
   <div class="team__block--image">
   <div class="team-image">
-  <img src="assets/img/team/4.png" alt="">
+  <img src="assets/img/team/3.png" alt="">
   </div>
   <div class="team-content">
   <h3>Saurabh Karpe</h3>
