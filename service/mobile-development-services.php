@@ -116,192 +116,14 @@ require('include/desktop-nav.php');
 A Mobile App that defines you! </h1>
 <p class="hero__lead">Visualize and conquer the future of business with SoftEzi, the best Mobile App Development Company in Pune. We assist you in realizing your vision in the form of a smooth and modern Mobile Application. Our top-notch Mobile App developers understand your needs and manifest them into a Mobile App that defines your brand. We deliver the best mobile experience at a decent cost, keeping your budgetary concerns at bay. What's more? We keep bugs away, making customer experience safe and secure. So why waste time? Make tech easy with SoftEzi!</p>
 <div class="hero__button1">
-<a href="#contact-section" class="button--white-green button-vantage-talk mt-40">Let’s Talk</a>
+<a href="../contact.php" class="button--white-green button-vantage-talk mt-40">Let’s Talk</a>
 </div>
 </div>
 </div>
 </section>
 <section class="content">
 
-<section class="senior">
-<div class="container">
-<div class="content-center">
-<h2 class="title title--black services__title insurance-title">
-SENIOR APP DEVELOPERS FOR HIRE IN YOUR REGION
-</h2>
-<p class="insurance-description">
-Our professional team of app developers delivered projects for 500+ clients, leveraging world-class code quality and agile development best practices.
-</p>
-</div>
-<div class="senior__content">
-<div class="senior__content--left">
-<div data-src="/assets/49c5770d/img/Group555.png" class="senior__content--item active">
-<a href="mobile-app-development-services.html">
-<h3>Mobile App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/1.png" class="senior__content--item">
-<a href="ios-app-development-services.html">
-<h3>iOS App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/2.png" class="senior__content--item">
-<a href="../technologies/iphone-development-services.html">
-<h3>iPhone App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/3.png" class="senior__content--item">
-<a href="../technologies/ipad-application-development.html">
-<h3>iPad App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/4.png" class="senior__content--item">
-<a href="android-app-development-services.html">
-<h3>Android App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/5.png" class="senior__content--item">
-<a href="saas-development-services.html">
-<h3>SaaS App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/6.png" class="senior__content--item">
-<a href="mobile-app-development-services.html">
-<h3>KaiOS Mobile App Development</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/7.png" class="senior__content--item">
-<a href="../technologies/hybrid-development.html">
-<h3>Cross-platform App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/8.png" class="senior__content--item">
-<a href="mobile-app-development-services.html">
-<h3>Progressive Web App Developers</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-<div data-src="/assets/49c5770d/img/9.png" class="senior__content--item">
-<a href="">
-<h3>Wearables and Embedded Software</h3>
-<i class="isoi-angle-right  active"></i></a>
-</div>
-</div>
-<ul class="accordion">
-<li>
-<div class="toggle">
-<span>
-Mobile App Developers <i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/Group555.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-iOS App Developers <i class="isoi-angle-right  active"></i>
- </span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/1.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>iPhone App Developers
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/2.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-iPad App Developers
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/3.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-Android App Developers
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/4.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-SaaS App Developers
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/5.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-KaiOS Mobile App Development
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/6.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-Cross-platform App Developers
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/7.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-Progressive Web App Developers
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/8.png" alt="">
-</div>
-</li>
-<li>
-<div class="toggle">
-<span>
-Wearables and Embedded Software
-<i class="isoi-angle-right  active"></i>
-</span>
-</div>
-<div class="inner">
-<img src="../assets/49c5770d/img/9.png" alt="">
-</div>
-</li>
-</ul>
-<div class="senior__content--right">
-<img data-aos="fade-left" data-aos-duration="1000" src="../assets/49c5770d/img/Group555.png" alt="">
-</div>
-</div>
-</div>
-</section>
-<section class="latest-teach insurance-latest-teach">
+<!-- <section class="latest-teach insurance-latest-teach">
 <div class="container">
 <div class="content-center">
 <h2 class="teach-title insurance-title">
@@ -508,7 +330,7 @@ Benefit from our professional services and methodologies that accelerate growth 
 </li>
 </ul>
 </div>
-</section>
+</section> -->
 <section class="enterprise-development-offers">
 <div id="particles" data-1500="background-position:0px 0px;" data-2300="background-position:0px 360px;"></div>
 <div class="container">
@@ -533,7 +355,6 @@ Construction
 <div class="offer-content-description">
 Create complex enterprise software, ensure reliable software integration, modernise your legacy system.
 </div>
-<a href="../platforms/ar-construction.html" class="offer-content-link-more">View more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -547,7 +368,6 @@ Healthcare
 <div class="offer-content-description">
 Patient-friendly software that empowers healthcare industry workers.
 </div>
-<a href="../platforms/healthcare-it-solutions.html" class="offer-content-link-more">View more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -561,7 +381,6 @@ Retail & ECommerce
 <div class="offer-content-description">
 Engaging and exciting software solutions for modern retail.
 </div>
-<a href="../platforms/ecommerce-retail.html" class="offer-content-link-more">View more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -575,7 +394,6 @@ FinTech
 <div class="offer-content-description">
 Meet the demands of modern customers in speed and security with scalable financial technology.
 </div>
-<a href="../solutions/financial-software-development-services.html" class="offer-content-link-more">View more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -589,7 +407,6 @@ Travel & Hospitality
 <div class="offer-content-description">
 Extend the comfort of your resort with practical software solutions.
 </div>
-<a href="../platforms/travel-hospitality-software-development.html" class="offer-content-link-more">View more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 <div class="tabcontent-item">
@@ -603,312 +420,79 @@ Insurance
 <div class="offer-content-description">
 Boost the profitability of your business processes through innovative mobile app solutions.
 </div>
-<a href="../platforms/custom-insurance-software-development.html" class="offer-content-link-more">View more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 </div>
 </div>
-</div>
-</section>
-<section class="service-cta service-cta--team-extension mobile-app-cta">
-<div class="service-cta__text-area service-cta__text-area--team-extension">
-<p class="service-cta__white">
-LEARN HOW OUR TEAM WOULD SOLVE YOUR BUSINESS PROBLEM
-</p>
-</div>
-<a class="button--white-green button-vantage-talk" href="#contact-section">TALK TO US</a>
-</section>
-<section class="healthcare-workshop insurance-workshop">
-<div class="container">
-<div class="healthcare-workshop__content text-center">
-<h2 class="insurance-title">
-WHAT DOES THE MOBILE APP DEVELOPMENT PROCESS LOOK LIKE
-</h2>
-<p class="insurance-description">
-From the discovery phase to creating a mobile app to launching it on the market, we provide full-cycle mobile app development to fit your business domain and budget requirements.
-</p>
-</div>
-<div class="healthcare-workshop__anim">
-<ul class="healthcare-workshop__anim--left">
-<li>
-A shared understanding of project objectives
-</li>
-<li>
-Business requirements transformed into functional
-</li>
-<li>
-The initial vision of the architecture of the project
-</li>
-<li>
-A project plan that includes risks and budgets
-</li>
-<li>
-A clear product strategy and development roadmap
-</li>
-</ul>
-<div class="healthcare-workshop__anim--right">
-<div data-aos="fade-up" data-aos-delay="250" data-aos-duration="1000" class="support">
-<svg width="36" height="81" viewBox="0 0 36 81" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M13.6631 51.5263V81M22.105 45.2105V70.4737M28.2255 54.0527L34.768 55.7369V45.2106L26.326 36.7895C26.326 36.7895 26.326 18.2632 26.326 15.7369C26.326 13.2105 23.7934 4.78948 17.884 1C11.9746 4.78948 9.44201 13.2105 9.44201 15.7369C9.44201 18.2632 9.44201 36.7895 9.44201 36.7895L1 45.2106V55.7369L7.33151 54.0527M17.8841 15.7368V19.9474" stroke="#1476F2" stroke-width="1.5" stroke-linejoin="round" />
-</svg>
-</div>
-<img src="../assets/49c5770d/img/platforms/Group_2111.svg" alt="Mobile App Development Process Roadmap">
-<img class="block-anim" src="../assets/49c5770d/img/platforms/Group_218.png" alt="Mobile App Development Process Roadmap">
-</div>
-</div>
-</div>
-</section>
-<section class="competencies">
-<div class="container">
-<h2 class="services__title">
-HOW WE DIFFER
-</h2>
-<p class="services__description">
-Using deep domain expertise of our app developers, we create impactful digital solutions that drive meaningful change with a strategic vision.
-</p>
-<ul class="competencies__list">
-<li class="hover panel">
-<div class="front">
-<div class="box1">
-<img src="../assets/49c5770d/img/3.svg" alt="">
-<span class="title">360° Approach</span>
-</div>
-</div>
-<div class="back">
-<div class="box2">
-<div class="competencies__list--content">
-<p>
-From ideation to delivery, and ongoing support, we cover the full lifecycle of enterprise application design, integration, and management through our IS360 framework.
-</p>
-</div>
-</div>
-</div>
-</li>
-<li class="hover panel">
-<div class="front">
-<div class="box1">
-<img src="../assets/49c5770d/img/4.svg" alt="">
-<span class="title">Client-Centricity</span>
-</div>
-</div>
-<div class="back">
-<div class="box2">
-<div class="competencies__list--content">
-<p>
-Intellectsoft’s boutique format allows us to maintain a highly customized approach, build a long-term partnership, and remain focused on specific tasks at hand.
-</p>
-</div>
-</div>
-</div>
-</li>
-<li class="hover panel">
-<div class="front">
-<div class="box1">
-<img src="../assets/49c5770d/img/2.svg" alt="">
-<span class="title">Domain Expertise</span>
-</div>
-</div>
-<div class="back">
-<div class="box2">
-<div class="competencies__list--content">
-<p>
-We possess exceptional domain expertise and in-depth knowledge of niche technologies: from solution architecture to firefighting projects.
-</p>
-</div>
-</div>
-</div>
-</li>
-<li class="hover panel">
-<div class="front">
-<div class="box1">
-<img src="../assets/49c5770d/img/5.svg" alt="">
-<span class="title">Time-To-Market</span>
-</div>
-</div>
-<div class="back">
-<div class="box2">
-<div class="competencies__list--content">
-<p>
-High level expertise and a number of solutions accelerators enable fast product rollout, quick customizations, and smooth delivery. As a result, you get reduced development costs with speedier market entry.
-</p>
-</div>
-</div>
-</div>
-</li>
-<li class="hover panel">
-<div class="front">
-<div class="box1">
-<img src="../assets/49c5770d/img/1.svg" alt="">
-<span class="title">A-Class team</span>
-</div>
-</div>
-<div class="back">
-<div class="box2">
-<div class="competencies__list--content">
-<p>
-With over 13 years of experience, we leverage our deep technology knowledge and unparalleled software engineering expertise to ensure digital transformation maturity across the enterprise.
-</p>
-</div>
-</div>
-</div>
-</li>
-</ul>
 </div>
 </section>
 
-<section class="client-slider product-slider">
-<div class="clients-success">
+
+
+<section class="service-dev-team">
 <div class="container">
-<h2 class="title title--black insurance-title">
-CLIENT SUCCESS
-</h2>
-<p class="services__description insurance-description">
-Join an incredible record of organizations, from startups to Fortune 1000, who trust our mobile application development services.
-</p>
-<div class="swiper-container main-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image" style="background-image:url('../assets/49c5770d/img/cases/main/guinness.jpg')">
-<img src="../assets/49c5770d/img/insurance/Guinness.svg" class="entity-img lazy" alt="harley1" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>GUINNESS</h3>
-<p class="caption">A marketing app for Arthur Guinness Day vitalized the conversation between the beloved beverage brand and its admirers.</p>
-<h4>Challenge</h4>
-<p class="caption">Guinness needed a useful tool for gathering customer data that would double as a compelling brand experience and a reminder of their historical and cultural roots.</p>
-<h4>Solution</h4>
-<p class="caption">We created an app based on St. Patrick's Day. A series of mini-games and topical quizzes led customers to interact with their favorite stout, providing valuable data about their drinking preferences. Our team also created a crisp, UI landscape view.</p>
+<h2 class="dev-team__title">Our Mobile App Development Process</h2>
+<p class="dev-team__description">As we have been delivering Application development services for over a decade, our process is clear, effective and enables timely delivery of your web solution. From comprehensive requirement gathering to ensuring continuous operation of your web solution after deployment, we have everything covered for you.</p>
+<div class="dev-team__steps">
+<div class="step__dotted-line">
+<iframe src="../assets/49c5770d/img/svg-animated/line-dops-first.svg"></iframe>
+</div>
+<div class="step__dotted-line">
+<iframe src="../assets/49c5770d/img/svg-animated/line-dops-second.svg"></iframe>
+</div>
+<div class="step__dotted-line">
+<iframe src="../assets/49c5770d/img/svg-animated/line-dops-third.svg"></iframe>
 </div>
 </div>
+<div class="dev-team__row">
+<div class="col col-3">
+<header class="col-header">
+<div class="header-title" data-id-animation="0">KICK-OFF STAGE</div>
+</header>
+<footer class="col-footer">
+<p>On this stage, our experts translate your business requirements into technical documents for your web solution. We also gather the team, and its designer(s) create a basic design. This stage lays the foundation for the entire project. </p>
+</footer>
 </div>
+<div class="col col-3">
+<header class="col-header">
+<div class="header-title" data-id-animation="14">DEVELOPMENT STAGE</div>
+</header>
+<footer class="col-footer">
+<p>Our software engineers create your App solution. SoftEzi uses the Scrum methodology, so you will review results every two weeks. Then, our experts perform User Acceptance Testing and deploy your web solution.</p>
+</footer>
 </div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('../assets/49c5770d/img/cases/main/jaguar-land-rover.jpg')">
-<img src="../assets/49c5770d/img/insurance/jaguar.svg" class="entity-img lazy" alt="harley2" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>JAGUAR</h3>
-<p class="caption">SoftEzi helps Jaguar leap over language barriers in conference calls.</p>
-<h4>Challenge</h4>
-<p class="caption">Jaguar Land Rover commissioned SoftEzi to develop an effortless way of advancing communication for the company’s representatives from different language groups.</p>
-<h4>Solution</h4>
-<p class="caption">SoftEzi created a multi-language iPad app with an intuitive interface that covers all of the company’s communication needs. The users can perform conference calls with up to 5 simultaneous conferences, with each participant communicating freely in their native tongue.</p>
+<div class="col col-3">
+<header class="col-header">
+<div class="header-title" data-id-animation="28">SUPPORT STAGE</div>
+</header>
+<footer class="col-footer">
+<p>After your web solution is released, we perform continuous server monitoring, allocate team members to fix bugs, and provide general customer support.</p>
+</footer>
 </div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('../assets/49c5770d/img/clients-success/cirrus-1x.jpg')">
-<img src="../assets/49c5770d/img/insurance/Cirrus.svg" class="entity-img lazy" alt="harley3" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>CIRRUS INSIGHT</h3>
-<p class="caption">Cirruspath is a cross-platform SaaS company specializing in apps that integrate Salesforce CRM tools with email.</p>
-<h4>Challenge</h4>
-<p class="caption">The client wanted to develop a mobile app that would extend the capabilities of their Salesforce integration to iOS. This would require a team to develop an API that retained existing features as well as optimize additional functions.</p>
-<h4>Solution</h4>
-<p class="caption">We created a comprehensive mobile email client with built-in, advanced CRM functionality. The Cirrus Insight app is native and connects to the Cirrus Salesforce-integrated platform via a private API.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('../assets/49c5770d/img/clients-success/harley-davidson-1x.jpg')">
-<img src="../assets/49c5770d/img/insurance/Harley.svg" class="entity-img lazy" alt="harley3" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>HARLEY-DAVIDSON</h3>
-<p class="caption">The iconic motorcycle brand finds a fresh way to engage its fans while on the road by creating a mobile app that allows exhibition staff to sign prospective clients.</p>
-<h4>Challenge</h4>
-<p class="caption">Together with Harley-Davidson, we set out to develop a mobile app that would help brand reps facilitate lead conversion when interacting with customers at biking events.</p>
-<h4>Solution</h4>
-<p class="caption">We created an app for their exhibition staff, helping brand reps visually showcase product customizations through a "user mentor" feature that functions in more than 15 languages.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('../assets/49c5770d/img/clients-success/ernst-young-1x.jpg')">
-<img src="../assets/49c5770d/img/insurance/EY.svg" class="entity-img lazy" alt="harley3" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>ERNST & YOUNG</h3>
-<p class="caption">Forecasts in Focus confirms E&Y as a thought-leader in the eyes of an audience relying on data to drive smarter investment decisions.</p>
-<h4>Challenge</h4>
-<p class="caption">E&Y needed to reinforce its reputation for thought leadership by providing financial professionals with a consistent stream of expert opinions and education.</p>
-<h4>Solution</h4>
-<p class="caption">The resulting mobile solution was given the name Forecasts in Focus — and designed to deliver value at each end.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url('../assets/49c5770d/img/clients-success/eurostar-1x.jpg')">
-<img src="../assets/49c5770d/img/insurance/eurostar.svg" class="entity-img lazy" alt="harley3" />
-</figure>
-<div class="content">
-<div class="caption">
-<h3>EUROSTAR</h3>
-<p class="caption">A high-speed railway pioneer gains a series of automated solutions to process passenger information, improve on-board services, and report critical information to passengers.</p>
-<h4>Challenge</h4>
-<p class="caption">Eurostar required web and mobile applications to automate its business-critical ERP processes and enable further convenience for their customers.</p>
-<h4>Solution</h4>
-<p class="caption">SoftEzi developed an employee-facing cloud solution for web and iOS named Eurostar iTM.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-container nav-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/insurance/Guinness.svg" class="entity-img entity-img--nav" alt="harley1" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/insurance/jaguar.svg" class="entity-img entity-img--nav" alt="harley2" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/insurance/Cirrus.svg" class="entity-img entity-img--nav" alt="harley3" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/insurance/Harley.svg" class="entity-img entity-img--nav" alt="harley3" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/insurance/EY.svg" class="entity-img entity-img--nav" alt="harley3" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/insurance/eurostar.svg" class="entity-img entity-img--nav" alt="harley3" />
-</figure>
-</div>
-</div>
+<div class="col col-3">
+<header class="col-header">
+<div class="header-title" data-id-animation="42">NEXT STEPS</div>
+</header>
+<footer class="col-footer">
+<p>To meet the quickly changing customer demand, websites like online stores need to be updated with new features often. We can provide you with a small team to deliver these updates. This type of cooperation is discussed after deployment.</p>
+</footer>
 </div>
 </div>
 </div>
 </section>
-</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <section class="faq">
 <div class="container">
