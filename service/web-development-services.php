@@ -228,13 +228,12 @@ Web development services </h1>
 </g>
 </g>
 </svg>
-<h3 class="item__description-title">Web application development<br /> services</h3>
+<h3 class="item__description-title">Static Web Development<br /></h3>
 </div>
 <div class="item__link">
 <a href="#">
-<div class="item__link-title">Web application development services</div>
+<div class="item__link-title">Static Web Development</div>
 <p class="item__link-text">From design to integration to maintenance, we offer full-cycle web application development services. We build apps that are secure, scalable, fast, and work well across all devices and platforms.</p>
-<span class="item__more">view more<i class="isoi-angle-right"></i></span>
 </a>
 </div>
 </div>
@@ -262,13 +261,12 @@ Web development services </h1>
 </g>
 </g>
 </svg>
-<h3 class="item__description-title">Ecommerce web development<br /> services</h3>
+<h3 class="item__description-title">Ecommerce web development<br /></h3>
 </div>
 <div class="item__link">
 <a href="#">
-<div class="item__link-title">Ecommerce web development services</div>
+<div class="item__link-title">Ecommerce web development</div>
 <p class="item__link-text">Build an online store with seamless and user-friendly experience, the right extensions, and reliable integration with your other processes. Our ecommerce web development services include building full-scale ecommerce platforms.</p>
-<span class="item__more">view more<i class="isoi-angle-right"></i></span>
 </a>
 </div>
 </div>
@@ -310,13 +308,12 @@ Web development services </h1>
 </g>
 </g>
 </svg>
-<h3 class="item__description-title">Java web development services</h3>
+<h3 class="item__description-title">Company Web Development</h3>
 </div>
 <div class="item__link">
 <a href="#">
-<h3 class="item__link-title">Java web development<br /> services</h3>
+<h3 class="item__link-title">Company Web Development<br /></h3>
 <p class="item__link-text">With over a decade in providing reliable Java web development services, you can trust us to build a comprehensive web solution on Java for your business.</p>
-<span class="item__more">view more<i class="isoi-angle-right"></i></span>
 </a>
 </div>
 </div>
@@ -343,13 +340,12 @@ Web development services </h1>
 </g>
 </g>
 </svg>
-<h3 class="item__description-title">Magento web development services</h3>
+<h3 class="item__description-title">Shopify Web Development</h3>
 </div>
 <div class="item__link">
 <a href="#">
-<h3 class="item__link-title">Magento web development<br /> services</h3>
+<h3 class="item__link-title">Shopify Web Development</h3>
 <p class="item__link-text">Use our expertise to create and expand your online store on the Magento platform. Our Magento web development services can also help you transfer your existing store to the platform or add new extensions. </p>
-<span class="item__more">view more<i class="isoi-angle-right"></i></span>
 </a>
 </div>
 </div>
@@ -379,13 +375,12 @@ Web development services </h1>
 </g>
 </g>
 </svg>
-<h3 class="item__description-title">Drupal web development<br /> services</h3>
+<h3 class="item__description-title">Wordpress Web Development<br /></h3>
 </div>
 <div class="item__link">
 <a href="#">
-<div class="item__link-title">Drupal web development services</div>
+<div class="item__link-title">Wordpress Web Development</div>
 <p class="item__link-text">From comprehensive module management to building a web solution from scratch, our Drupal web development services will cover your every business need.</p>
-<span class="item__more">view more<i class="isoi-angle-right"></i></span>
 </a>
 </div>
 </div>

@@ -118,12 +118,6 @@ background-size: cover;
   background-size: cover;
 }
 
-  @media screen and (max-width: 767px){
-.form__box .form-group {
-    /* width: 100%; */
-    width: 300px;
-}
-}
   @media screen and (max-width: 360px){
 .form__box .form-group {
     /* width: 100%; */
@@ -200,6 +194,20 @@ padding: 0px 35px;
 .owl-carousel .owl-item img {
     display: block;
     width: 120px;
+}
+.team .team__block .team__block--item {
+    padding: 0px 9px;
+}
+
+
+@media screen and (max-width: 767px){
+.form__box .form-group {
+    /* width: 100%; */
+    width: 300px;
+}
+.team .team__block .team__block--image .team-image {
+    max-width: 68px;
+}
 }
 </style>
 <!--[if IE 9]>

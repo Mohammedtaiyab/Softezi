@@ -17,26 +17,40 @@ About SoftEzi </h1>
 </div>
 </div>
 </section>
-<div id="map" class="map-scroll">
+
+<section class="service-why">
+<h2 class="service-why__title service-why__title--team-extension">
+Mission & Vision
+</h2>
+<p class="service-why__description">
+Our mission is to empower small and large businesses and startups by initiating their way in the accelerating digital world. We work on ideas, design, development, and launch, and offer post-launch maintenance and support. Our experts specialize in designing services, tech support, and marketing strategies and oversee your brand’s rise and success. We aim to grow, ensuring your growth with us.</p>
+<h2 class="service-why__title service-why__title--team-extension">
+Our Team
+</h2>
+<p class="service-why__description">
+Get yourself acquainted with SoftEzi's Tech experts, who have committed themselves to your enterprise's growth through custom software solutions. We have a track record of creating opportunities globally by employing a global perspective and futuristic vision. We have expertise in Website Development, Mobile Application Development, AI services, Machine Learning, Digital Marketing, and Cloud services. Our IT Consultants have been offering reliable services to small and thriving businesses. Meet our team, and become a part of the SoftEzi family tree, linked through trust and mutual growth.
+</p>
+</section>
+
+
+
+
+<!-- <div id="map" class="map-scroll">
 <div class="container mission-vision">
 <div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">Mission & Vision</h2>
-<p class="text text--w-large text--s-small">Our mission is to empower small and large businesses and startups by initiating their way in the accelerating digital world. We work on ideas, design, development, and launch, and offer post-launch maintenance and support. Our experts specialize in designing services, tech support, and marketing strategies and oversee your brand’s rise and success. We aim to grow, ensuring your growth with us.</p>
+<h2 class="title title--black title--medium title--uppercase"></h2>
+<p class="text text--w-large text--s-small"></p>
 </div>
 </div>
 
-</div>
-<div class="container mission-vision">
+</div> -->
+<!-- <div class="container mission-vision">
 <div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">Our Team</h2>
+<h2 class="title title--black title--medium title--uppercase"></h2>
 <p class="text text--w-large text--s-small">Get yourself acquainted with SoftEzi's Tech experts, who have committed themselves to your enterprise's growth through custom software solutions. We have a track record of creating opportunities globally by employing a global perspective and futuristic vision. We have expertise in Website Development, Mobile Application Development, AI services, Machine Learning, Digital Marketing, and Cloud services. Our IT Consultants have been offering reliable services to small and thriving businesses. Meet our team, and become a part of the SoftEzi family tree, linked through trust and mutual growth.
 </p>
 </div>
-</div>
-
-
-
-</div>
+</div> -->
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none">
 <symbol id="hexagon" viewbox="0 0 184 161">
 <polygon points="184 80.5 138 161 46 161 0 80.5 46 0 138 0"></polygon>
@@ -117,7 +131,19 @@ About SoftEzi </h1>
   </div>
   </div>
   </div>
+  
   </div>
+
+
+
+
+
+
+
+
+
+
+  
   <!--<div class="team__block">-->
   <!--<div class="team__block--title">-->
   <!--<h2>Delivery and Accounts</h2>-->

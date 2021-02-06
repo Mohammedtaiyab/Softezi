@@ -6,9 +6,9 @@ require('header.php');
 <div class="hero-slider__item hero-slider__item--3">
 <div class="hero-slider__content">
 <h2 class="title title--uppercase title--margin-top white-text">
-Dedicated Development Teams </h2>
+Web Development </h2>
 <p class="hero-slider__lead white-text lead-text">
-Hire top tech talent and quickly scale your delivery capacity. Our engineers have the necessary niche skills, deep expertise, and are highly loyal. </p>
+We design your wishes in a responsive and cost-effective website and bring more clients to your enterprise. Your marketing is our priority. </p>
 
 </div>
 </div>
@@ -18,7 +18,7 @@ Hire top tech talent and quickly scale your delivery capacity. Our engineers hav
 <h2 class="title title--uppercase title--margin-top white-text">
 Mobile App Development </h2>
 <p class="hero-slider__lead white-text lead-text">
-Delivering on-demand mobile app experiences for startups and enterprise clients by leveraging the latest technologies. </p>
+Our top-notch Mobile App developers understand your needs and manifest them into a Mobile App that defines your brand. </p>
 
 </div>
 </div>
@@ -48,7 +48,7 @@ Delivering on-demand mobile app experiences for startups and enterprise clients 
 <div class="hero-slider__overlay overlay-40"></div>
 <div class="hero-slider__content">
 <h1 class="title title--uppercase title--margin-top white-text">
-Enterprise Software Development </h1>
+UX,UI Development</h1>
 <p class="hero-slider__lead white-text lead-text">
 Leverage our ten-year expertise to create a solid software foundation for your business. </p>
 
@@ -119,76 +119,15 @@ What We Offer </h2>
 <!-- <div class="offers-tablinks" data-name="industries">Industries</div> -->
 </div>
 
-<div id="technologies" class="offers-tabcontent">
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/cloud-computing.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Cloud Computing </h3>
-<p class="offer-content-description">
-Use cloud computing solutions to create a scalable, flexible, and connected enterprise environment. </p>
 
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/blockchain-technology.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Blockchain Development </h3>
-<p class="offer-content-description">
-Introduce the highest level of security and automate your operations with our blockchain solutions. </p>
-<a href="" class="offer-content-link-more" onclick="ga('send', 'event', 'blockchain_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/augmented-reality.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Augmented Reality Solutions </h3>
-<p class="offer-content-description">
-Build better prototypes, improve the user experience, and lower costs with AR solutions. </p>
-<a href="" class="offer-content-link-more" onclick="ga('send', 'event', 'ar_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/page.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-UX / UI Design </h3>
-<p class="offer-content-description">
-Build the product you need on time with an experienced team that uses a clear and effective design process. </p>
-
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/artificial-intelligence.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Artificial Intelligence </h3>
-<p class="offer-content-description">
-Custom AI-based solutions like machine and deep learning will help you automate any operation. </p>
-
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/internet-of-things.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Internet of Things </h3>
-<p class="offer-content-description">
-Secure IoT solutions will let you gather Big Data, optimise key processes, and improve decision-making. </p>
-<a href="" class="offer-content-link-more" onclick="ga('send', 'event', 'iot_lab', 'click', 'block_solution')">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
 <div id="services" class="offers-tabcontent">
 <div class="tabcontent-item">
 <img class="offer-image" src="assets/49c5770d/img/home-offers/enterprise.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-Enterprise Software Development </h3>
+Web Development </h3>
 <p class="offer-content-description">
-Create complex enterprise software, ensure reliable software integration, modernise your legacy system. </p>
+We design your wishes in a responsive and cost-effective website and bring more clients to your enterprise. Your marketing is our priority.</p>
 
 </div>
 </div>
@@ -198,7 +137,7 @@ Create complex enterprise software, ensure reliable software integration, modern
 <h3 class="offer-content-title">
 Mobile App Development </h3>
 <p class="offer-content-description">
-Create an impactful mobile app that fits your brand and industry within a shorter time frame. </p>
+Our top-notch Mobile App developers understand your needs and manifest them into a Mobile App that defines your brand. </p>
 
 </div>
 </div>
@@ -206,7 +145,7 @@ Create an impactful mobile app that fits your brand and industry within a shorte
 <img class="offer-image" src="assets/49c5770d/img/home-offers/dedicated-team.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-Dedicated Development Team </h3>
+UX / UI Design  </h3>
 <p class="offer-content-description">
 Hire a loyal software development team with niche skills and deep expertise. </p>
 
@@ -216,7 +155,7 @@ Hire a loyal software development team with niche skills and deep expertise. </p
 <img class="offer-image" src="assets/49c5770d/img/home-offers/it-consulting.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-IT Consulting </h3>
+Machine Learning </h3>
 <p class="offer-content-description">
 Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios. </p>
 
@@ -226,7 +165,7 @@ Trust our top minds to eliminate workflow pain points, implement new tech, and c
 <img class="offer-image" src="assets/49c5770d/img/home-offers/page.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-UX / UI Design </h3>
+Artifical Intelligence</h3>
 <p class="offer-content-description">
 Build the product you need on time with an experienced team that uses a clear and effective design process. </p>
 
@@ -236,7 +175,7 @@ Build the product you need on time with an experienced team that uses a clear an
 <img class="offer-image" src="assets/49c5770d/img/home-offers/quality-assurance.svg" />
 <div class="offer-content">
 <h3 class="offer-content-title">
-QA & Testing </h3>
+Digital Marketing</h3>
 <p class="offer-content-description">
 Turn to our experts to perform comprehensive, multi-stage testing and auditing of your software. </p>
 
@@ -274,37 +213,7 @@ Engaging and exciting software solutions for modern retail. </p>
 <a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
 </div>
 </div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/finance-insurance.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-FinTech </h3>
-<p class="offer-content-description">
-Meet the demands of modern customers in speed and security with scalable financial technology. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/travel-hospitality.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Travel & Hospitality </h3>
-<p class="offer-content-description">
-Extend the comfort of your resort with practical software solutions. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="assets/49c5770d/img/home-offers/insurance-main.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Insurance  </h3>
-<p class="offer-content-description">
-Boost the profitability and safety of your business processes through innovative insurance software solutions. </p>
-<a href="" class="offer-content-link-more" rel="nofollow">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
+
 </div>
 </div>
 </section>
