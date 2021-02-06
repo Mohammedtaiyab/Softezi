@@ -238,66 +238,7 @@ Enabling Hardware
 </div>
 </section>
 </div>
-<div class="divider-b-75">
-<div class="container">
-<div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">Client Success</h2>
-</div>
-</div>
-</div>
-<div class="clients">
-<div class="container">
-<div class="clients__grid">
-<div class="clients__item clients__item--4 ">
-<div class="clients__content clients__content--block">
-<div class="clients__media clients__media--fluid clients__media--">
-<div class="clients__media-inner" style="background-image:url(../assets/49c5770d/img/bytefoods.jpg);">
-</div>
-</div>
-<div class="clients__text clients__text--fluid clients__text--">
-<div class="clients__title clients__title--">Smart Fridges</div>
-<p class="clients__description clients__description--">An Android smart fridges solution with RFID, remote monitoring, custom content delivery system, and integration with a wide range of peripheral devices.</p>
-<a href="../cases/iot-solution-for-californian-vending-machine-manufacturer.html" class="clients__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="clients__item clients__item--4 ">
-<div class="clients__content clients__content--block">
-<div class="clients__media clients__media--fluid clients__media--">
-<div class="clients__media-inner" style="background-image:url(../assets/49c5770d/img/pdc.jpg);">
-</div>
-</div>
-<div class="clients__text clients__text--fluid clients__text--">
-<div class="clients__title clients__title--">Medical Equipment Inventory App</div>
-<p class="clients__description clients__description--">An inventory app for hospitals that helps their employees find, relocate, and update information on medical equipment. The scalable solution works in a system with other dedicated devices.</p>
-<a href="../cases/android-app-of-identification-solutions-provider.html" class="clients__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="clients__item clients__item--4 ">
-<div class="clients__content clients__content--block">
-<div class="clients__media clients__media--fluid clients__media--">
-<div class="clients__media-inner" style="background-image:url(../assets/49c5770d/img/tracker.jpg);">
-</div>
-</div>
-<div class="clients__text clients__text--fluid clients__text--">
-<div class="clients__title clients__title--">Tracking Solution</div>
-<p class="clients__description clients__description--">A rich-featured solution that helps users track a large number of personal assets with bluetooth technology on their mobile devices.</p>
-<a href="../cases/tracking-solutions-provider-app.html" class="clients__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="clients__item clients__item--4 clients--kado">
-<div class="clients__content clients__content--blue iot">
-<div class="clients__text clients__text--fluid clients__text--blue">
-<img src="../assets/49c5770d/img/iot-logo.svg" alt="IoT Lab">
-<span class="clients__tag clients__tag--medium">Create an industrial IoT ecosystem to optimise key processes at your facilities.</span>
-<a class="button button--clear button--white button--220" href="">learn more</a> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 
 
 <?php
