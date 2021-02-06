@@ -1,5 +1,7 @@
 <?php
-require "PHPMailer/PHPMailerAutoload.php";
+// require "PHPMailer/PHPMailerAutoload.php";
+use PHPMailer\src\Exception;
+use PHPMailer\PHPMailer\PHPMailer;
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
@@ -37,23 +39,26 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
             return $error;
         }
     }
-    
-    $to   = 'mohammedbori44@gmail.com';
-    $from = 'support@softezi.in';
-    $name = 'SoftEzi';
-    $subj = 'PHPMailer 5.2 testing from DomainRacer';
-    $msg = 'This is mail about testing mailing using PHP.';
-    
-    $error=smtpmailer($to,$from, $name ,$subj, $msg);
-    
-?>
+    if(isset($_POST['sendenquery'])){
+      $name=$_POST['name'];
+      $last_name=$_POST['last_name'];
+      $email=$_POST['email'];
 
-<html>
-    <head>
-        <title>PHPMailer 5.2 testing from DomainRacer</title>
-    </head>
-    <body style="background: black;">
-        <center><h2 style="padding-top:70px;color: white;"><?php echo $error; ?></h2></center>
-    </body>
-    
-</html>
+      $phone=$_POST['phone'];
+
+      $company=$_POST['company'];
+
+      $country=$_POST['country'];
+
+      $interest=$_POST['interest'];
+      $description=$_POST['description'];
+
+    $to   = $email;
+    $from = 'support@softezi.in';
+    $name =  $name." ".$last_name;
+    $subj = $company;
+    $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
+    echo $msg;
+    $error=smtpmailer($to,$from, $name ,$subj, $msg);
+    }
+?>

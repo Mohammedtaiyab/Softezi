@@ -40,12 +40,30 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
         }
     }
     if(isset($_POST['sendenquery'])){
-    $to   = 'mohammedbori44@gmail.com';
-    $from = 'support@softezi.in';
-    $name = 'SoftEzi';
-    $subj = 'PHPMailer 5.2 testing from DomainRacer';
-    $msg = 'This is mail about testing mailing using PHP.';
-    echo "in here";
+      $name=$_POST['name'];
+      $last_name=$_POST['last_name'];
+      $email=$_POST['email'];
+
+      $phone=$_POST['phone'];
+
+      $company=$_POST['company'];
+
+      $country=$_POST['country'];
+
+      $interest=$_POST['interest'];
+      $description=$_POST['description'];
+
+    // $to   = $email;
+    // $from = 'support@softezi.in';
+    // $name =  $name." ".$last_name;
+    // $subj = $company;
+    // $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
+    // echo $msg;
+    $to='mohammedbori44@gmail.com';
+    $from='support@softezi.in';
+    $name='Mohammed';
+    $subj="Testing";
+    $msg="New Testing Method";
     $error=smtpmailer($to,$from, $name ,$subj, $msg);
     }
 ?>
@@ -179,7 +197,7 @@ require("desktop-nav.php");
 Need forward-thinking software? <br>
 <span>Get in touch with us.</span>
 </h2>
-<form id="form-contacts" class="form form--contact form--contact-page" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
+<form id="form-contacts" class="form form--contact form--contact-page" action="contact.php" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
 <div class="form__box form__box--contact-page">
 <div class="form__box">
 <div class="form-group border">
@@ -469,20 +487,20 @@ Need forward-thinking software? <br>
 <textarea class="form__textarea" name="description" maxlength="65535" placeholder="Project description"></textarea>
 </div>
 <div class="form__footer">
-<div class="form-group no-validation-icon">
+<!-- <div class="form-group no-validation-icon">
 <input type="hidden" name="send_nda" value="0">
 <input type="checkbox" id="send_nda" class="form__checkbox" name="send_nda" value="0">
 <label class="form__checkbox-label form__checkbox-label--gray" for="send_nda">
 Send NDA </label>
-</div>
-<div class="form-group upload-wrapper js-emptyFiles form-choose-file">
+</div> -->
+<!-- <div class="form-group upload-wrapper js-emptyFiles form-choose-file">
 <input type="file" id="attach" name="attach" data-label="Attach file">
 <button class="clear-attach">x</button>
 <label class="uploaded__label upload__label" for="attach">
 <span class="uploaded__text">
 <i class="isoi-paper-clip"></i>Attach file </span>
 </label>
-</div>
+</div> -->
 </div>
 <div class="form__footer form__footer_consent">
 <div class="form-group no-validation-icon">
@@ -493,8 +511,9 @@ I consent to having Intellectsoft collect and process my personal details accord
 </div>
 </div>
 <input type="hidden" id="check-browse" class="check-browse" name="check_ad_block">
-<button type="submit" name="sendenquery" class="form__submit form__submit--contact form__submit--contact-page">
-Talk to our team </button>
+<!-- <button type="submit" name="" >
+</button> -->
+<input type="submit" name="sendenquery" class="btn" value="Talk to our team "> 
 <div class="agreement__text">
 This form collects your personal details so that we can contact you back to raise opportunities for cooperation, and we need your consent on that. You can withdraw your consent at any time by writing to us at EMAIL. Read our
 <a href="">Privacy Policy</a> to learn how we protect and manage your data.
@@ -509,13 +528,13 @@ This form collects your personal details so that we can contact you back to rais
 </div>
 </div>
 </form>
-<div class="js-thx thank">
+<!-- <div class="js-thx thank">
 <div class="thank__content">
 <h3 class="thank__title">Thank you for your message!</h3>
 <p class="thank__text">We will get in touch with you regarding your request within one business day.</p>
 <a id="clearStorage" href="#" class="button button--primary">Send again</a>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>

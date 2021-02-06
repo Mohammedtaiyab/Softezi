@@ -38,7 +38,7 @@
     
  
 <div id="form-wrap" class="form-wrap__flexbox">
-<form id="form-contacts" class="form form--contact form--contact--rating" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
+<form  name="register" id="form-contacts" class="form form--contact" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
 <!--  -->
 <div class="form__box" data-style="display: flex;">
 <div class="form-group">
@@ -333,9 +333,14 @@
 <div class="form-group form-group--description">
 <textarea class="form__textarea" name="description" maxlength="65535" placeholder="Project description"></textarea>
 </div>
-<button class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" >
-Talk to our team </button>
+
+<!-- <button class="btn" style="background: #fd7e149c" >
+Talk to our team </button> -->
 </form>
+
+<form  action="about.php" method="GET">
+<input type="submit" name="sendenquery" class="btn" value="Talk to our team ">
+</form></div></div>
 </div>
 </div>
 </div>
