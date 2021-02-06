@@ -135,16 +135,43 @@ IT CONSULTING SERVICES </h1>
 </div>
 </div>
 </section>
-<section class="service-why">
-<h2 class="service-why__title service-why__title--team-extension">
-OUR IT CONSULTING SERVICES
-</h2>
-<p class="service-why__description">
-Stop wasting your time on dead ends that show no results. Our experienced team of IT experts at SoftEzi ensures that you do not get left behind.</p>
-
-</section>
 <section class="content">
+<div class="apocalypse apocalypse--azure">
+<div class="container">
 
+
+<h2 class="apocalypse__title">Stay one step ahead, always, with SoftEzi.</h2>
+<div class="apocalypse__list">
+<div class="apocalypse__item">
+<i class="isoi-big-data apocalypse__icon"></i>
+<div class="apocalypse__content ">
+<h3 class="apocalypse__heading"></h3>
+<p class="apocalypse__description">You do not have to worry about your business anymore. We do that for you. From security to increasing conversion rate, we provide all sort of IT consulting there is.
+
+</p>
+</div>
+</div>
+<div class="apocalypse__item">
+<i class="isoi-flexibility apocalypse__icon"></i>
+<div class="apocalypse__content ">
+<h3 class="apocalypse__heading"></h3>
+<p class="apocalypse__description">We are secure and reliable. We build trust before we act.
+We listen before we speak! We are flexible and agile, and your needs are our top priority. 
+We offer solutions and plans specifically designed for you.</p>
+</div>
+</div>
+<div class="apocalypse__item">
+<i class="isoi-scalability apocalypse__icon"></i>
+<div class="apocalypse__content ">
+<h3 class="apocalypse__heading"></h3>
+<p class="apocalypse__description">Through thick and thin, through launch and maintenance, we will stick by you. 
+We provide value for your money. And did we mention, our services are affordable?</p>
+</div>
+</div>
+
+</div>
+</div>
+</div>
 <section id="" class=" it-consulting cemetery">
 <div class="container">
 <div class="cemetery__title it-consulting">
@@ -206,19 +233,10 @@ Stop wasting your time on dead ends that show no results. Our experienced team o
 </div>
 </div>
 </section>
-<section class="service-why">
-<h2 class="service-why__title service-why__title--team-extension">
-OUR IT CONSULTING SERVICES
-</h2>
-<p class="service-why__description">
-Stop wasting your time on dead ends that show no results. Our experienced team of IT experts at SoftEzi ensures that you do not get left behind.</p>
-
-</section>
-
 <section class="service-dev-team">
 <div class="container">
 <h2 class="dev-team__title">Our IT Consulting Process</h2>
-<p class="dev-team__description">For more than 10 years now SoftEzi has been helping organizations of different scale and structure to improve and modernise their IT strategies. Some of our IT experts have worked in the industry for over fifteen years. This has allowed us to craft an effective approach to IT consulting that enables us to deliver maximum benefit in the shortest time.</p>
+<p class="dev-team__description">Stop wasting your time on dead ends that show no results. Our experienced team of IT experts at SoftEzi ensures that you do not get left behind.</p>
 <div class="dev-team__steps">
 <div class="step__dotted-line">
 <iframe src="../assets/49c5770d/img/svg-animated/line-dops-first.svg"></iframe>
@@ -236,7 +254,7 @@ Stop wasting your time on dead ends that show no results. Our experienced team o
 <div class="header-title" data-id-animation="0">Analysis</div>
 </header>
 <footer class="col-footer">
-<p>Our IT consulting advisors study your existing software solutions and the ways in which your employees use them, identifying problems in workflows and automation.</p>
+<p>You do not have to worry about your business anymore. We do that for you. From security to increasing conversion rate, we provide all sort of IT consulting there is.</p>
 </footer>
 </div>
 <div class="col col-3">
@@ -244,7 +262,9 @@ Stop wasting your time on dead ends that show no results. Our experienced team o
 <div class="header-title" data-id-animation="14">Strategy</div>
 </header>
 <footer class="col-footer">
-<p>The advisors design a roadmap and strategy that will help your business leverage the latest technologies and de-clutter your software infrastructure. Then, they set software and employee KPIs.</p>
+<p>We are secure and reliable. We build trust before we act.
+We listen before we speak! We are flexible and agile, and your needs are our top priority. 
+We offer solutions and plans specifically designed for you. </p>
 </footer>
 </div>
 <div class="col col-3">
@@ -252,7 +272,10 @@ Stop wasting your time on dead ends that show no results. Our experienced team o
 <div class="header-title" data-id-animation="28">Performance</div>
 </header>
 <footer class="col-footer">
-<p>Impactful IT consulting services rely on collaboration between the client and the IT consulting company. Our experts will closely analyse your workflows, tracking the performance to discover the pain points. Our software engineers will then eliminate the impeding elements.</p>
+<p>Through thick and thin, through launch and maintenance, we will stick by you. 
+We provide value for your money. And did we mention, our services are affordable?
+
+</p>
 </footer>
 </div>
 <div class="col col-3">

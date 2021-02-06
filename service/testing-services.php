@@ -136,7 +136,88 @@ Testing</h1>
 </div>
 </section>
 <section class="content">
+<section class="competencies">
+<div class="container">
+<h2 class="services__title">
+WHAT DO WE OFFER?
+</h2>
+<p class="services__description">
+They say no one can predict the future. Well, we can! Claim credibility and trust by ensuring security and endurance with SoftEzi’s Software Testing and QA services.</p>
+<ul class="competencies__list">
+<li class="hover panel">
+<div class="front">
+<div class="box1">
+<img src="../assets/49c5770d/img/digital-transformation/Group18.svg" alt="">
+<div class="title"></div>
+</div>
+</div>
+<div class="back">
+<div class="box2">
+<div class="competencies__list--content">
+<p>
+Save your money by catching that bug today. Prevention is better than cure.
+We test, we try! Ensure that your product is efficient and functional by getting it tested. 
+</p>
+</div>
+</div>
+</div>
+</li>
+<li class="hover panel">
+<div class="front">
+<div class="box1">
+<img src="../assets/49c5770d/img/digital-transformation/Group19.svg" alt="">
+<div class="title"></div>
+</div>
+</div>
+<div class="back">
+<div class="box2">
+<div class="competencies__list--content">
+<p>
+Deliver high-quality software ready for installation and configuration.
+SoftEzi gives you a precise idea of your product’s life cycle. We also ensure a fast release of your software to keep up with your development plan.
+</p>
+ </div>
+</div>
+</div>
+</li>
+<li class="hover panel">
+<div class="front">
+<div class="box1">
+<img src="../assets/49c5770d/img/digital-transformation/Group20.svg" alt="">
+<div class="title"></div>
+</div>
+</div>
+<div class="back">
+<div class="box2">
+<div class="competencies__list--content">
+<p>
+We audit your website and fix anything that needs fixing.
+Our experts have mastered the SEO domain who ensure that you get the best at a reasonable price.
 
+</p>
+</div>
+</div>
+</div>
+</li>
+<li class="hover panel">
+<div class="front">
+<div class="box1">
+<img src="../assets/49c5770d/img/digital-transformation/Group21.svg" alt="">
+<div class="title"></div>
+</div>
+</div>
+<div class="back">
+<div class="box2">
+<div class="competencies__list--content">
+<p>
+Avoid lagging! We ensure that the product delivers top-notch performance after it has been checked and fixed. Utilize our performance testing services.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
 <section id="" class=" ui-ux-design-services cemetery">
 <div class="container">
 <div class="cemetery__title ui-ux-design-services">
@@ -183,184 +264,6 @@ Testing</h1>
 </div>
 </section>
 
-
-<section class="capabilities">
-<div class="container">
-<h2 class="capabilities-title">
-OUR QA AND SOFTWARE TESTING SERVICES
-</h2>
-<p class="capabilities-description">We offer you a comprehensive set of software quality assurance services. You
-get solid, trouble-free software that meets your requirements and business objectives.</p>
-<div class="capabilities-block">
-<div class="developers">
-<div class="dev-description">
-<div class="dev-title">
-<h3>What Our QA Services Manage</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
-<path fill="none" fill-rule="evenodd" stroke="#323232" d="M11 1L5.5 6 0 1" opacity=".6" />
-</svg>
-</div>
-<ul class="technologies qa-technologies">
-<li>
-<p>Raw materials quality</p>
-</li>
-<li>
-<p>Assemblies</p>
-</li>
-<li>
-<p>Products and components</p>
-</li>
-<li>
-<p>Production-related services</p>
-</li>
-<li>
-<p>Production and inspection processes</p>
-</li>
-</ul>
-</div>
-<div class="dev-description">
-<div class="dev-title">
-<h3>Test Design Techniques</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
-<path fill="none" fill-rule="evenodd" stroke="#323232" d="M11 1L5.5 6 0 1" opacity=".6" />
-</svg>
-</div>
-<ul class="technologies qa-technologies">
-<li>
-<p>Equivalence partitioning</p>
-</li>
-<li>
-<p>Boundary value analysis</p>
-</li>
-<li>
-<p>Cause/effect analysis</p>
-</li>
-<li>
-<p>Bottleneck/issue assumption</p>
-</li>
-<li>
-<p>Exhaustive testing</p>
-</li>
-</ul>
-</div>
-<div class="dev-description">
-<div class="dev-title">
-<h3>Levels of Our Software Testing Services</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
-<path fill="none" fill-rule="evenodd" stroke="#323232" d="M11 1L5.5 6 0 1" opacity=".6" />
-</svg>
-</div>
-<ul class="technologies qa-technologies">
-<li>
-<p>Automated QA: Unit testing</p>
-</li>
-<li>
-<p>API testing</p>
-</li>
-<li>
-<p>Integration testing</p>
-</li>
-<li>
-<p>System testing</p>
-</li>
-<li>
-<p>Acceptance testing</p>
-</li>
-</ul>
-</div>
-</div>
-<div class="developers">
-<div class="dev-description">
-<div class="dev-title">
-<h3>Non-functional Testing</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
-<path fill="none" fill-rule="evenodd" stroke="#323232" d="M11 1L5.5 6 0 1" opacity=".6" />
-</svg>
-</div>
-<ul class="technologies qa-technologies">
-<li>
-<p>Performance testing</p>
-</li>
-<li>
-<p>Usability testing</p>
-</li>
-<li>
-<p>Installation testing</p>
-</li>
-<li>
-<p>Configuration testing</p>
-</li>
-<li>
-<p>Security testing</p>
-</li>
-</ul>
-</div>
-<div class="dev-description">
-<div class="dev-title">
-<h3>Other QA Services</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
-<path fill="none" fill-rule="evenodd" stroke="#323232" d="M11 1L5.5 6 0 1" opacity=".6" />
-</svg>
-</div>
-<ul class="technologies qa-technologies">
-<li>
-<p>Environment analyzing</p>
-</li>
-<li>
-<p>Requirements testing</p>
-</li>
-<li>
-<p>Defect analyzing</p>
-</li>
-<li>
-<p>Story mapping</p>
-</li>
-<li>
-<p>Risk management</p>
-</li>
-<li>
-<p>Quality measurement</p>
-</li>
-<li>
-<p>Code review</p>
-</li>
-<li>
-<p>Design review</p>
-</li>
-<li>
-<p>Alpha testing</p>
-</li>
-</ul>
-</div>
-<div class="dev-description">
-<div class="dev-title">
-<h3>Types of Our Software Testing Services</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
-<path fill="none" fill-rule="evenodd" stroke="#323232" d="M11 1L5.5 6 0 1" opacity=".6" />
-</svg>
-</div>
-<ul class="technologies qa-technologies">
-<li>
-<p>Functional testing (all levels)</p>
-</li>
-<li>
-<p>Functional automation testing</p>
-</li>
-<li>
-<p>Feature testing (positive and negative scenarios)</p>
-</li>
-<li>
-<p>End-to-end testing</p>
-</li>
-<li>
-<p>Changes or improvements software QA services</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</section>
 
 <section class="our-qa-block">
 <div class="container">

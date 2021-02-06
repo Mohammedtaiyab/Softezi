@@ -204,14 +204,6 @@ End-to-end quality & delivery ownership
 </div>
 </section>
 
-<section class="service-cta healthcare-cta">
-<div class="service-cta__text-area service-cta__text-area--team-extension">
-<h2 class="service-cta__white">
-CONNECT WITH OUR EXPERTS TO PROMPTLY GET AN SOFTEZI EXTENSION OF YOUR IN-HOUSE TEAM.
-</h2>
-</div>
-<a class="button--white-green button-vantage-talk" href="#contact-section">Talk to us</a>
-</section>
 
 
 

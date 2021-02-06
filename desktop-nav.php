@@ -24,8 +24,7 @@
                 <li><a href="service/mobile-development-android.php">Android Native App</a></li>
    	            <li><a href="service/mobile-development-ios-native.php">IOS Native App</a></li>
 	              <li><a href="service/mobile-development-flutter-hybrid.php">Flutter Hybrid App</a></li>
-   	            <li><a href="service/mobile-development-reactnative-hybrid.php">React Native Hybrid App</a></li>
-               </ul>
+   	           </ul>
            </li>
            <li><a href="service/mobile-development-services.php" >Cloud</a>
                 <ul>
@@ -43,8 +42,8 @@
              <li><a href="service/testing-services.php">Testing And Quality Assurance</a></li>
              <li><a href="service/digital-marketing-services.php" > Digital Marketing</a>
                 <ul>
-                <li><a href="service/"> Social Media Marketing</a></li>
-   	            <li><a href="service/">Search Engine Optimization(SEO)</a></li>
+                <li><a href="service/digital-marketing-smm.php"> Social Media Marketing</a></li>
+   	            <li><a href="service/digital-marketing-seo.php">Search Engine Optimization(SEO)</a></li>
                </ul>
            </li>
     </ul>

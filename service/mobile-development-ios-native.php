@@ -66,6 +66,7 @@
     width: 300px;
 }
 }
+
     </style>
 <meta name="csrf-param" content="_csrf-app-net">
 <meta name="csrf-token" content="aOPBBSDsz_QA7-ijwWU-DGIaPTSFkzj07AvXMXA7Uoofgs2cJoOGJ3k4g-16Ps0Ui9cO_NTfD4m1Gr_TyzNZ3w==">
@@ -101,6 +102,12 @@
 <!--[if IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
+<style>.phone__list li {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 50%;
+    flex: 1 1 50%;
+    max-width: 100%;
+}</style>
 <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -108,10 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WXTDXX');
 </script> </head>
 <body class="services-android-app-development-services">
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXTDXX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <div id="o-wrapper" class="wrapper">
-<div id="phone">
-<a href="tel:+1 650 300 4335"><img src="../assets/49c5770d/img/button_phone.svg" alt="button_phone"></a>
-</div>
+
 
 
 
@@ -142,7 +146,24 @@ iOS Native Application Development </h1>
 </section>
 
 
+<section class="phone ">
+<div class="container">
+<div class="phone__content">
+<div class="phone__column">
+<h2 class="phone__title">IOS App Platform</h2>
+<p class="phone__lead">iOS apps are prospering in the app market right now. Hire the best iOS App developers and flourish with your iOS app customized to cater to your needs.</p>
+<p class="phone__lead">Our first step is asking you what your brand needs in your iOS native app. We work on conceptualization and prepare a designing process.</p>
+<p class="phone__lead">iOS apps require lesser development time. We ensure a quick designing process custom-built according to your needs.<br>Our quality analysts ensure that the app offers an elegant and flawless User Experience.
+We pay special attention to launch and marketing, providing you a secure and smooth experience.
+</p>
 
+</div>
+<div class="phone__column phone__column--height">
+<div class="phone__image" style="background-image:url(../assets/49c5770d/img/sport-case-1.png)"></div>
+</div>
+</div>
+</div>
+</section>
 
 
 

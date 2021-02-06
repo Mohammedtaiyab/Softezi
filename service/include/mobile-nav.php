@@ -411,8 +411,7 @@ Talk to our team </button>
                             <li class="menu-item"><a href="mobile-development-android.php">Android Native App</a></li>
                             <li class="menu-item"><a href="mobile-development-ios-native.php">IOS Native App</a></li>
                             <li class="menu-item"><a href="mobile-development-flutter-hybrid.php">Flutter Hybrid App</a></li>
-                            <li class="menu-item"><a href="mobile-development-reactnative-hybrid.php">React Native Hybrid App</a></li>
-                            </ul>
+                           </ul>
                 </li>
                 <li class="menu-item"><a href="ai-services.php">Artificial Intelligence</a></li>
                 <li class="menu-item"><a href="machinelearning-services.php">Machine Learning</a></li> 
@@ -421,8 +420,8 @@ Talk to our team </button>
                 <li class="menu-item"><a href="it-consulting-services.php">IT Consulting</a></li>
                 <li class="menu-item  has-dropdown"><a href="digital-marketing-services.php">Digital Marketing</a>
                             <ul class="sub-menu">
-                            <li class="menu-item"><a href="">Social Media Marketing</a></li>
-                            <li class="menu-item"><a href="">Search Engine Optimization(SEO|)</a></li>
+                            <li class="menu-item"><a href="digital-marketing-smm.php">Social Media Marketing</a></li>
+                            <li class="menu-item"><a href="digital-marketing-seo.php">Search Engine Optimization(SEO|)</a></li>
                             </ul>
                 </li>
                 <li class="menu-item has-dropdown"><a href="cloud-services.php">Cloud</a>

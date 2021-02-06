@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
@@ -117,188 +117,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="container">
 <div class="hero__content enterprise-development-content">
 <h1 class="title title--uppercase">
-Digital Marketing Services </h1>
-<p class="hero__lead">Someone once said, what’s in a name? A lot rides on its name when it comes to a brand. Thriving brands know this and apply most of their resources to building a name for themselves. And we are here to do that for you. SoftEzi, the best Digital Marketing Company in Pune, assists you in your social and digital marketing adventures. We come up with promotional strategies to boost your content and engagement and help create a name for your band.</p>
+SOCIAL MEDIA MARKETING </h1>
+<p class="hero__lead">Life might not be a race, but social media certainly is. And we know how hard running alone can be. SoftEzi, the best Social Media Marketing Company in Pune, offers you a hand in your social media journey.</p>
 <div class="hero__button">
 <a href="../contact.php" class="button--white-green button-vantage-talk mt-40">Talk to us</a>
 </div>
 </div>
 </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
 <section class="content">
 
-<section class="healthcare-about">
-<div class="container">
-<h2 class="text-center">SOCIAL MEDIA MARKETING</h2>
-<div class="healthcare-about__content text-center">
-<p>Life might not be a race, but social media certainly is. And we know how hard running alone can be. SoftEzi, the best Social Media Marketing Company in Pune, offers you a hand in your social media journey. Here is why this partnership will benefit you:</p>
 
-</div>
-</div>
-</section>
-<section class="lifecycle">
-<div class="container">
-<h2 class="services__title">
-SEARCH ENGINE OPTIMIZATION</h2>
-<p class="services__description">
-If you are even a little aware of how digital marketing works, you would know the importance SEO holds. SoftEzi provides Search Engine Optimization (SEO) services based on ROI, with a clear focus on results and value. We offer consultation services to budding enterprises and help them thrive with Search Engine Optimization.</p>
-</div>
-</section>
-<section class="enterprise-development-offers">
-<div id="particles" data-1500="background-position:0px 0px;" data-2300="background-position:0px 360px;"></div>
-<div class="container">
-<div class="content-center">
-<h2 class="title title--black services__title insurance-title">
-INDUSTRIES WHERE WE EXCEL
-</h2>
-</div>
-<div class="offers">
-<div class="offers-tabcontent active">
-<div class="tabcontent-item">
-<img class="offer-image" src="../assets/49c5770d/img/mobile-app/construction.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Construction
-</h3>
-<p class="offer-content-description">
-Advanced mobile app solutions that take Construction into the Digital Era.
-</p>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="../assets/49c5770d/img/mobile-app/healthcare.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-mHealth
-</h3>
-<p class="offer-content-description">
-Patient-friendly mobile software that empowers healthcare industry workers.
-</p>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="../assets/49c5770d/img/mobile-app/retail-ecomerce.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Retail & eCommerce
-</h3>
-<p class="offer-content-description">
-Engaging mobile software solutions for modern retail.
-</p>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="../assets/49c5770d/img/mobile-app/finance-insurance.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-FinTech
-</h3>
-<p class="offer-content-description">
-Meet the demands of modern customers in speed and security with scalable financial technology.
-</p>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="../assets/49c5770d/img/mobile-app/travel-hospitality.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Travel & Hospitality
-</h3>
-<p class="offer-content-description">
-Extend the comfort of your resort with practical mobile software solutions.
-</p>
-</div>
-</div>
-<div class="tabcontent-item">
-<img class="offer-image" src="../assets/49c5770d/img/mobile-app/insurance.svg" />
-<div class="offer-content">
-<h3 class="offer-content-title">
-Insurance
-</h3>
-<p class="offer-content-description">
-Boost the profitability and safety of your business processes through innovative mobile app solutions.
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<div class="progress">
-<div class="container">
-<div class="content-center">
-<h2 class="title title--black services__title insurance-title">
-YOUR DIGITAL TRANSFORMATION BUSINESS PROCESS
-</h2>
-<p class="insurance-description">
-The success of your digital business transformation is solely based on how sound the strategy is behind it. We apply a proven roadmap that accelerates your transformation initiatives via exceptional performance and deep domain expertise.
-</p>
-</div>
-<div class="progress__cont">
-<div class="step">
-<div class="step-title">Define</div>
-<div class="step-progress"></div>
-<div class="icon-wrapper">
-<svg class="icon icon-checkmark" viewBox="0 0 32 32">
-<circle cx="15" cy="15" r="32" />
-</svg>
-<div class="step-text">What, Where, and How to Transform</div>
-</div>
-</div>
-<div class="step">
-<div class="step-title">Change</div>
-<div class="step-progress"></div>
-<div class="icon-wrapper">
-<svg class="icon icon-checkmark" viewBox="0 0 32 32">
-<circle cx="15" cy="15" r="32" />
-</svg>
-<div class="step-text">Core Systems and Processe</div>
-</div>
-</div>
-<div class="step">
-<div class="step-title">Scale</div>
-<div class="step-progress"></div>
-<div class="icon-wrapper">
-<svg class="icon icon-checkmark" viewBox="0 0 32 32">
-<circle cx="15" cy="15" r="32" />
-</svg>
-<div class="step-text">And Accelerate a Go-to-market Strategy</div>
-</div>
-</div>
-<div class="step">
-<div class="step-title">Optimize</div>
-<div class="icon-wrapper">
-<svg class="icon icon-checkmark" viewBox="0 0 32 32">
-<circle cx="15" cy="15" r="32" />
-</svg>
-<div class="step-text">By Continuously Optimizing the Digital Approach</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+
+
+
 
 <section class="competencies">
 <div class="container">
 <h2 class="services__title">
-WHY SoftEzi DIGITAL PARTNERSHIP
+OUR Process
 </h2>
 <p class="services__description">
-Our digital transformation consultants help leading companies build and deliver their next-gen software products to unlock the transformative benefits of digitalization.
-</p>
+With SoftEzi, you can measure your growth. We encourage that. After all, your growth means our growth. So why hesitate? Hire us.</p>
 <ul class="competencies__list">
 <li class="hover panel">
 <div class="front">
 <div class="box1">
 <img src="../assets/49c5770d/img/digital-transformation/Group18.svg" alt="">
-<div class="title">Refined Digital Transformation Strategy</div>
+<div class="title"></div>
 </div>
 </div>
 <div class="back">
 <div class="box2">
 <div class="competencies__list--content">
 <p>
-By implementing cost-effective, customer-focused digital transformation strategies, we help businesses acquire, retain, and assist customers most innovatively, using new technologies that ongoingly create capabilities.
+We conduct thorough research of your industry, competitors, consumers, and target group. 
+We understand your expectations and create a plan based on your vision and our research. 
 </p>
 </div>
 </div>
@@ -308,14 +175,16 @@ By implementing cost-effective, customer-focused digital transformation strategi
 <div class="front">
 <div class="box1">
 <img src="../assets/49c5770d/img/digital-transformation/Group19.svg" alt="">
-<div class="title">Reduced R&D Costs</div>
+<div class="title"></div>
 </div>
 </div>
 <div class="back">
 <div class="box2">
 <div class="competencies__list--content">
 <p>
-IT leaders around the globe move beyond cost efficiency to help power their growth and improve value. We help clients to consider digital business transformation as an efficient process that helps organizations execute their end-to-end transformation at speed and scale.
+We take into account all available resources and potential capabilities.
+We put the plan to action with full force and monitor results and performance. Based on those, we optimize your platform further. Whoever said less is more?
+
 </p>
  </div>
 </div>
@@ -325,14 +194,16 @@ IT leaders around the globe move beyond cost efficiency to help power their grow
 <div class="front">
 <div class="box1">
 <img src="../assets/49c5770d/img/digital-transformation/Group20.svg" alt="">
-<div class="title">Evolved Digital Transformation Technologies</div>
+<div class="title"></div>
 </div>
 </div>
 <div class="back">
 <div class="box2">
 <div class="competencies__list--content">
 <p>
-As digital technology progresses, organizations start generating ideas for using business technology in new ways. With evolved technologies and new ways of implementing them — the idea of digital transformation is taking a new shape.
+Our action plans stand out. We attract attention to your brand and manage to maintain it.
+Constant market analysis is an integral part of our approach.
+We provide our services quickly and at affordable prices.
 </p>
 </div>
 </div>
@@ -342,15 +213,14 @@ As digital technology progresses, organizations start generating ideas for using
 <div class="front">
 <div class="box1">
 <img src="../assets/49c5770d/img/digital-transformation/Group21.svg" alt="">
-<div class="title">Improved Processes</div>
+<div class="title"></div>
 </div>
 </div>
 <div class="back">
 <div class="box2">
 <div class="competencies__list--content">
 <p>
-By implementing the advanced digital business transformation changes, innovative businesses become more responsive and flexible to market trends and demands.
-</p>
+We ensure a good ROI and growth chart. In case you need support, we are trustworthy and reliable.</p>
 </div>
 </div>
 </div>
@@ -358,9 +228,6 @@ By implementing the advanced digital business transformation changes, innovative
 </ul>
 </div>
 </section>
-<?php
-require('client-logo.php');
-?>
 
 
 

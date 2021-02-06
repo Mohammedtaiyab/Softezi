@@ -23,7 +23,6 @@
                             <li class="menu-item"><a href="service/mobile-development-android.php">Android Native App</a></li>
                             <li class="menu-item"><a href="service/mobile-development-ios-native.php">IOS Native App</a></li>
                             <li class="menu-item"><a href="service/mobile-development-flutter-hybrid.php">Flutter Hybrid App</a></li>
-                            <li class="menu-item"><a href="service/mobile-development-reactnative-hybrid.php">React Native Hybrid App</a></li>
                             </ul>
                 </li>
                 <li class="menu-item"><a href="service/ai-services.php">Artificial Intelligence</a></li>
@@ -33,8 +32,8 @@
                 <li class="menu-item"><a href="service/it-consulting-services.php">IT Consulting</a></li>
                 <li class="menu-item  has-dropdown"><a href="service/digital-marketing-services.php">Digital Marketing</a>
                             <ul class="sub-menu">
-                            <li class="menu-item"><a href="">Social Media Marketing</a></li>
-                            <li class="menu-item"><a href="">Search Engine Optimization(SEO|)</a></li>
+                            <li class="menu-item"><a href="service/digital-marketing-smm.php">Social Media Marketing</a></li>
+                            <li class="menu-item"><a href="service/digital-marketing-seo.php">Search Engine Optimization(SEO|)</a></li>
                             </ul>
                 </li>
                 <li class="menu-item has-dropdown"><a href="service/cloud-services.php">Cloud</a>

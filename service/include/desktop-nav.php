@@ -1,4 +1,4 @@
-<nav class="nav" >
+<nav class="nav js-scroll" >
 <div class="container">
 <div class="nav__logo">
 <a class="logo logo-white" href="../index.php"></a> </div>
@@ -24,8 +24,7 @@
                 <li><a href="mobile-development-android.php">Android Native App</a></li>
    	            <li><a href="mobile-development-ios-native.php">IOS Native App</a></li>
 	              <li><a href="mobile-development-flutter-hybrid.php">Flutter Hybrid App</a></li>
-   	            <li><a href="mobile-development-reactnative-hybrid.php">React Native Hybrid App</a></li>
-               </ul>
+   	           </ul>
            </li>
            <li><a href="cloud-services.php" >Cloud</a>
                 <ul>
@@ -43,8 +42,8 @@
              <li><a href="testing-services.php">Testing And Quality Assurance</a></li>
              <li><a href="digital-marketing-services.php" > Digital Marketing</a>
                 <ul>
-                <li><a href=""> Social Media Marketing</a></li>
-   	            <li><a href="">Search Engine Optimization(SEO)</a></li>
+                <li><a href="digital-marketing-smm.php"> Social Media Marketing</a></li>
+   	            <li><a href="digital-marketing-seo.php">Search Engine Optimization(SEO)</a></li>
                </ul>
            </li>
     </ul>
