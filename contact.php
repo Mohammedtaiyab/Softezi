@@ -193,11 +193,11 @@ require("desktop-nav.php");
 <section class="form-wrap form-wrap--contact-page">
 <div class="container">
 <div class="form-wrap__flexbox form-wrap__flexbox--contact-page">
-<h2 id="formBottom" class="form-wrap__title form-wrap__title--contact-page">
+<h2 id="formBottom" class="form-wrap__title form-wrap__title--contact-page"style="display: block;">
 Need forward-thinking software? <br>
 <span>Get in touch with us.</span>
 </h2>
-<form id="form-contacts" class="form form--contact form--contact-page" action="contact.php" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
+<form id="form-contacts" class="form form--contact form--contact-page" action="contact.php" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url=""style="display: block;">
 <div class="form__box form__box--contact-page">
 <div class="form__box">
 <div class="form-group border">
