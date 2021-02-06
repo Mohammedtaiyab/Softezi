@@ -181,228 +181,11 @@ Android Wear App<br>Development
 </div>
 </div>
 <div class="column column--flex-center p-top-40 pb-20">
-<a href="../contacts.html" class="button button--clear button--blue">Talk to our team<i class="isoi-angle-right"></i></a>
+<a href="../contacts.php" class="button button--clear button--blue">Talk to our team<i class="isoi-angle-right"></i></a>
 </div>
 </div>
 </header>
-<section class="clients-success">
-<div class="container">
-<h2 class="title title--black">
-Our Works </h2>
-<p class="description">Intellectsoft’s Android app development services bring value to leading enterprises and brands, SMBs, and funded startups in many industries.</p>
-<div class="swiper-container main-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(../assets/49c5770d/img/clients-success/android-app-for-luxury-resorts-and-entertainment-operator-1x.jpg); background-image: -webkit-image-set(url(../assets/49c5770d/img/clients-success/android-app-for-luxury-resorts-and-entertainment-operator-1x.jpg) 1x, url(../assets/49c5770d/img/clients-success/android-app-for-luxury-resorts-and-entertainment-operator-2x.jpg) 2x)">
-<img src="../assets/49c5770d/img/clients-logo/android-app-for-luxury-resorts-and-entertainment-operator.svg" class="entity-img lazy" alt="Smart Luxury Hotel" />
-</figure>
-<div class="content">
-<div class="title">Smart Luxury Hotel</div>
-<p class="caption">A grand new hotel by an award-winning Asian chain gets a single smart room app for all its suites.</p>
-<a href="../cases/android-app-for-luxury-resorts-and-entertainment-operator.html" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(../assets/49c5770d/img/clients-success/iot-solution-for-californian-vending-machine-manufacturer-1x.jpg); background-image: -webkit-image-set(url(../assets/49c5770d/img/clients-success/iot-solution-for-californian-vending-machine-manufacturer-1x.jpg) 1x, url(../assets/49c5770d/img/clients-success/iot-solution-for-californian-vending-machine-manufacturer-2x.jpg) 2x)">
-<img src="../assets/49c5770d/img/clients-logo/iot-solution-for-californian-vending-machine-manufacturer.svg" class="entity-img lazy" alt="Smart Fridges" />
-</figure>
-<div class="content">
-<div class="title">Smart Fridges</div>
-<p class="caption">A Californian vending machine manufacturer elevates their IoT solution, ensuring they provide offices in the US with top of the line catering 24/7.</p>
-<a href="../cases/iot-solution-for-californian-vending-machine-manufacturer.html" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(../assets/49c5770d/img/clients-success/joiful-1x.jpg); background-image: -webkit-image-set(url(../assets/49c5770d/img/clients-success/joiful-1x.jpg) 1x, url(../assets/49c5770d/img/clients-success/joiful-2x.jpg) 2x)">
-<img src="../assets/49c5770d/img/clients-logo/joiful.svg" class="entity-img lazy" alt="Joiful" />
-</figure>
-<div class="content">
-<div class="title">Joiful</div>
-<p class="caption">American provider of on-demand beauty and wellness treatments needs to add a mobile edge to their successful business.</p>
-<a href="../cases/joiful.html" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slide-wrapper">
-<figure class="clients-image lazy-background" style="background-image:url(../assets/49c5770d/img/clients-success/retail-chain-software-1x.jpg); background-image: -webkit-image-set(url(../assets/49c5770d/img/clients-success/retail-chain-software-1x.jpg) 1x, url(../assets/49c5770d/img/clients-success/retail-chain-software-2x.jpg) 2x)">
-<img src="../assets/49c5770d/img/clients-logo/retail-chain-software.svg" class="entity-img lazy" alt="Retail Chain Client" />
-</figure>
-<div class="content">
-<div class="title">Retail Chain Client</div>
-<p class="caption">A loyalty app for a major clothing retailer gives customers a discounted and personalized shopping experience.</p>
- <a href="../cases/retail-chain-software.html" class="content-link-more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-container nav-slider loading">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/clients-logo/android-app-for-luxury-resorts-and-entertainment-operator.png" class="entity-img entity-img--nav" alt="Smart Luxury Hotel" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/clients-logo/iot-solution-for-californian-vending-machine-manufacturer.png" class="entity-img entity-img--nav" alt="Smart Fridges" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/clients-logo/joiful.png" class="entity-img entity-img--nav" alt="Joiful" />
-</figure>
-</div>
-<div class="swiper-slide">
-<figure class="logo-nav">
-<img src="../assets/49c5770d/img/clients-logo/retail-chain-software.png" class="entity-img entity-img--nav" alt="Retail Chain Client" />
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="industries-section">
-<div class="divider-b-75 divider-t-100">
-<div class="container">
-<div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">
-Industry-Specific Android App Development Services
-</h2>
-<p class="description">
-Over 11 years in Android application development has allowed us to accumulate expertise in the majority of industries. A retail tablet fleet, a hospitality app suite, and AR app for Construction — we can help you face any challenge in app development for Android.
-</p>
-</div>
-</div>
-</div>
-<div class="snakepit">
-<div class="container">
-<div class="snakepit__phone" data-bg="../assets/49c5770d/img/technologies/android/construction-m.png"></div>
-<div class="snakepit__list owl-carousel">
-<div class="snakepit__item js-active">
-<div class="snakepit__content snakepit__rectangle--right top-border">
-<h3 class="snakepit__heading">Construction</h3>
-<p class="snakepit__description">Hazard detection, remote cooperation, and other handy AR features</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/construction.jpg" alt="Construction"> <a href="../platforms/ar-construction.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--left top-border">
-<h3 class="snakepit__heading">Healthcare</h3>
-<p class="snakepit__description">Notifications, scheduling, patient tracking, Big Data solutions, and more</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/healthcare.jpg" alt="Healthcare"> <a href="../platforms/healthcare-it-solutions.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--right">
-<h3 class="snakepit__heading">Insurance</h3>
-<p class="snakepit__description">Claim management, alerts, AI, cloud solutions, SOS video, and other</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/insurance.jpg" alt="Insurance"> <a href="../platforms/custom-insurance-software-development.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--left">
-<h3 class="snakepit__heading">Retail & eCommerce</h3>
-<p class="snakepit__description">Gamification, AR, navigation, Big Data, ecommerce platforms</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/retail.jpg" alt="Retail &amp; eCommerce"> <a href="../platforms/ecommerce-retail.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--right">
-<h3 class="snakepit__heading">Travel & Hospitality</h3>
-<p class="snakepit__description">Smart room systems, hotel apps, AR & VR, Big Data solutions</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/travel.jpg" alt="Travel &amp; Hospitality"> <a href="../platforms/travel-hospitality-software-development.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--left">
-<h3 class="snakepit__heading">Sports & Teams</h3>
-<p class="snakepit__description">Sports apps, chatbots, IoT, beacons, geofencing, and other features</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/sports.jpg" alt="Sports &amp; Teams"> <a href="../platforms/sports-apps.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--right bottom-border">
-<h3 class="snakepit__heading">FinTech</h3>
-<p class="snakepit__description">Mobile banks, wallet apps, real-time fraud detection, AI chatbots</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/fintech.jpg" alt="FinTech"> <a href="../solutions/financial-software-development-services.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-<div class="snakepit__item">
-<div class="snakepit__content snakepit__rectangle--left bottom-border">
-<h3 class="snakepit__heading">IoT Apps</h3>
-<p class="snakepit__description">Industry-specific mobile solutions that work in ecosystems with smart devices</p>
-<img class="snakepit__screen" src="../assets/49c5770d/img/technologies/android/iot.jpg" alt="IoT Apps"> <a href="../solutions/internet-of-things.html" class="snakepit__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="snakepit__preload">
-<img src="../assets/49c5770d/img/technologies/android/construction-m.png" alt="Construction">
-<img src="../assets/49c5770d/img/technologies/android/healthcare-m.png" alt="Healthcare">
-<img src="../assets/49c5770d/img/technologies/android/insurance-m.png" alt="Insurance">
-<img src="../assets/49c5770d/img/technologies/android/retail-m.png" alt="Retail & eCommerce">
-<img src="../assets/49c5770d/img/technologies/android/travel-m.png" alt="Travel & Hospitality">
-<img src="../assets/49c5770d/img/technologies/android/sports-m.png" alt="Sports & Teams">
-<img src="../assets/49c5770d/img/technologies/android/fintech-m.png" alt="FinTech">
-<img src="../assets/49c5770d/img/technologies/android/iot-m.png" alt="IoT Apps">
-</div>
-</div>
-</div>
-</section>
-<section class="service-cta service-cta--technology">
-<div class="service-cta__text-area service-cta__text-area--team-extension">
-<div class="service-cta__white">
-Enjoy working with an experienced and creative team. Let’s talk.
-</div>
-</div>
-<a class="button--white-green button-vantage-talk" href="../contacts.html">Talk to our team</a>
-</section>
-<section class="development">
-<div class="container">
-<h2 class="title title--black title--medium title--uppercase">Our Development Process</h2>
-<p class="description">Our Android app development services rely on a clear process that has proved efficient over the years. Beyond it, we can help you build a prototype, create a marketing strategy, continuously support your product after release, and more.</p>
-<div class="stages">
-<div class="stages__item">
-<div class="stages__img-wrapper">
-<svg xmlns="http://www.w3.org/2000/svg" width="75" height="70"><g fill="none" fill-rule="evenodd"><path stroke="#1476F2" d="M27.545 30.178h4.978v13.334H9.295V30.178h4.978m1.659-5l9.954 10m0-10l-9.954 10m44.795-30h4.977v13.334H42.477V5.178h4.977" /><path stroke="#323232" d="M9.295 68.512h23.228V55.178H9.295z" /><path stroke="#1476F2" d="M49.114.178l9.954 10m0-10l-9.954 10" /><path stroke="#323232" d="M42.477 43.512h23.228V30.178H42.477zm-33.182-25h23.228V5.178H9.295zm23.228-6.667h9.954m-9.954 25h9.954m23.228-25H74v25h-8.295m-56.41 0H1v25h8.295" /></g></svg> </div>
-<div class="stages__title">Kick-off</div>
-<ul class="stages__list">
-<li class="stages__list-item">Analyse your initial requirements</li>
-<li class="stages__list-item">Choose experts for your team</li>
-<li class="stages__list-item">Create technical documents</li>
-<li class="stages__list-item">Build a basic prototype</li>
-</ul>
-</div>
-<div class="stages__item">
-<div class="stages__img-wrapper">
-<svg xmlns="http://www.w3.org/2000/svg" width="66" height="70"><g fill="none" fill-rule="evenodd"><path stroke="#323232" d="M42.533 55.417v8.75c0 2.416-1.97 4.375-4.4 4.375H5.867c-2.43 0-4.4-1.959-4.4-4.375V5.833c0-2.416 1.97-4.375 4.4-4.375h32.266c2.43 0 4.4 1.959 4.4 4.375v8.75M1.467 10.208h41.066M1.467 59.792h41.066m-23.466 4.375h5.866m-4.4-58.334h8.8m-14.666 0H17.6" /><path stroke="#1476F2" d="M22 55.5h42.533v-38H22zm0-30.25h42.533M24.4 20.875h2.933m2.934 0H33.2m2.933 0h2.934m-24.934-1.458v30.625m-5.866-26.25v21.875" /></g></svg> </div>
-<div class="stages__title">Development</div>
-<ul class="stages__list">
-<li class="stages__list-item">Use a relevant methodology</li>
-<li class="stages__list-item">Show code quality regularly</li>
-<li class="stages__list-item">Perform User Acceptance Testing</li>
-<li class="stages__list-item">Release to production</li>
-</ul>
-</div>
-<div class="stages__item">
-<div class="stages__img-wrapper">
-<svg xmlns="http://www.w3.org/2000/svg" width="83" height="82"><g fill="none" fill-rule="evenodd"><path stroke="#323232" stroke-linejoin="round" d="M27.955 67.977c.713-.713 1.446-1.86 3.727-1.86h26.09c2.071 0 13.462-11.404 14.91-13.024C74.074 51.534 80.28 42.226 82 38.209c-1.08-1.453-4.003-2.66-7.455-1.86-3.294.764-5.233 3.125-7.454 7.442l-8.543 4.428" /><path stroke="#323232" stroke-linejoin="round" d="M39.136 54.953h14.91c7.454 0 7.454-9.302 0-9.302h-9.848c-1.552 0-4.463-3.72-6.925-3.72h-9.318c-2.518 0-5.647 2.038-7.455 3.72l-7.455 7.442" /><path stroke="#323232" stroke-linejoin="round" d="M22.364 81l9.318-9.302L9.318 49.372 0 58.674zM9.318 58.674l3.727 3.721" /><path stroke="#1476F2" d="M24.227 38.21V1h50.318v31.628M24.227 12.163h50.318M29.818 6.581h3.727m3.728 0H41" /></g></svg> </div>
-<div class="stages__title">Support</div>
-<ul class="stages__list">
-<li class="stages__list-item">Ongoing maintenance and monitoring</li>
-<li class="stages__list-item">Appointing the developers to work with bugs</li>
-<li class="stages__list-item">24/7 assistance</li>
-</ul>
-</div>
-</div>
-</div>
-</section>
+
 <section class="technology-stack">
 <div class="container">
 <h2 class="title title--black title--medium title--uppercase">Technologies We Leverage</h2>
@@ -641,56 +424,48 @@ Libraries
 <div class="container">
 <div class="cemetery__title mobile-development">
 <h2>Our Clients</h2>
-<p class="description">Fortune 500 companies and world-class brands trust our mobile app development services.</p>
+<p class="description"></p>
 </div>
 <div id="cemetery" class="owl-carousel owl-theme">
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/universal.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/griffins.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/hoosbaa.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/nestle.svg"></div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/bhumi.png" alt="">
+</div>
 </div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/nhs.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/land-rover.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/af-gruppen.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/clinique.svg"></div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/forrest.png" alt="">
+</div>
 </div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/guinness.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/jaguar.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/wynn.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/harley.svg"></div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/trojan.png" alt="">
+</div>
 </div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/eurostar.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/walt-disney.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/melco.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/gulls.svg"></div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/aya.png" alt="">
+</div>
 </div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/ey.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/guest-services.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/euro-accident.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/audi.svg"></div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/jayqu.png" alt="">
+</div>
 </div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/kjk.svg">
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/servicexpertz.png" alt="">
 </div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/cirrus.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/bombardier.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/giant.svg"></div>
+</div>
+<div class="item">
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/cakecarnival.png" alt="">
+</div>
 </div>
 </div>
 </div>
 </section>
-<section class="service-cta service-cta--about">
-<div class="service-cta__text-area service-cta__text-area--it-consulting">
-<div class="service-title">Get started</div>
-<p class="service-cta__white">Start building your reliable Android application. Get in touch with us.</p>
-<a class="button--white-green button-vantage-talk" href="../contacts.html">Talk to our team</a>
-</div>
-</section>
+
 <section class="faq">
 <div class="container">
 <div class="title title--black title--medium title--uppercase">F.A.Q.</div>
