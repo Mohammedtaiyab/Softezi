@@ -152,17 +152,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 <body class="pages-index">
 <div id="o-wrapper" class="wrapper overflow-hidden">
-<div id="phone">
-<a href="tel:+1 650 300 4335"><img src="assets/49c5770d/img/button_phone.svg" alt="button_phone"></a>
-</div>
-<div class="newsletter">
-<div class="newsletter-title">
-This website uses cookies to enhance site navigation and improve functionality, analyze site usage, and assist in our marketing and advertising efforts. Please click "I accept cookies" to let us know you're okay with our use of all cookies. For more information please see the cookies section of our <a class="newsletter-link" href="privacy-policy.html#cookies-section">Privacy Policy</a>.
-</div>
-<div class="newsletter-button">
-<a class="popup-ok">i accept cookies</a>
-</div>
-</div>
 <?php
 require("desktop-nav.php");
 ?>
