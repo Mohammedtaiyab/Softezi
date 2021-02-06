@@ -155,38 +155,38 @@ UI and UX Design Services </h1>
 <div id="cemetery" class="owl-carousel owl-theme">
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/aya.png" alt="">
+<img src="../assets/img/clients-logo/aya.png" alt="">
 </div></div>
 
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/check.png" alt="">
+<img src="../assets/img/clients-logo/servicexpertz.png" alt="">
 </div></div>
 
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/javqu.png" alt="">
+<img src="../assets/img/clients-logo/jayqu.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/serviceexpertz.png" alt="">
+<img src="../assets/img/clients-logo/trojan.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/thecake.png" alt="">
+<img src="../assets/img/clients-logo/cakecarnival.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/trojanx.png" alt="">
+<img src="../assets/img/clients-logo/insta.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/forrest.png" alt="">
+<img src="../assets/img/clients-logo/check.png" alt="">
 </div></div>
 
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/instant.png" alt="">
+<img src="../assets/img/clients-logo/forrest.png" alt="">
 </div></div>
 </div>
 </div>

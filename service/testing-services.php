@@ -137,120 +137,53 @@ Testing</h1>
 </section>
 <section class="content">
 
-<section id="" class=" qa-and-software-testing-services cemetery">
+<section id="" class=" ui-ux-design-services cemetery">
 <div class="container">
-<div class="cemetery__title qa-and-software-testing-services">
+<div class="cemetery__title ui-ux-design-services">
 <h2>Our Clients</h2>
-<p class="description">Fortune 500 companies and large-scale enterprises trust our quality assurance and software testing services.</p>
+<p class="description">Fortune 500 companies and businesses across key industries trust our UI and UX services.</p>
 </div>
 <div id="cemetery" class="owl-carousel owl-theme">
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/universal.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/griffins.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/hoosbaa.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/nestle.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/aya.png" alt="">
+</div></div>
+
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/nhs.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/land-rover.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/af-gruppen.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/clinique.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/servicexpertz.png" alt="">
+</div></div>
+
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/guinness.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/jaguar.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/wynn.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/harley.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/jayqu.png" alt="">
+</div></div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/eurostar.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/walt-disney.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/melco.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/gulls.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/trojan.png" alt="">
+</div></div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/ey.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/guest-services.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/euro-accident.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/audi.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/cakecarnival.png" alt="">
+</div></div>
 <div class="item">
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/kjk.svg">
-</div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/cirrus.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/bombardier.svg"></div>
-<div class="cemetery__image owl-lazy" data-src="../assets/49c5770d/img/clients-logo/giant.svg"></div>
-</div>
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/insta.png" alt="">
+</div></div>
+<div class="item">
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/check.png" alt="">
+</div></div>
+
+<div class="item">
+<div class="choose-us__slider--item">
+<img src="../assets/img/clients-logo/forrest.png" alt="">
+</div></div>
 </div>
 </div>
 </section>
-<section class="service-why">
-<div class="container">
-<h2 class="service-why__title service-why__title--team-extension">
-BENEFITS OF OUR QA AND TESTING SERVICES
-</h2>
-<p class="service-why__description">
-When you turn to SoftEzi, you get decade-long experience in QA and software testing. We leverage the
-latest tech, practices, and standards to help you create high quality software within the required timeframe.
-</p>
-</div>
-<section class="service-why__points">
-<div class="service-why__point-block" style="background-image: url('../assets/49c5770d/img/services/team-extension/decading.jpg')">
-<div class="service-why__mask"></div>
-<h3 class="service-why__point-title">
-A DECADE OF EXPERIENCE IN QA SERVICES
-</h3>
-<div class="service-why__point-lead-content">
-<p class="service-why__point-lead">
-Over the years, our QA testers have ensured trouble-free operation of countless software solutions.
-Our experts have tested dozens of mobile applications, complex enterprise software for Fortune 500
-companies, IoT ecosystems, a blockchain marketplace, and more. As a result, you get fail-safe
-software your company can rely on.
-</p>
-</div>
-</div>
-<div class="service-why__point-block" style="background-image: url('../assets/49c5770d/img/services/team-extension/establishing.jpg')">
-<div class="service-why__mask"></div>
-<h3 class="service-why__point-title">
-ESTABLISHED IN-HOUSE STANDARDS
-</h3>
-<div class="service-why__point-lead-content">
-<p class="service-why__point-lead">
-We deliver QA services according a set of procedures, guidelines, and projects documents we
-developed based on the best industry practices and standards. Our QA testers prevent defects from
-occurring in the first place, as well as facilitate the high quality and timely delivery of every
-software solution.
-</p>
-</div>
-</div>
-<a href="../iso-9001-certified.html" class="service-why__point-block" style="background-image: url('../assets/49c5770d/img/services/team-extension/ISO-Certification-SoftEzi.jpg')">
-<div class="service-why__mask"></div>
-<h3 class="service-why__point-title">
-ISO 9001:2015 CERTIFIED
-</h3>
-<div class="service-why__point-lead-content">
-<p class="service-why__point-lead">
-The ISO 9001:2015 certification ensures that the basis of our quality management system is continuous improvement and customer satisfaction. This includes the international standard of quality of our services and operations, on-time delivery, customer-first attitude, independent audit that demonstrates a commitment to excellence.
-</p>
-</div>
-</a>
-<div class="service-why__point-block" style="background-image: url('../assets/49c5770d/img/services/team-extension/automation.jpg')">
-<div class="service-why__mask"></div>
-<h3 class="service-why__point-title">
-AUTOMATION & AGILITY
-</h3>
-<div class="service-why__point-lead-content">
-<p class="service-why__point-lead">
-To ensure fast delivery of your software without losing in quality, we employ a selected approach to
-automated QA. We use automated Unit testing on every project, while automated Acceptance and other
-types of testing rely on your enterprise software architecture, tech stack, project scale, and other
-factors. Our DevOps engineers and QA testers work side by side to allow for seamless and continuous
-agile delivery.
-</p>
-</div>
-</div>
-</section>
-</section>
+
+
 <section class="capabilities">
 <div class="container">
 <h2 class="capabilities-title">
@@ -428,14 +361,7 @@ get solid, trouble-free software that meets your requirements and business objec
 </div>
 </div>
 </section>
-<section class="service-cta service-cta--team-extension">
-<div class="service-cta__text-area service-cta__text-area--team-extension">
-<h2 class="service-cta__white">
-Ensure trouble-proof software with our dependable QA and software testing services.
-</h2>
-</div>
-<a class="button--white-green button-vantage-talk" href="#form-wrap">Talk to us</a>
-</section>
+
 <section class="our-qa-block">
 <div class="container">
 <h2 class="our-qa__title">OUR QA SERVICES LIFECYCLE</h2>
@@ -515,92 +441,7 @@ with the acceptance criteria that were agreed on.</p>
 </div>
 </div>
 </section>
-<div class="divider-b-75">
-<div class="container">
-<div class="grid grid--column grid--center">
-<h2 class="title title--black title--medium title--uppercase">Client Success</h2>
-</div>
-</div>
-</div>
-<div class="clients">
-<div class="container">
-<div class="clients__grid">
-<div class="clients__item clients__item--4 ">
-<div class="clients__content clients__content--block">
-<div class="clients__media clients__media--fluid clients__media--">
-<div class="clients__media-inner" style="background-image:url(../assets/49c5770d/img/blockchain-based.jpg);">
-</div>
-</div>
-<div class="clients__text clients__text--fluid clients__text--">
-<div class="clients__title clients__title--">Blockchain-based online marketplace</div>
-<p class="clients__description clients__description--">A ecommerce blockchain project built on Ethereum that uses smart contracts, ERC20 tokens, as well as employs identity management, secured crowdfunding, and other.</p>
-<a href="../cases/blockchain.html" class="clients__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="clients__item clients__item--4 ">
-<div class="clients__content clients__content--block">
-<div class="clients__media clients__media--fluid clients__media--">
-<div class="clients__media-inner" style="background-image:url(../assets/49c5770d/img/eurostar.jpg);">
-</div>
-</div>
-<div class="clients__text clients__text--fluid clients__text--">
-<div class="clients__title clients__title--">Eurostar</div>
-<p class="clients__description clients__description--">A high-speed railway pioneer gains a series of automated solutions to process passenger information, improve on-board services, and report critical information to passengers.</p>
-<a href="../cases/eurostar.html" class="clients__link--more">view more<i class="isoi-angle-right"></i></a>
-</div>
-</div>
-</div>
-<div class="clients__item clients__item--4 ">
-<div class="clients__content clients__content--block">
-<div class="clients__media clients__media--fluid clients__media--">
-<div class="clients__media-inner" style="background-image:url(../assets/49c5770d/img/af-gruppen.jpg);">
-</div>
-</div>
-<div class="clients__text clients__text--fluid clients__text--">
-<div class="clients__title clients__title--">AF Gruppen</div>
-<p class="clients__description clients__description--">The third largest civil engineering and construction company in Norway gets a digital transformation of their enterprise legacy system with a set of spot-on software solutions.</p>
-</div>
-</div>
-</div>
-<div class="clients__item testCls clients__item--4">
-<div class="clients__content clients__content--blue">
-<div class="clients__text clients__text--fluid clients__text--blue">
-<span class="clients__title clients__title--massive clients__title--massive--">500</span>
-<span class="clients__tag clients__tag--medium">Loyal Clients</span>
-<p class="clients__description clients__description--medium m-bottom-35 clients__description--medium--">Over a decade of stellar software solutions</p>
-<a class="button button--clear button--white button--220 " href="../cases.html">More Success Stories</a> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<section class="faq">
-<div class="container">
-<div class="title title--black title--medium title--uppercase">F.A.Q.</div>
-<p class="description">Do you have additional questions?</p>
-<div class="faq__wrapper">
-<div class="faq__item">
-<h2 class="faq__title">How QA Testing Company Can Help My Business?</h2>
-<p class="faq__text">
-<span class="faq__content">QA testing companies like SoftEzi help businesses build a positive reputation, meet their clients’ demands and expectations. Making sure that you provide high-quality and consistent services will build trust with your customers, thus giving you a chance to stay competitive on the market. Our QA team joins the project at its early stages to make sure that the final result suits your expectations, requirements, and runs smoothly. Every company aims to create good-looking and bug-free high-quality software to keep their customer retention. IntellectSoft’s QA team makes sure that no bugs will come up once the product is launched. In addition to this, QA testing at the early stages of product development is cost-effective as it is much cheaper than fixing bugs after the release. It is essential to eliminate all the bugs and issues before the user meets your software to maintain a high level of trust and loyalty to your services.</span>
-</p>
-</div>
-<div class="faq__item">
-<h2 class="faq__title">How Do You Provide QA Testing Services?</h2>
-<p class="faq__text">
-<span class="faq__content"></span>
-</p>
-</div>
-<div class="faq__item">
-<h2 class="faq__title"></h2>
-<p class="faq__text">
-<span class="faq__content"></span>
-</p>
-</div>
-</div>
-</div>
-</section> </section>
+</section>
 
 
 
