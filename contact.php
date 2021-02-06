@@ -61,9 +61,10 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
     // echo $msg;
     $to='mohammedbori44@gmail.com';
     $from='support@softezi.in';
-    $name='Mohammed';
-    $subj="Testing";
-    $msg="New Testing Method";
+    $name= $name." ".$last_name;
+    $subj = $company;
+   $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
+   
     $error=smtpmailer($to,$from, $name ,$subj, $msg);
     }
 ?>
