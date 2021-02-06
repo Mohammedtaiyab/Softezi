@@ -1,5 +1,7 @@
 <?php
-require "PHPMailer/PHPMailerAutoload.php";
+// require "PHPMailer/PHPMailerAutoload.php";
+use PHPMailer\src\Exception;
+use PHPMailer\PHPMailer\PHPMailer;
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
@@ -37,15 +39,15 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
             return $error;
         }
     }
-    
+    if(isset($_POST['sendenquery'])){
     $to   = 'mohammedbori44@gmail.com';
     $from = 'support@softezi.in';
     $name = 'SoftEzi';
     $subj = 'PHPMailer 5.2 testing from DomainRacer';
     $msg = 'This is mail about testing mailing using PHP.';
-    
+    echo "in here";
     $error=smtpmailer($to,$from, $name ,$subj, $msg);
-    
+    }
 ?>
 
  <!DOCTYPE html>
@@ -160,18 +162,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 </head>
 <body class="pages-contacts">
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXTDXX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <div id="o-wrapper" class="wrapper static">
-<div id="phone">
-<a href="tel:+1 650 300 4335"><img src="assets/49c5770d/img/button_phone.svg" alt="button_phone"></a>
-</div>
-<div class="newsletter">
-<div class="newsletter-title">
-This website uses cookies to enhance site navigation and improve functionality, analyze site usage, and assist in our marketing and advertising efforts. Please click "I accept cookies" to let us know you're okay with our use of all cookies. For more information please see the cookies section of our <a class="newsletter-link" href="privacy-policy.html#cookies-section">Privacy Policy</a>.
-</div>
-<div class="newsletter-button">
-<a class="popup-ok">i accept cookies</a>
-</div>
-</div>
 <?php
 require("desktop-nav.php");
 ?>
@@ -498,16 +488,16 @@ Send NDA </label>
 <div class="form-group no-validation-icon">
 <p class="form__inform-data">
 I consent to having Intellectsoft collect and process my personal details according to its
-<a href="privacy-policy.html" class="form__footer_consent-link">Privacy Policy</a>.
+<a href="l" class="form__footer_consent-link">Privacy Policy</a>.
 </p>
 </div>
 </div>
 <input type="hidden" id="check-browse" class="check-browse" name="check_ad_block">
-<button class="form__submit form__submit--contact form__submit--contact-page">
+<button type="submit" name="sendenquery" class="form__submit form__submit--contact form__submit--contact-page">
 Talk to our team </button>
 <div class="agreement__text">
 This form collects your personal details so that we can contact you back to raise opportunities for cooperation, and we need your consent on that. You can withdraw your consent at any time by writing to us at EMAIL. Read our
-<a href="privacy-policy.html">Privacy Policy</a> to learn how we protect and manage your data.
+<a href="">Privacy Policy</a> to learn how we protect and manage your data.
 </div>
 <p class="contact__error">Something went wrong. Send form again, please.</p>
 <div class="form-spinner">
