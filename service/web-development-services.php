@@ -165,7 +165,7 @@ Web development services </h1>
 
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/check.png" alt="">
+<img src="../assets/img/clients-logo/bhumi.png" alt="">
 </div></div>
 
 <div class="item">
@@ -174,24 +174,24 @@ Web development services </h1>
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/serviceexpertz.png" alt="">
+<img src="../assets/img/clients-logo/insta.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/thecake.png" alt="">
+<img src="../assets/img/clients-logo/forrest.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/trojanx.png" alt="">
+<img src="../assets/img/clients-logo/trojan.png" alt="">
 </div></div>
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/forrest.png" alt="">
+<img src="../assets/img/clients-logo/servicexpertz.png" alt="">
 </div></div>
 
 <div class="item">
 <div class="choose-us__slider--item">
-<img src="../assets/img/clients/instant.png" alt="">
+<img src="../assets/img/clients-logo/cakecarnival.png" alt="">
 </div></div>
 
 </div>
@@ -418,196 +418,6 @@ Web development services </h1>
 </div>
 </div>
 </section>
-<section class="service-cta service-cta--team-extension">
-<div class="service-cta__text-area service-cta__text-area--team-extension">
-<div class="service-cta__white">
-Build an engaging web solution that ticks all the right boxes. get in touch with us now.
-</div>
-</div>
-<a class="button--white-green button-vantage-talk" href="#form-wrap">Talk to us</a>
-</section>
-<div class="key-points">
-<div class="container container--flex">
-<div class="key-points__cards">
-<div class="key-points__card" data-svg="../assets/49c5770d/img/svg-animated/Icon.svg">
-<div class="key-points__image key-points__image--">
-<iframe src="../assets/49c5770d/img/svg-animated/Icon.svg"></iframe>
-</div>
-<div class="key-points__content">
-<h2 class="title title--black key-points__header">WHAT YOU GET</h2>
-<p class="key-points__description">Our streamlined development process and experience allow us to deliver top-of-the-line web development services that tick all the boxes.</p>
-<ul class="platform-client__list">
-<li class="platform_client__list-item platform_client__list-item--column">Carefully analyzed requirements</li>
- <li class="platform_client__list-item platform_client__list-item--column">Stand-out, easy-to-navigate UI & UX design</li>
-<li class="platform_client__list-item platform_client__list-item--column">Secure and scalable solution that works fast</li>
-<li class="platform_client__list-item platform_client__list-item--column">Responsive design</li>
-<li class="platform_client__list-item platform_client__list-item--column">Custom features</li>
-<li class="platform_client__list-item platform_client__list-item--column">Rich and engaging visuals</li>
-<li class="platform_client__list-item platform_client__list-item--column">Maintenance and support</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<section class="design-services">
-<div class="container">
-<h2 style="text-align: center;">Our Technologies</h2>
-<p class="solutions-page__descr" style="text-align: center; margin-bottom: 30px;">
-<span style="font-weight: 400;">Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries.</span>
-</p>
-<p>&nbsp;</p>
-<ul class="design-items">
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/symfony.png">
-</div>
-<h3 class="design-title">Symfony</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/ruby.png">
-</div>
-<h3 class="design-title">Ruby</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/python.png">
-</div>
-<h3 class="design-title">Python</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/php.png">
-</div>
-<h3 class="design-title">PHP</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/angular.png">
-</div>
-<h3 class="design-title">AngularJS</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/react-1.png">
-</div>
-<h3 class="design-title">React</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/js.png">
-</div>
-<h3 class="design-title">JavaScript</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/node.png">
-</div>
-<h3 class="design-title">NodeJS</h3>
-</li>
-<li class="design-item">
-<div class="design-icon">
-<img class="offer-image" src="../assets/49c5770d/img/solutions/web/jquery.png">
-</div>
-<h3 class="design-title">jQuery</h3>
-</li>
-</ul>
-</div>
-</section>
-<section class="latest-teach">
-<div class="container">
-<h2 class="teach-title">
-LATEST TECH IN WEB SOLUTIONS
-</h2>
-<p class="teach-description">
-As SoftEzi is a digital transformation-first company, we can help you enhance your web solution with the latest tech in a meaningful way.
-</p>
-<ul class="teach-items">
-<li class="teach-item active">
-<div class="preview">
-<div class="teach-icon">
-<svg xmlns="http://www.w3.org/2000/svg" width="59" height="71" viewBox="0 0 59 71">
-<g fill="none" fill-rule="evenodd">
-<path stroke="#505050" d="M50.878 20.362C50.978 7.278 42.378 1 29.926 1 17.472 1 8.873 7.278 8.973 20.362h41.905z" />
-<path stroke="#3F7FE7" d="M54.93 45.02l-15.09 3.64c-1.59 0-3.151-.431-4.516-1.246l-2.319-1.383a6.012 6.012 0 0 0-6.16 0l-2.318 1.383a8.804 8.804 0 0 1-4.515 1.245l-15.09-3.64a4.473 4.473 0 0 1-3.432-4.341V24.83c0-2.468 2.01-4.468 4.49-4.468H53.87c2.48 0 4.49 2 4.49 4.468v15.848a4.471 4.471 0 0 1-3.432 4.341z" />
-<path stroke="#505050" d="M49.382 50.149v1.49c0 3.88-1.693 5.893-4.626 8.45-2.105 1.835-4.61 3.702-6.837 5.327a13.567 13.567 0 0 1-15.987 0c-2.227-1.625-4.732-3.492-6.836-5.327-2.935-2.557-4.626-4.57-4.626-8.45v-1.49M14.96 60.574V71M44.892 60.574V71" />
-<path stroke="#3F7FE7" d="M25.436 24.83h8.98M5.98 24.83v13.404M53.871 24.83v13.404" />
-</g>
-</svg>
-</div>
-<h3 class="item-title">Augmented Reality</h3>
-</div>
-<div class="more-info">
-<div class="item-title">Augmented Reality</div>
-<p class="item-description">Let you users try on your clothing products using their smartphones with AR.</p>
-</div>
-</li>
-<li class="teach-item">
-<div class="preview">
-<div class="teach-icon">
-<svg width="72px" height="63px" viewBox="0 0 72 63" version="1.1" xmlns="http://www.w3.org/2000/svg">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-797.000000, -2705.000000)">
-<g transform="translate(0.000000, 2300.000000)">
-<g transform="translate(798.000000, 406.000000)">
-<path d="M15.2175435,41.0869565 L10.6523261,41.0869565 C4.76928261,41.0869565 0.000152173913,36.3163043 0.000152173913,30.4347826 C0.000152173913,24.8286957 4.33406522,20.2436957 9.8321087,19.8236957 C9.37102174,18.3704348 9.11993478,16.8258696 9.11993478,15.2204348 C9.11993478,6.81434783 15.9342826,0 24.3388478,0 C30.9842826,0 36.6208043,4.26695652 38.6949348,10.2047826 C40.5621087,8.59021739 42.9908043,7.60717391 45.6523261,7.60717391 C51.5353696,7.60717391 56.3045,12.3763043 56.3045,18.2593478 C56.3045,18.9547826 56.2329783,19.6304348 56.1066739,20.2878261 C57.1292826,19.9606522 58.2173261,19.7826087 59.3479783,19.7826087 C65.2310217,19.7826087 70.0001522,24.5517391 70.0001522,30.4347826 C70.0001522,36.3178261 65.2310217,41.0869565 59.3479783,41.0869565 L53.2610217,41.0869565" stroke="#323232" />
-<path d="M45.6523261,60.8695652 L22.8262391,60.8695652 C20.3047174,60.8695652 18.2610217,58.8258696 18.2610217,56.3043478 L18.2610217,54.7826087 C18.2610217,52.261087 20.3047174,50.2173913 22.8262391,50.2173913 L45.6523261,50.2173913 C48.1738478,50.2173913 50.2175435,52.261087 50.2175435,54.7826087 L50.2175435,56.3043478 C50.2175435,58.8258696 48.1738478,60.8695652 45.6523261,60.8695652 Z M45.6523261,50.2173913 L22.8262391,50.2173913 C20.3047174,50.2173913 18.2610217,48.1736957 18.2610217,45.6521739 L18.2610217,44.1304348 C18.2610217,41.608913 20.3047174,39.5652174 22.8262391,39.5652174 L45.6523261,39.5652174 C48.1738478,39.5652174 50.2175435,41.608913 50.2175435,44.1304348 L50.2175435,45.6521739 C50.2175435,48.1736957 48.1738478,50.2173913 45.6523261,50.2173913 Z M45.6523261,39.5652174 L22.8262391,39.5652174 C20.3047174,39.5652174 18.2610217,37.5215217 18.2610217,35 L18.2610217,33.4782609 C18.2610217,30.9567391 20.3047174,28.9130435 22.8262391,28.9130435 L45.6523261,28.9130435 C48.1738478,28.9130435 50.2175435,30.9567391 50.2175435,33.4782609 L50.2175435,35 C50.2175435,37.5215217 48.1738478,39.5652174 45.6523261,39.5652174 Z" stroke="#3F7FE7" />
-</g>
-</g>
-</g>
-</svg>
-</div>
-<h3 class="item-title">CLOUD</h3>
-</div>
-<div class="more-info">
-<div class="item-title">CLOUD</div>
-<p class="item-description">Transfer your web solution to a scalable cloud storage of Amazon, Google, or Microsoft.
-</p>
-</div>
-</li>
-<li class="teach-item">
-<div class="preview">
-<div class="teach-icon">
-<svg xmlns="http://www.w3.org/2000/svg" width="67" height="72" viewBox="0 0 67 72">
-<g fill="none" fill-rule="evenodd" stroke-linejoin="round">
-<path stroke="#323232" d="M35.92 10.612c0-3.191.281-9.612-7.944-9.612-6.553 0-12.511 7.059-12.71 11.214-4.94.663-9.634 5.532-8.983 11.75-4.696 2.32-8.102 14.713-1.974 20.59-1.114 5.055 2.313 16.634 12.546 15.721 2.491 13.5 19.065 13.097 19.065 3.204v-8.01M26.387 21.826c-5.778 0-11.12-.908-11.12-9.612" />
-<path stroke="#3F7FE7" d="M15.83 32.844c2.676 1.765 7.204 1.067 9.635-1.51 1.795-1.903 3.71-4.92 5.689-4.701h25.42M27.976 55.737c1.168-2.756 3.972-3.472 7.944-3.472h20.654" />
-<path stroke="#323232" d="M19.172 51.21c-2.663-.421-5.013-2.952-5.013-5.054M16.855 60.275c0-6.16 3.465-14.118 12.341-14.118" />
-<path stroke="#3F7FE7" d="M10.818 28.077c2.768 0 5.013 1.976 5.013 4.766 0 2.202-1.395 4.361-3.341 5.055M45.453 13.816H35.92c-4.32 0-8.57-.665-10.065-4.393" />
-<path stroke="#323232" d="M35.92 17.02v9.613M35.92 31.439V49.06" />
-<path stroke="#3F7FE7" d="M35.92 39.449h9.533M39.098 65.081h6.355M66.106 26.633c0 2.654-2.133 4.806-4.766 4.806s-4.766-2.152-4.766-4.806c0-2.655 2.133-4.807 4.766-4.807s4.766 2.152 4.766 4.807zM54.985 13.816c0 2.655-2.134 4.806-4.766 4.806-2.633 0-4.766-2.151-4.766-4.806 0-2.654 2.133-4.806 4.766-4.806 2.632 0 4.766 2.152 4.766 4.806zM54.985 39.449c0 2.654-2.134 4.806-4.766 4.806-2.633 0-4.766-2.152-4.766-4.806 0-2.655 2.133-4.806 4.766-4.806 2.632 0 4.766 2.151 4.766 4.806zM54.985 65.081c0 2.655-2.134 4.806-4.766 4.806-2.633 0-4.766-2.151-4.766-4.806 0-2.654 2.133-4.806 4.766-4.806 2.632 0 4.766 2.152 4.766 4.806zM66.106 52.265c0 2.655-2.133 4.806-4.766 4.806s-4.766-2.151-4.766-4.806c0-2.654 2.133-4.806 4.766-4.806s4.766 2.152 4.766 4.806z" />
-</g>
-</svg>
-</div>
-<h3 class="item-title">Virtual Reality</h3>
-</div>
-<div class="more-info">
-<div class="item-title">Virtual Reality</div>
-<p class="item-description">Let your users take virtual tours of a real estate property, resort, or entertainment facility with VR.</p>
-</div>
-</li>
-<li class="teach-item">
-<div class="preview">
-<div class="teach-icon">
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
-<g fill="none" fill-rule="evenodd" stroke-linejoin="round">
-<path stroke="#323232" d="M40.07 10.767v-8.14H27.047v7.366a25.883 25.883 0 0 0-6.7 2.774L15.14 7.559l-9.21 9.209 5.209 5.208a25.883 25.883 0 0 0-2.774 6.698H1v13.024h7.365a25.883 25.883 0 0 0 2.774 6.699L5.93 53.604l9.209 9.21 5.208-5.208a25.883 25.883 0 0 0 6.699 2.774v7.364H40.07v-8.14" />
-<path stroke="#3F7FE7" d="M43.326 17.28h1.627l8.14-8.14M53.093 62.86l-9.767-9.767h-9.768c-9.89 0-17.907-8.017-17.907-17.907s8.018-17.907 17.907-17.907" />
-<path stroke="#3F7FE7" d="M35.186 43.326h-1.628a8.14 8.14 0 0 1 0-16.28h13.023l6.512-6.511h8.14M61.233 51.465H54.72l-8.14-8.14h-1.628M61.233 5.884a4.883 4.883 0 1 1-9.767 0 4.883 4.883 0 0 1 9.767 0z" />
-<path stroke="#3F7FE7" d="M71 20.535a4.883 4.883 0 1 1-9.767 0 4.883 4.883 0 0 1 9.767 0zM71 35.186a4.883 4.883 0 1 1-9.767 0 4.883 4.883 0 0 1 9.767 0zM71 51.465a4.883 4.883 0 1 1-9.767 0 4.883 4.883 0 0 1 9.767 0zM61.233 66.116a4.883 4.883 0 1 1-9.767 0 4.883 4.883 0 0 1 9.767 0zM44.953 35.186h14.652M31.93 35.186h3.256M38.442 35.186h3.256M38.442 43.326h3.256M36.814 17.28h3.256" />
-</g>
-</svg>
-</div>
-<h3 class="item-title">Internet of Things</h3>
-</div>
-<div class="more-info">
-<div class="item-title">Internet of Things</div>
-<p class="item-description">Make your web solution work and communicate with different smart devices.</p>
-</div>
-</li>
-</ul>
-</div>
-</section>
 <section class="service-dev-team">
 <div class="container">
 <h2 class="dev-team__title">Our Web Development Process</h2>
@@ -659,15 +469,7 @@ As SoftEzi is a digital transformation-first company, we can help you enhance yo
 </div>
 </div>
 </section>
-<section class="service-cta service-cta--it-consulting">
-<div class="service-cta__text-area service-cta__text-area--it-consulting">
-<div>Get started</div>
-<p class="service-cta__white">
-Starting building an effective and engaging web solution with SoftEzi.
-</p>
-<a class="get-touch btn" href="#form-wrap">Talk to us</a>
-</div>
-</section>
+
 <section class="faq">
 <div class="container">
 <div class="title title--black title--medium title--uppercase">FAQ</div>
