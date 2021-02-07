@@ -39,26 +39,21 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
             return $error;
         }
     }
-    if(isset($_POST['sendenquery'])){
+    if(isset($_POST['contactform'])){
       $name=$_POST['name'];
       $last_name=$_POST['last_name'];
       $email=$_POST['email'];
-
       $phone=$_POST['phone'];
-
       $company=$_POST['company'];
-
       $country=$_POST['country'];
-
       $interest=$_POST['interest'];
       $description=$_POST['description'];
-
-    $to   = $email;
-    $from = 'support@softezi.in';
-    $name =  $name." ".$last_name;
+    $to='mohammedbori44@gmail.com';
+    $from='support@softezi.in';
+    $name= $name." ".$last_name;
     $subj = $company;
-    $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
-    echo $msg;
+   $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
     $error=smtpmailer($to,$from, $name ,$subj, $msg);
+    
     }
 ?>

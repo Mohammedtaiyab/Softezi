@@ -1,3 +1,6 @@
+<?php
+require("mail.php");
+?>
 <!DOCTYPE html>
 <html lang="en-US">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -216,139 +219,7 @@ TO SUCCEED WITH TECHNOLOGIES</h1>
 </div>
 </div>
 </section>
-<!--<section class="client-slider">-->
-<!--<div class="clients-success">-->
-<!--<div class="container">-->
-<!--<h2 class="title title--black">-->
-<!--READ CLIENTS SUCCESS STORIES </h2>-->
-<!--<a href="cases.html" class="all-link">-->
-<!--All case studies<i class="isoi-angle-right"></i>-->
-<!--</a>-->
-<!--<div class="swiper-container main-slider loading">-->
-<!--<div class="swiper-wrapper">-->
-<!--<div class="swiper-slide">-->
-<!--<div class="slide-wrapper">-->
-<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/eurostar.jpg')">-->
-<!--<img src="blog/wp-content/uploads/eurostar-1.png" class="entity-img lazy" alt="eurostar icon" />-->
-<!--</figure>-->
-<!--<div class="content">-->
-<!--<div class="caption">-->
-<!--<h3>Eurostar</h3>-->
-<!--<p>A high-speed railway pioneer gains a series of automated solutions to process passenger information, improve on-board services, and report critical information to passengers.</p>-->
-<!--</div>-->
-<!--<a href="cases/eurostar/index.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<div class="slide-wrapper">-->
-<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/harley-davidson-1.jpg')">-->
-<!--<img src="blog/wp-content/uploads/harley-davidson.png" class="entity-img lazy" alt="" />-->
-<!--</figure>-->
-<!--<div class="content">-->
-<!--<div class="caption">-->
-<!--<h3>Harley-Davidson</h3>-->
-<!--<p>Iconic motorcycle brand finds a fresh way to engage its fans while on the road by creating a mobile app that allows exhibition staff to sign prospective clients.</p>-->
-<!--</div>-->
-<!--<a href="cases/harley-davidson.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<div class="slide-wrapper">-->
-<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/ernst-young-2x.jpg')">-->
-<!--<img src="blog/wp-content/uploads/ernst-young.png" class="entity-img lazy" alt="" />-->
-<!--</figure>-->
-<!--<div class="content">-->
-<!--<div class="caption">-->
-<!--<h3>Ernst &amp; Young</h3>-->
-<!--<p>Forecasts in Focus confirms E&amp;Y as a thought-leader in the eyes of an audience relying on data to drive smarter investment decisions.</p>-->
-<!--</div>-->
-<!--<a href="cases/ernst-young.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<div class="slide-wrapper">-->
-<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/guinness-1.jpg')">-->
-<!--<img src="blog/wp-content/uploads/guinness-1.png" class="entity-img lazy" alt="" />-->
-<!--</figure>-->
-<!--<div class="content">-->
-<!--<div class="caption">-->
-<!--<h3>Guinness</h3>-->
-<!--<p>This marketing communications app prepared for Arthur Guinness Day vitalized the conversation between the beloved beverage brand and its admirers.</p>-->
-<!--</div>-->
-<!--<a href="cases/guinness.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<div class="slide-wrapper">-->
-<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/jaguar-talk-case-2-1000x486.jpg')">-->
-<!--<img src="blog/wp-content/uploads/jaguar-talk.png" class="entity-img lazy" alt="" />-->
-<!--</figure>-->
-<!--<div class="content">-->
-<!--<div class="caption">-->
-<!--<h3>Jaguar Land Rover</h3>-->
-<!--<p>The JRL Talk solution is a multilingual mobile application that lets the company’s representative leap over language barriers in a matter of seconds, ensuring clear and productive conversations.</p>-->
-<!--</div>-->
-<!--<a href="cases/jaguar-talk.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<div class="slide-wrapper">-->
-<!--<figure class="clients-image lazy-background" style="background-image:url('blog/wp-content/uploads/cirruspath.jpg')">-->
-<!--<img src="blog/wp-content/uploads/cirrus.png" class="entity-img lazy" alt="" />-->
-<!--</figure>-->
-<!--<div class="content">-->
-<!--<div class="caption">-->
-<!--<h3>Cirruspath</h3>-->
-<!--<p>Cirruspath was behind the highest-rated app for integrating Salesforce with a user’s email inbox. Cirrus Insight Mobile helps you leverage your sales data to gain valuable insights and uncover new&#8230;</p>-->
-<!--</div>-->
-<!--<a href="cases/cirrus.html" class="content-link-more">View more <i class="isoi-angle-right"></i></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="swiper-container nav-slider loading">-->
-<!--<div class="swiper-wrapper">-->
-<!--<div class="swiper-slide">-->
-<!--<figure class="logo-nav">-->
-<!--<img src="blog/wp-content/uploads/eurostar-1.png" class="entity-img entity-img--nav" alt="eurostar icon" />-->
-<!--</figure>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<figure class="logo-nav">-->
-<!--<img src="blog/wp-content/uploads/harley-davidson.png" class="entity-img entity-img--nav" alt="" />-->
-<!--</figure>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<figure class="logo-nav">-->
-<!--<img src="blog/wp-content/uploads/ernst-young.png" class="entity-img entity-img--nav" alt="" />-->
-<!--</figure>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<figure class="logo-nav">-->
-<!--<img src="blog/wp-content/uploads/guinness-1.png" class="entity-img entity-img--nav" alt="" />-->
-<!--</figure>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<figure class="logo-nav">-->
-<!--<img src="blog/wp-content/uploads/jaguar-talk.png" class="entity-img entity-img--nav" alt="" />-->
-<!--</figure>-->
-<!--</div>-->
-<!--<div class="swiper-slide">-->
-<!--<figure class="logo-nav">-->
-<!--<img src="blog/wp-content/uploads/cirrus.png" class="entity-img entity-img--nav" alt="" />-->
-<!--</figure>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</section>-->
+
 <section class="choose">
 <div class="container">
 <div class="choose__heading">
@@ -447,7 +318,7 @@ Impactful Workshops </h3>
     
  
 <div id="form-wrap" class="form-wrap__flexbox">
-<form id="form-contacts" class="form form--contact form--contact--rating" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
+<form id="form-contacts" class="form form--contact form--contact--rating"  action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
 <!--  -->
 <div class="form__box" data-style="display: flex;">
 <div class="form-group">
@@ -742,8 +613,8 @@ Impactful Workshops </h3>
 <div class="form-group form-group--description">
 <textarea class="form__textarea" name="description" maxlength="65535" placeholder="Project description"></textarea>
 </div>
-<button class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" >
-Talk to our team </button>
+<input type="submit" name="contactform" class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" value="Talk to our team "> 
+
 </form>
 </div>
 </div>

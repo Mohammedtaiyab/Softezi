@@ -243,7 +243,7 @@ Engaging and exciting software solutions for modern retail. </p>
   </div>
 </div>
 </div>
-<div class="col-md-4">
+<div class="col-md-4" style="">
 <div class="card-container">
   <img src="assets/img/city/Trivandrum.jpg" alt="Avatar" class="image">
   <div class="overlay">

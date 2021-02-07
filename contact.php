@@ -43,29 +43,34 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
       $name=$_POST['name'];
       $last_name=$_POST['last_name'];
       $email=$_POST['email'];
-
       $phone=$_POST['phone'];
-
       $company=$_POST['company'];
-
       $country=$_POST['country'];
-
       $interest=$_POST['interest'];
       $description=$_POST['description'];
-
-    // $to   = $email;
-    // $from = 'support@softezi.in';
-    // $name =  $name." ".$last_name;
-    // $subj = $company;
-    // $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
-    // echo $msg;
     $to='mohammedbori44@gmail.com';
     $from='support@softezi.in';
     $name= $name." ".$last_name;
     $subj = $company;
    $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
-   
     $error=smtpmailer($to,$from, $name ,$subj, $msg);
+    }
+    if(isset($_POST['contactform'])){
+      $name=$_POST['name'];
+      $last_name=$_POST['last_name'];
+      $email=$_POST['email'];
+      $phone=$_POST['phone'];
+      $company=$_POST['company'];
+      $country=$_POST['country'];
+      $interest=$_POST['interest'];
+      $description=$_POST['description'];
+    $to='mohammedbori44@gmail.com';
+    $from='support@softezi.in';
+    $name= $name." ".$last_name;
+    $subj = $company;
+   $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
+    $error=smtpmailer($to,$from, $name ,$subj, $msg);
+    
     }
 ?>
 
@@ -185,11 +190,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 require("desktop-nav.php");
 ?>
 <header>
+<section class="hero hero--600" style="background-image:url(../upload/images/services/dfcfd4a1cf1d0dbab56ef6f54f0f27b24114a71b98943161775118949312dd4b.jpg);height:400px;">
 <div class="container">
-<div class="page-title">
-<h1>Contact SoftEzi</h1>
+<div class="hero__content">
+<div class="title__preheader title__preheader--tag">SoftEzi</div>
+<h1 class="title title--uppercase">Contact
+</h1>
 </div>
 </div>
+</section>
 </header>
 <section class="form-wrap form-wrap--contact-page">
 <div class="container">
@@ -609,11 +618,11 @@ This form collects your personal details so that we can contact you back to rais
 </div>
 </div> </div>
 </div>
-  <div class="col-md-6">
+  <div class="col-md-6"style="display: none;">
     
  
-<div id="form-wrap" class="form-wrap__flexbox">
-<form id="form-contacts" class="form form--contact form--contact--rating" action="#" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
+<div id="form-wrap" class="form-wrap__flexbox" >
+<form id="form-contacts" class="form form--contact form--contact--rating" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" enctype="multipart/form-data" data-handler="" data-type="ContactForm" data-url="">
 <!--  -->
 <div class="form__box" data-style="display: flex;">
 <div class="form-group">
@@ -884,6 +893,8 @@ This form collects your personal details so that we can contact you back to rais
 <input type="text" class="form-control" name="last_name" maxlength="255" placeholder="Last Name">
 </div>
 </div>
+
+<div class="form__box" data-style="display: flex;">
 <div class="form-group form__appearance">
 <select class="form__select" name="interest">
 <option value="">I am interested in</option>
@@ -904,12 +915,14 @@ This form collects your personal details so that we can contact you back to rais
 <option value="UX / UI Design">UX / UI Design</option>
 </optgroup>
 </select> </div>
-
+</div>
 <div class="form-group form-group--description">
 <textarea class="form__textarea" name="description" maxlength="65535" placeholder="Project description"></textarea>
 </div>
-<button class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" >
-Talk to our team </button>
+<input type="submit" name="contactform" class="form__submit form__submit--contact button--white-green" style="background: #fd7e149c" value="Talk to our team "> 
+
+<!-- <button  >
+Talk to our team </button> -->
 </form>
 </div>
 </div>
