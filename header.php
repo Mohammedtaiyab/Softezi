@@ -1,5 +1,5 @@
 <?php
-require("desktop-nav.php");
+require("mail.php");
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -163,6 +163,7 @@ padding: 0px 35px;
 <link rel="alternate" type="application/rss+xml" title="Intellectsoft Blog &raquo; Feed" href="blog/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Intellectsoft Blog &raquo; Comments Feed" href="blog/comments/feed/index.html" />
 <link rel='stylesheet' id='' href='blog/wp-content/themes/style.css' type='text/css' media='all' />
+<link rel="stylesheet" href="assets/main-style.min.css">
 <link rel='stylesheet' id='slick-css' href='blog/wp-content/uploads/hummingbird-assets/b8d0db99b17e4d9b83062be81237a679.css' type='text/css' media='1' />
 <link rel='stylesheet' id='wphb-1-css' href='blog/wp-content/uploads/hummingbird-assets/6fe36af9adbb0c054e8856d039ce5348.css' type='text/css' media='all' />
 <link rel='stylesheet' id='style-css' href='main-style.min.css' type='text/css' media='all' />
