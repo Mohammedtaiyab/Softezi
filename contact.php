@@ -48,8 +48,8 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
       $country=$_POST['country'];
       $interest=$_POST['interest'];
       $description=$_POST['description'];
-    $to='mohammedbori44@gmail.com';
-    $from='support@softezi.in';
+      $to='support@softezi.in';
+      $from=$email;
     $name= $name." ".$last_name;
     $subj = $company;
    $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
@@ -64,8 +64,8 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
       $country=$_POST['country'];
       $interest=$_POST['interest'];
       $description=$_POST['description'];
-    $to='mohammedbori44@gmail.com';
-    $from='support@softezi.in';
+      $to='support@softezi.in';
+      $from=$email;
     $name= $name." ".$last_name;
     $subj = $company;
    $msg = $description."<br>Interested:-".$interest."<br>Phone:-".$phone."<br>Company:-".$company; 
