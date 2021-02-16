@@ -159,6 +159,7 @@ padding: 0px 35px;
 <meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 <meta name="description" content="SoftEzi is a full-service software development company of engineers, designers, and developers. Mobile app development and custom software solutions in USA, Palo Alto">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 <link rel="alternate" type="application/rss+xml" title="Intellectsoft Blog &raquo; Feed" href="blog/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Intellectsoft Blog &raquo; Comments Feed" href="blog/comments/feed/index.html" />
@@ -213,6 +214,57 @@ padding: 0px 35px;
     max-width: 68px;
 }
 }
+.newsletter {
+    position: fixed;
+    top:-36%;
+    bottom: 25%;
+    left: 25%;
+    height: 350px;
+    /* -js-display: flex; */
+    /* display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; */
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    width: 620px;
+    background-color: rgb(253 126 20);
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    /* z-index: 99; */
+    -webkit-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    transform: translateY(100%);
+    border-radius: 33px;
+    box-sizing: inherit;
+    box-shadow: 19px 18px 20px 0px;
+    text-align: center;
+    padding: 25px 25px;
+    display: none;
+}
+.newsletter--show .newsletter-title {
+    width: 100%;
+}
+.newsletter--show .newsletter-button{
+  margin-top: 20px;
+    width: 100%;
+}
+.newsletter--show{
+  display: block;
+}
+
+.newsletter--show .newsletter-title img{
+  width: 20%;
+}
+
+
+@media screen and (max-width: 767px){
+  .newsletter {
+    left:0%;
+    width: 100%;
+  
+}
 </style>
 <!--[if IE 9]>
 <script src="/assets/49c5770d/vendor/ie9-placeholder.js?v=1608714905"></script>
@@ -230,6 +282,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head>
 <body class="pages-index">
+<div id="phone">
+<a href="tel:+1 650 300 4335"><img src="/assets/aa397804/img/button_phone.svg" alt="button_phone"></a>
+</div>
+<div class="newsletter">
+<div class="newsletter-title">
+  <h2>You’ve arrived in time!</h2>
+  <img src="assets/img/time.gif" alt="" style="margin: 0 auto;">
+  Want to give your Business an Online Presence?<br>
+Top-Notch Agency Work @Freelancer’s rate.</div>
+<div class="newsletter-button">
+<a href="contact.php" class="button ">Get A Quote<i class="isoi-angle-right"></i></a>
+<a class="popup-ok">Okay</a>
+</div>
+
+</div>
 <div id="o-wrapper" class="wrapper overflow-hidden">
     
 <?php

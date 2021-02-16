@@ -443,7 +443,12 @@ $("#officesSlider").owlCarousel({
     }
 });
 
-});</script>
+});
+
+$(document).ready(function(){
+    $(".newsletter").addClass("newsletter--show");
+});
+</script>
 
 </body>
 </html>

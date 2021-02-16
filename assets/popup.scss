@@ -1,0 +1,318 @@
+*
+	box-sizing: border-box
+
+input, button
+	border: 0
+	padding: 0
+	line-height: 0
+	background: none
+	border: none
+
+@mixin size($size)
+	width: $size
+	height: $size
+
+@mixin space
+	margin-bottom: 1.5rem
+
+@mixin flex($align-items: center, $justify-content: center, $flex-direction: row)
+	display: flex
+	align-items: $align-items
+	justify-content: $justify-content
+	flex-direction: $flex-direction
+
+body
+	height: 100vh
+	font-family: Arial
+	overflow-x: hidden
+	@include flex
+	
+$animationSpeed: .4s
+.background
+	position: absolute
+	background-color: #ffa333
+	background-image: url('https://i.ytimg.com/vi/lj7kFBz-jw4/maxresdefault.jpg')
+	background-size: cover
+	transition: filter $animationSpeed ease
+	filter: brightness(1)
+	z-index: -1
+	@include size(100%)
+	
+.newsletter
+	height: auto
+	max-width: 600px
+	padding: 2rem 1rem
+	padding-bottom: 1rem
+	border-radius: 20px
+	position: relative
+	overflow: hidden
+	background-color: white
+	box-shadow: 0px 8px 20px 5px rgba(50, 50, 50, 0.2)
+	margin: 1rem
+	margin-bottom: .7rem
+	@include flex($flex-direction: column)
+	
+	@media (max-width: 280px)
+		padding: 1rem .5rem
+	
+	&__container
+		z-index: 1
+		@include flex($flex-direction: column)
+
+	&__background
+		position: absolute
+		top: -10px
+		left: -10px
+		filter: blur(10px)
+		background: white
+		background: radial-gradient(circle at top left, rgba(174,170,203,.95) 0%, rgba(166,202,236,.95) 15%, rgba(255,255,255,0) 40%, rgba(255,255,255,0) 100%), radial-gradient(circle at top center, rgba(224,130,167,.95) 20%, rgba(255,255,255,0) 50%), radial-gradient(circle at top right, rgba(238,90,86,.95) 8%, rgba(254,186,77,.95) 20%, rgba(252,224,114,.95) 30%, rgba(238,242,215,.7) 45%, rgba(255,255,255,0) 50%)
+		background-position: top center
+		background-size: cover
+		background-repeat: no-repeat
+		@include size(110%)
+
+	&__slogan
+		margin-top: 2rem
+		padding: .5rem 1rem
+		border: 2px solid black
+		border-radius: 13px
+		text-transform: capitalize
+		font-weight: bold
+		line-height: 1.1rem
+		@include space
+
+		@media (max-width: 280px)
+				font-size: .75rem
+				padding: .3rem .6rem
+				border: 2px solid black
+
+		@media (max-width: 300px)
+				font-size: .6rem
+				padding: .3rem .5rem
+	
+	&__header
+		font-size: 2rem
+		width: 60%
+		text-align: center
+		font-weight: bold
+		@include space
+
+		@media (max-width: 522px)
+			font-size: 2rem
+			width: 100%
+
+		@media (max-width: 340px)
+			font-size: 1.5rem
+
+		@media (max-width: 325px)
+			font-size: 1.5rem
+
+		@media (max-width: 280px)
+			font-size: 1.2rem
+			width: 100%
+
+	&__instructions
+		width: 60%
+		text-align: center
+		line-height: 1.5rem
+		@include space
+
+		@media (max-width: 560px)
+			width: 90%
+			font-size: .9rem
+			line-height: 1rem	
+
+		@media (max-width: 230px)
+			font-size: .75rem
+	
+	&__form
+		width: 90%
+		@include flex
+		@include space
+
+		@media (max-width: 325px)
+			width: 90%
+			@include flex($flex-direction: column)
+	
+	&__asterisk
+		font-size: .7rem
+		width: 60%
+		text-align: center
+		line-height: .8rem
+		color: grey
+
+		@media (max-width: 280px)
+			font-size: .5rem
+			width: 90%
+			line-height: .6rem
+
+		@media (max-width: 560px)
+			width: 90%
+.design-by
+	position: absolute
+	top: 2px
+	right: 2px
+	background-color: black
+	color: white
+	padding: .5rem 1rem
+	font-size: .7rem
+	a
+		color: white
+		text-decoration: none
+		&:hover
+			text-decoration: underline
+
+.input
+	border-radius: 4px
+	padding: .6rem 1rem
+	border: 1px solid silver
+
+	&--email
+		width: 90%
+		line-height: 1rem
+		color: #676767
+		font-size: .9rem
+		
+		@media (max-width: 361px)
+			width: 100%
+			font-size: .8rem
+			padding: .6rem .6rem
+
+		@media (max-width: 280px)
+			font-size: .8rem
+	
+	&--invalid
+		border: 1px solid red
+
+	&--valid
+		border: 1px solid #50C878
+		opacity: .5
+
+.hidden
+	border: 0
+	//IE6, IE7
+	clip: rect(1px 1px 1px 1px) 
+	clip: rect(1px, 1px, 1px, 1px)
+	height: 1px
+	margin: -1px
+	overflow: hidden
+	padding: 0
+	position: absolute
+	width: 1px
+	
+// -------------------
+//      buttons
+// -------------------
+
+$btnCloseSize: 25px
+
+.btn
+	padding: .6rem 1rem
+	border-radius: 4px
+	line-height: 1rem
+	text-transform: capitalize
+	position: relative
+	min-width: 74px
+	min-height: 35.19px
+	overflow: hidden
+
+	&__close
+		position: absolute
+		top: $btnCloseSize - 1px
+		left: $btnCloseSize - 1px
+		cursor: pointer
+		@include size($btnCloseSize)
+		&::after, &::before
+			content: ''
+			height: 1px
+			width: $btnCloseSize
+			background-color: black
+			position: absolute
+			top: $btnCloseSize / 2 - 1px
+			left: 0
+			transition: transform .4s ease
+		&::after
+			transform: rotate(45deg)
+		&::before
+			transform: rotate(-45deg)
+		&:hover::before
+			transform: rotate(45deg)
+		&:hover::after
+			transform: rotate(-45deg)
+
+		@media (max-width: 280px)
+			$btnCloseSize: 20px
+			top: $btnCloseSize - 1px
+			left: $btnCloseSize - 1px
+			@include size($btnCloseSize)
+			&::after, &::before
+				width: $btnCloseSize
+				top: $btnCloseSize / 2 - 1px
+	&__primary
+		background-color: #8cb7e2
+		color: white
+		&:not(:disabled):hover
+			background-color: #418bd6
+			cursor: pointer
+
+		&--submit
+			margin-left: 10px
+
+			@media (max-width: 325px)
+				margin-top: .5rem
+				align-self: flex-end
+
+	&--valid
+		background-color: #50C878
+
+// -------------------
+//     animations
+// -------------------
+.darken
+	filter: brightness(0.6)
+
+.plane
+	position: absolute
+	left: 10px
+	top: 7px
+	transform: translate(-30px, 30px) rotate(20deg)
+	transition: transform $animationSpeed ease
+	&_path
+		fill: white
+
+.slideIn
+	animation: slideIn $animationSpeed forwards
+
+@keyframes slideIn
+	0%
+		transform: translateX(-100vw)
+	80%
+		transform: translateX(10vw)
+	100%
+		transform: translateX(0)
+
+.slideOut
+	animation: slideOut $animationSpeed forwards
+
+@keyframes slideOut
+	0%
+		transform: translateX(0)
+	20%
+		transform: translateX(10vw)
+	100%
+		transform: translateX(-100vw)
+
+.shake
+	animation: $animationSpeed / 1.2 shake forwards
+$shakeRange: 20px
+@keyframes shake
+	0%, 100%
+		transform: translateX(0)
+	20%
+		transform: translateX(-$shakeRange)
+	40%
+		transform: translateX($shakeRange)
+	60%
+		transform: translateX(-$shakeRange)
+	80%
+		transform: translateX($shakeRange)
