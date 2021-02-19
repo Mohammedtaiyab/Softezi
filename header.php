@@ -259,13 +259,7 @@ padding: 0px 35px;
 }
 
 
-@media screen and (max-width: 767px){
-  .newsletter {
-    left:0%;
-    width: 100%;
-  
-}
-}
+
 .div-flex{
   display: flex;
   width: 100%;
@@ -290,6 +284,19 @@ padding: 0px 35px;
     top: 0;
     right: 9px;
 }
+
+@media screen and (max-width: 767px){
+  .newsletter {
+    left:0%;
+    width: 100%;
+  
+}
+.popup {
+    width: 100%;
+}
+#imgclip{
+  display: none;
+}
 }
 </style>
 <!--[if IE 9]>
@@ -313,7 +320,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="newsletter"  style="background-image: url('assets/img/consulting.jpg');">
 <div class="div-flex">
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.44 350"><defs><style>.cls-1{fill:#fff;}</style></defs><title>wave</title><path class="cls-1" d="M438.33,376.54l3.22-11.67c3.09-11.66,9.7-35,11.21-58.33s-1.51-46.67-14.43-70-35.16-46.67-36.88-70,17.65-46.67,24.05-70-.09-46.67-3.19-58.33L419.1,26.54h57.7v350Z" transform="translate(-401.36 -26.54)"/></svg>
+<svg id="imgclip" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.44 350"><defs><style>.cls-1{fill:#fff;}</style></defs><title>wave</title><path class="cls-1" d="M438.33,376.54l3.22-11.67c3.09-11.66,9.7-35,11.21-58.33s-1.51-46.67-14.43-70-35.16-46.67-36.88-70,17.65-46.67,24.05-70-.09-46.67-3.19-58.33L419.1,26.54h57.7v350Z" transform="translate(-401.36 -26.54)"/></svg>
   <div class="popup mob-pop"">
 
 <div class="pop-text">
