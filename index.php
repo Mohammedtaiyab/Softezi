@@ -259,6 +259,17 @@ Engaging and exciting software solutions for modern retail. </p>
 
 </div>
 </section>
+
+
+<!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".popmsg">Large modal</button> -->
+
+ <div class="modal fade popmsg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+ 
+    </div>
+  </div>
+</div> 
 <?php 
 require('footer.php'); 
 ?>

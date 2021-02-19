@@ -236,11 +236,11 @@ padding: 0px 35px;
     -webkit-transform: translateY(100%);
     -ms-transform: translateY(100%);
     transform: translateY(100%);
-    border-radius: 33px;
+    border-radius: 7px;
     box-sizing: inherit;
     box-shadow: 19px 18px 20px 0px;
     text-align: center;
-    padding: 25px 25px;
+    padding: 0px;
     display: none;
 }
 .newsletter--show .newsletter-title {
@@ -265,6 +265,32 @@ padding: 0px 35px;
     width: 100%;
   
 }
+}
+.div-flex{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-end;
+}
+.popup {
+  display: flex;
+  background-color: #fff;
+  width: 50%;
+  padding: 20px 9px;
+}
+.popup h2{
+  font-size: 25px;
+}
+#timer{
+  font-size: 22px;
+    color: #fd7e14;
+}
+.close{
+  position: fixed;
+    top: 0;
+    right: 9px;
+}
+}
 </style>
 <!--[if IE 9]>
 <script src="/assets/49c5770d/vendor/ie9-placeholder.js?v=1608714905"></script>
@@ -285,16 +311,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="phone">
 <a href="tel:+1 650 300 4335"><img src="/assets/aa397804/img/button_phone.svg" alt="button_phone"></a>
 </div>
-<div class="newsletter">
-<div class="newsletter-title">
-  <h2>You’ve arrived in time!</h2>
-  <img src="assets/img/time.gif" alt="" style="margin: 0 auto;">
-  Want to give your Business an Online Presence?<br>
-Top-Notch Agency Work @Freelancer’s rate.</div>
-<div class="newsletter-button">
-<a href="contact.php" class="button ">Get A Quote<i class="isoi-angle-right"></i></a>
-<a class="popup-ok">Okay</a>
-</div>
+<div class="newsletter"  style="background-image: url('assets/img/consulting.jpg');">
+<div class="div-flex">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.44 350"><defs><style>.cls-1{fill:#fff;}</style></defs><title>wave</title><path class="cls-1" d="M438.33,376.54l3.22-11.67c3.09-11.66,9.7-35,11.21-58.33s-1.51-46.67-14.43-70-35.16-46.67-36.88-70,17.65-46.67,24.05-70-.09-46.67-3.19-58.33L419.1,26.54h57.7v350Z" transform="translate(-401.36 -26.54)"/></svg>
+  <div class="popup mob-pop"">
+
+<div class="pop-text">
+    <h2>You’ve arrived in time!</h2>
+    <div><span id="timer"></span></div>
+    <p>Want to give your Business an Online Presence?<br></p>
+    <hr>
+<h3>Top-Notch Agency Work @Freelancer’s rate</h3>
+<a class="get-touch btn" href="contact.php">Get a Quote</a>
+
+  </div>
+  <button type="button" class="close" onclick="closemodal()">
+          <span aria-hidden="true">&times;</span>
+        </button>
+  </div>
+  <!-- <div class="popup">
+ 
+  <div class="pop-text">
+    <h3>You’ve arrived in time!</h3>
+    <div><span id="timer"></span></div>
+    <p>Want to give your Business an Online Presence?<br>
+Top-Notch Agency Work @Freelancer’s rate</p>
+<a class="et_pb_button et_pb_more_button et_pb_button_one" href="contact.php">Get a Quote</a>
+
+  </div>
+  </div> -->
+  </div>
+
 
 </div>
 <div id="o-wrapper" class="wrapper overflow-hidden">
