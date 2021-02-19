@@ -452,7 +452,7 @@ function closemodal(){
     $(".newsletter").removeClass("newsletter--show");
 }
 document.getElementById('timer').innerHTML =
-  05 + ":" + 00;
+  01 + ":" + 00;
 startTimer();
 
 function startTimer() {
