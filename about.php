@@ -1,6 +1,8 @@
 <?php 
 require('header.php'); 
 ?>
+<div id="o-wrapper" class="wrapper overflow-hidden">
+
 <section id="heroAbout" class="hero hero--full video-section">
 <div class="video-wrapper">
 <video class="video-bg" autoplay loop muted playsinline poster="assets/49c5770d/img/about-page/bg-poster.jpg">
@@ -66,17 +68,7 @@ Get yourself acquainted with SoftEzi's Tech experts, who have committed themselv
   <h2>Executive Board</h2>
   </div>
   <div class="team__block--list">
-  <div class="team__block--item">
-  <div class="team__block--image">
-  <div class="team-image">
-  <img src="assets/img/team/5.png" alt="">
-  </div>
-  <div class="team-content">
-  <h3>Harshal Adarkar</h3>
-  <span>Director<br> and Chief Marketing Officer </span>
-  </div>
-  </div>
-  </div>
+
   <div class="team__block--item">
   <div class="team__block--image">
   <div class="team-image">
@@ -306,10 +298,6 @@ Get yourself acquainted with SoftEzi's Tech experts, who have committed themselv
   <a class="footer__heading">Contacts</a>
 <a href="mailto:" class="footer__email"></a>
 <div class="footer__address">
-
-+91 967 3954 645<br />
-+91 952 9679 645<br />
-+91 860 0732 270<br />
 +91 860 0732 432<br />
 +91 957 9942 949<br />
 </div>

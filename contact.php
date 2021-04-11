@@ -557,7 +557,7 @@ This form collects your personal details so that we can contact you back to rais
 <li><h4>Pune</h4>
 </li>
 <li><strong>Atharva Residency, <br>Baner road,<br>Baner Pune - 45</strong></li>
-<li><em>+91 967 3954 645</em></li>
+<li><em>+91  860 0732 432</em></li>
 </ul>
 </li>
 <li>
@@ -565,7 +565,7 @@ This form collects your personal details so that we can contact you back to rais
 <li><h4>Mumbai</h4>
 </li>
 <li><strong>Runwal Pearl, D2-1503, Manorma Nagar,<br> Thane (W) 400607</strong></li>
-<li><em>+91 860 0732 270</em></li>
+<li><em>+91  860 0732 432</em></li>
 
 </ul>
 </li>
@@ -575,7 +575,7 @@ This form collects your personal details so that we can contact you back to rais
 </li>
 <li><strong>Pms building, pnra 28, padmanagar, paruthipara,<br> trivandrum -12
 </strong></li>
-<li><em>+91 952 9679 645</em></li>
+<li><em>+91  860 0732 432</em></li>
 
 </ul>
 </li>
@@ -606,9 +606,6 @@ This form collects your personal details so that we can contact you back to rais
 <a href="mailto:" class="footer__email"></a>
 <div class="footer__address">
 
-+91 967 3954 645<br />
-+91 952 9679 645<br />
-+91 860 0732 270<br />
 +91 860 0732 432<br />
 +91 957 9942 949<br />
 </div>

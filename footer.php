@@ -22,9 +22,7 @@
 <a href="mailto:" class="footer__email"></a>
 <div class="footer__address">
 
-+91 967 3954 645<br />
-+91 952 9679 645<br />
-+91 860 0732 270<br />
+
 +91 860 0732 432<br />
 +91 957 9942 949<br />
 </div>
@@ -445,9 +443,9 @@ $("#officesSlider").owlCarousel({
 
 });
 
-$(document).ready(function(){
-    $(".newsletter").addClass("newsletter--show");
-});
+// $(document).ready(function(){
+//     $(".newsletter").addClass("");
+// });
 function closemodal(){
     $(".newsletter").removeClass("newsletter--show");
 }
