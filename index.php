@@ -1,28 +1,7 @@
 <?php 
 require('header.php'); 
 ?>
-<!-- <div class="newsletter"  style="background-image: url('assets/img/consulting.jpg');">
-<div class="div-flex">
-<svg id="imgclip" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.44 350"><defs><style>.cls-1{fill:#fff;}</style></defs><title>wave</title><path class="cls-1" d="M438.33,376.54l3.22-11.67c3.09-11.66,9.7-35,11.21-58.33s-1.51-46.67-14.43-70-35.16-46.67-36.88-70,17.65-46.67,24.05-70-.09-46.67-3.19-58.33L419.1,26.54h57.7v350Z" transform="translate(-401.36 -26.54)"/></svg>
-  <div class="popup mob-pop"">
 
-<div class="pop-text">
-    <h2>You’ve arrived in time!</h2>
-    <div><span id="timer"></span></div>
-    <p>Want to give your Business an Online Presence?<br></p>
-    <hr>
-<h3>Top-Notch Agency Work @Freelancer’s rate</h3>
-<a class="get-touch btn" href="contact.php">Get a Quote</a>
-
-  </div>
-  <button type="button" class="close" onclick="closemodal()">
-          <span aria-hidden="true">&times;</span>
-        </button>
-  </div>
-  </div>
-
-
-</div> -->
 <div id="o-wrapper" class="wrapper overflow-hidden">
 <section>
 <div id="heroSliderNav" class="hero-slider hero-slider--nav owl-carousel test">
